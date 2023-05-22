@@ -1,0 +1,41 @@
+/* Developed by: Matheus Mielle Silva and Bereket Lemma
+May 19th, 2023 */
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Search Results</title>
+    <!--Ref.:https://stackoverflow.com/questions/22259847/application-not-picking-up-css-file-flask-python-->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+  </head>
+  <body>
+    <h1>Search Results</h1>
+    <table>
+      <thead>
+        <tr>
+          <!-- This is the table header row. It will contain the column headers for the table. -->
+          {% for key in results[0].keys() %}
+            <th>{{ key }}</th>
+          {% endfor %}
+        </tr>
+      </thead>
+      <tbody>
+        {% for result in results %}
+          <!-- This is the table body row. It will contain one row for each result in the results list. -->
+          <tr>
+            {% for value in result.values() %}
+              <!-- This is the table cell. It will contain one value from the current result. -->
+              <td>{{ value }}</td>
+            {% endfor %}
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </body>
+</html>
+
+<!--References:-->
+
+<!--https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table-->
+<!--https://stackoverflow.com/questions/14652325/python-dictionary-in-to-html-table-->

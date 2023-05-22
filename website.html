@@ -1,0 +1,55 @@
+/* Developed by: Matheus Mielle Silva and Bereket Lemma
+May 19th, 2023 */
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ChatGPT - Beta</title>
+    <style>
+      body {
+        background-color: #eaf2f8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        flex-direction: column;
+      }
+      h1 {
+        text-align: center;
+        font-family: Arial, sans-serif;
+        margin-top: 0;
+      }
+      form {
+        text-align: center;
+        margin-top: 20px;
+      }
+      input[type="text"] {
+        width: 300px;
+        height: 40px;
+        font-size: 18px;
+        text-align: center;
+      }
+      button[type="submit"] {
+        width: 120px;
+        height: 40px;
+        margin-top: 10px;
+        font-size: 20px;
+        background-color: #3a81c3; 
+        color: white;
+        border: none;
+        border-radius: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>ChatGPT - Beta</h1>
+    <form action="http://localhost:5000/search" method="get">
+      <label for="search" style="display: none;">Search:</label>
+      <br>
+      <input type="text" id="search" name="search">
+      <br>
+      <button type="submit">Go</button>
+    </form>
+  </body>
+</html>

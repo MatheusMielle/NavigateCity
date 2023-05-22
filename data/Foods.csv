@@ -1,0 +1,1323 @@
+Coq au vin,1,15,A classic French dish of braised chicken in red wine sauce.
+Boeuf bourguignon,1,20,Another classic French dish of beef stew in red wine sauce.
+Soupe à l'oignon gratinée,1,10,A French onion soup topped with Gruyère cheese and baked until golden brown.
+Tagine de kefta,2,15,A Moroccan dish of spiced meatballs in a slow-cooked tomato sauce.
+Couscous royal,2,20,A traditional Moroccan dish of couscous with lamb vegetables and raisins.
+Bisteeya,2,20,A flaky pastry filled with minced meat almonds and spices.
+Beignets,3,10,French doughnuts served with powdered sugar.
+Crêpes Suzette,3,15,Thin pancakes flambéed with orange liqueur and Grand Marnier.
+Profiteroles,3,20,Creamy choux pastry filled with ice cream and topped with chocolate sauce.
+Bacalhau à Brás,4,20,Portuguese cod dish with potatoes onions and eggs
+Arroz de Pato,4,18,Portuguese rice dish with duck sausage and vegetables
+Costeleta de Porco à Alentejana,4,25,Portuguese pork chop dish with clams garlic and parsley
+Moqueca Capixaba,5,22,Brazilian fish stew with coconut milk tomatoes and onions
+Feijoada Completa,5,20,Brazilian black bean stew with rice sausage and pork
+Vatapá,5,18,Brazilian seafood stew with bread coconut milk and peanuts
+Porterhouse Steak,6,50,Grilled New York strip steak
+Filet Mignon,6,40,Grilled beef tenderloin
+Ribeye Steak,6,35,Grilled rib steak
+Lobster Bisque,7,15,Creamy lobster soup
+Caesar Salad,7,10,Classic Caesar salad with romaine lettuce croutons and Parmesan cheese
+Filet Mignon with Lobster Mashed Potatoes,7,50,Grilled beef tenderloin with lobster mashed potatoes
+Lobster Risotto,8,25,Risotto with lobster saffron and white wine
+Veal Scaloppine,8,30,Seared veal scallops with lemon butter sauce
+Filet Mignon with Truffle Butter,8,40,Grilled beef tenderloin with truffle butter
+Pan-Seared Scallops,9,35,Pan-seared sea scallops with lemon butter sauce
+Seared Ahi Tuna,9,28,Seared ahi tuna with soy glaze and wasabi
+Grilled Salmon,9,25,Grilled salmon with lemon and dill
+Seafood Tower,10,50,Assortment of fresh seafood including shrimp lobster crab and oysters
+Cioppino,10,30,Seafood stew with tomatoes garlic and herbs
+Fish and Chips,10,15,Fried fish and french fries
+Wiener Schnitzel,11,15,Thinly pounded veal cutlet coated in breadcrumbs and deep-fried.
+Schweinsbraten,11,20,Roasted pork shoulder served with sauerkraut and dumplings.
+Knödel,11,10,Dumplings made from bread potatoes or flour.
+Beef Brisket,12,25,Slow-cooked beef brisket served with mashed potatoes and gravy.
+Smoked Turkey Legs,12,15,Smoked turkey legs served with your choice of sides.
+Macaroni & Cheese,12,12,Macaroni and cheese with a creamy cheddar cheese sauce.
+Wiener Schnitzel,13,15,Thinly pounded veal cutlet coated in breadcrumbs and deep-fried.
+Käsespätzle,13,12,Spätzle with melted cheese and onions.
+Apfelstrudel,13,10,Apple strudel with vanilla sauce.
+Beef Goulash,14,20,Beef stew with paprika onions and tomatoes.
+Wiener Schnitzel,14,15,Thinly pounded veal cutlet coated in breadcrumbs and deep-fried.
+Nockerln,14,10,Austrian dessert dumplings made with flour eggs and sugar.
+Chicken Caesar Salad,15,15,Romaine lettuce croutons Parmesan cheese and grilled chicken breast tossed in a Caesar dressing.
+Filet Mignon,15,30,6-ounce grilled filet mignon served with your choice of sides.
+New York Strip Steak,15,25,8-ounce grilled New York strip steak served with your choice of sides.
+Plov,16,15,Uzbek rice pilaf with meat vegetables and spices.
+Lagman,16,12,Noodle soup with meat vegetables and spices.
+Manty,16,10,Steamed dumplings filled with meat and onions.
+Meze Platter,17,20,Selection of small plates such as hummus baba ganoush falafel and phyllo pastries.
+Grilled Lamb Chops,17,25,Grilled lamb chops served with rice and vegetables.
+Chicken Shawarma,17,15,Chicken shawarma served in a pita with hummus tahini and vegetables.
+Beef Stroganoff,18,25,Seared beef tenderloin in a creamy stroganoff sauce with mushrooms onions and sour cream.
+Osetra Caviar,18,150,Imperial Osetra caviar from the Caspian Sea served on blini with sour cream and chopped egg.
+Caviar Pizza,18,20,Pizza topped with caviar cream cheese and dill.
+Chicken Manchurian,19,15,Chicken in a sweet and sour sauce with vegetables.
+Hakka Noodles,19,10,Noodles in a spicy sauce with vegetables and chicken.
+Fried Rice,19,12,Fried rice with vegetables and chicken.
+Chicken Biryani,20,18,Chicken cooked in a rice dish with spices.
+Mutton Biryani,20,20,Mutton cooked in a rice dish with spices.
+Vegetable Biryani,20,15,Vegetables cooked in a rice dish with spices.
+Falafel,21,10,Deep-fried balls made of chickpeas herbs and spices.
+Hummus,21,8,Chickpeas blended with tahini lemon juice and garlic.
+Shawarma,21,12,Grilled meat served in a pita with vegetables and tahini sauce.
+Barbacoa Tacos,22,10,Tacos filled with shredded beef barbacoa onions cilantro and salsa.
+Al pastor Tacos,22,10,Tacos filled with pork al pastor onions cilantro and salsa.
+Asada Tacos,22,10,Tacos filled with grilled steak onions cilantro and salsa.
+Vinho Verde,23,12,A light refreshing Portuguese wine.
+Port Wine,23,20,A sweet fortified Portuguese wine.
+Ginjinha,23,5,A Portuguese liqueur made from sour cherries.
+Feijoada,24,15,A Brazilian stew made with black beans sausage and pork.
+Moqueca,24,20,A Brazilian fish stew made with coconut milk tomatoes and onions.
+Arroz Carreteiro,24,12,A Brazilian rice dish made with beef bacon and onions.
+Tiramisu,25,10,An Italian dessert made with coffee-soaked ladyfingers mascarpone cheese and chocolate.
+Cannoli,25,8,An Italian pastry filled with ricotta cheese chocolate chips and candied fruit.
+Gelato,25,6,An Italian ice cream made with fresh fruit and milk.
+Vatapa,26,25,Creamy shrimp and crab stew with bread peanuts and coconut milk
+Pica Pau,26,20,Shrimp and pork skewers served with farofa (toasted manioc flour) and vinaigrette
+Carne de Sol,26,25,Dried salted beef that is shredded and served with a variety of accompaniments
+Moqueca de Camarão,27,30,Spicy shrimp stew served with rice and farofa
+Cuscuz Marroquino,27,25,Moroccan couscous with chickpeas raisins and almonds
+Carne de Panela,27,20,Stewed beef with tomatoes onions and garlic
+Sarapatel,28,25,Tripe stew with tomatoes onions and peppers
+Bife à Cavalo,28,20,Steak with fried eggs and onions
+Feijoada,28,25,Black bean stew with sausage bacon and beef
+Picanha,29,30,Grilled sirloin tip
+Filé Mignon,29,25,Grilled tenderloin steak
+Costela,29,20,Barbecued ribs
+Galeto Assado,30,25,Roasted chicken
+Frango à Passarinho,30,20,Fried chicken
+Linguiça Calabresa,30,15,Spicy sausage
+Peixe Assado,31,25,Grilled fish
+Arroz de Marisco,31,20,Seafood rice
+Moqueca de Peixe,31,30,Fish stew with coconut milk and vegetables
+Porco Preto,32,30,Slow-roasted pork shoulder
+Costela Suína,32,25,Barbecued pork ribs
+Picanha Suína,32,20,Grilled pork sirloin tip
+Pudim de Leite,33,15,Brazilian caramel custard
+Brigadeiro,33,10,Brazilian chocolate truffle
+Torta de Chocolate,33,15,Brazilian chocolate cake
+Picadão,34,15,A traditional Amazonian dish made with shredded beef bacon sausage and vegetables.
+Manaus Fish Soup,34,12,A hearty soup made with fish shrimp and vegetables.
+Manaus Cheese Bread,34,5,A delicious cheesy bread that is a must-try.
+Picanha Steak,35,20,A grilled sirloin steak that is cooked to perfection.
+Carne Seca,35,18,A dried beef dish that is slow-cooked until it is tender and flavorful.
+Maniçoba,35,15,A traditional Amazonian dish made with black beans pork and vegetables.
+Couve à Mineira,36,10,A Brazilian dish made with collard greens bacon sausage and onions.
+Feijoada,36,15,A traditional Brazilian dish made with black beans pork and sausage.
+Moqueca,36,20,A seafood stew made with coconut milk shrimp fish and vegetables.
+Empada de Frango,37,8,A chicken empanada that is filled with chicken cheese and vegetables.
+Empada de Queijo,37,7,A cheese empanada that is filled with cheese and vegetables.
+Empada de Carne,37,9,A beef empanada that is filled with beef cheese and vegetables.
+Brigadeiro,38,5,A Brazilian chocolate truffle that is made with condensed milk chocolate and butter.
+Pão de Queijo,38,3,A Brazilian cheese bread that is made with cheese flour and eggs.
+Cocada,38,4,A Brazilian coconut candy that is made with coconut milk sugar and eggs.
+Bacalhau à Gomes de Sá,39,25,A Portuguese codfish dish that is made with codfish potatoes onions and olives.
+Alheira de Mirandela,39,18,A Portuguese sausage that is made with bread chicken and pork.
+Francesinha,39,20,A Portuguese sandwich that is made with ham sausage steak cheese and a beer sauce.
+Bife de Chorizo,40,30,A tender beef steak with chimichurri sauce.
+Alheira,40,20,A traditional Portuguese sausage made from bread chicken and pork.
+Fondue Bourguignonne,40,40,A fondue made with beef pork and chicken.
+Espeto de Frango,41,15,A grilled chicken skewer served with rice and beans.
+Carne de Sol,41,25,A dried salted beef that is typically served with a variety of side dishes.
+Moqueca de Peixe,41,30,A fish stew made with coconut milk tomatoes and onions.
+Pizza Margherita,42,20,A classic pizza made with tomato sauce mozzarella cheese and fresh basil.
+Pizza Quatro Queijos,42,25,A pizza made with four cheeses: mozzarella provolone parmesan and pecorino romano.
+Pizza Funghi,42,30,A pizza made with mushrooms mozzarella cheese and a white sauce.
+Arroz de Marisco,43,30,A rice dish made with seafood vegetables and spices.
+Bobó de Camarão,43,25,A creamy shrimp stew made with coconut milk yams and vegetables.
+Vatapa,43,20,A creamy shrimp stew made with peanuts coconut milk and yams.
+Caranguejo à Moda da Ilha,44,35,A crab dish made with coconut milk tomatoes and onions.
+Caranguejo à Goiana,44,30,A crab dish made with a spicy sauce made with tomatoes onions and peppers.
+Caranguejo no Espeto,44,25,A grilled crab skewer served with rice and beans.
+Picadão,45,20,A ground beef stew made with tomatoes onions and spices.
+Bife à Cavalo,45,25,A beef steak served with fried eggs and onions.
+Filé Mignon à Parmegiana,45,30,A beef steak topped with mozzarella cheese and tomato sauce.
+Tarator,46,15,A yogurt-based soup made with cucumbers garlic and dill.
+Shopska Salada,46,10,A salad made with tomatoes cucumbers onions and peppers.
+Kebapche,46,20,A grilled minced meat kebab served with pita bread and vegetables.
+Sushi,47,10,A Japanese dish made with vinegared rice and raw fish or vegetables.
+Sashimi,47,15,A Japanese dish made with thinly sliced raw fish.
+Tempura,47,20,A Japanese dish made with battered and deep-fried seafood or vegetables.
+Chicken Parmesan,48,15,A breaded chicken cutlet topped with tomato sauce and mozzarella cheese.
+Spaghetti and Meatballs,48,12,Spaghetti noodles with meatballs in a tomato sauce.
+Lasagna,48,18,Layers of lasagna noodles meat sauce and ricotta cheese.
+Nkwobi,49,15,Beef shank palm oil and egusi soup.
+Egusi soup,49,10,Egusi soup spinach and goat meat.
+Fufu,49,5,Fufu egusi soup and goat meat.
+Ndolé,50,15,Spinach ndolé leaves and beef.
+Fonio,50,5,Fonio ndolé and beef.
+Salade de plantain,50,10,Plantain salad tomatoes and onions.
+Saucisse,51,10,Sausage fries and mayonnaise.
+Frites,51,5,Fries mayonnaise and ketchup.
+Sauce piquante,51,2,Hot sauce.
+Crepes,52,10,Crepes Nutella and bananas.
+Gaufre,52,8,Waffles powdered sugar and maple syrup.
+Cafe au lait,52,5,Coffee with steamed milk.
+Foie gras,53,30,Foie gras brioche and black truffles.
+Jambon persillé,53,20,Ham parsley and truffles.
+Tarte Tatin,53,15,Apple tart caramel sauce and vanilla ice cream.
+Croque monsieur,54,10,Ham and cheese sandwich béchamel sauce and Gruyère cheese.
+Salade niçoise,54,15,Niçoise salad tuna olives and hard-boiled eggs.
+Soupe à l'oignon,54,10,French onion soup Gruyère cheese and croutons.
+Ribs,55,30,Baby back ribs BBQ sauce and coleslaw.
+Filet mignon,55,40,Filet mignon mashed potatoes and asparagus.
+New York strip,55,35,New York strip mashed potatoes and asparagus.
+Crispy Shrimp Tacos,56,14,Crispy shrimp tacos with cabbage cilantro and lime
+Crab Cakes,56,18,Crab cakes with remoulade sauce
+Shrimp Scampi,56,22,Shrimp scampi with linguine and white wine sauce
+Chicken Parmesan,57,16,Chicken parmesan with spaghetti and marinara sauce
+Pasta Carbonara,57,18,Pasta carbonara with bacon eggs and Parmesan cheese
+Lasagna,57,20,Lasagna with meat sauce and ricotta cheese
+Filet Mignon,58,32,Filet mignon with roasted potatoes and asparagus
+New York Strip,58,28,New York strip with mashed potatoes and grilled vegetables
+Ribeye,58,30,Ribeye with baked potato and broccoli
+Baby Back Ribs,59,24,Baby back ribs with BBQ sauce and coleslaw
+Sirloin Steak,59,22,Sirloin steak with mashed potatoes and asparagus
+Chicken Fajitas,59,20,Chicken fajitas with rice and beans
+Chicken Caesar Salad,60,18,Chicken Caesar salad with croutons and Parmesan cheese
+Fish and Chips,60,16,Fish and chips with tartar sauce and coleslaw
+Mac and Cheese,60,14,Mac and cheese with bread crumbs and cheddar cheese
+Peking Duck,61,28,Peking duck with pancakes hoisin sauce and spring onions
+Roast Pork,61,26,Roast pork with plum sauce and pickled vegetables
+Stir-Fried Shrimp,61,24,Stir-fried shrimp with vegetables and rice
+Beijing Beef,62,22,Beijing beef with broccoli and carrots
+Kung Pao Chicken,62,20,Kung Pao chicken with peanuts and vegetables
+Sesame Chicken,62,18,Sesame chicken with rice or noodles
+Stir-Fried Tofu,63,16,Stir-fried tofu with vegetables and rice
+Mapo Tofu,63,18,Mapo tofu with ground beef and vegetables
+Wonton Soup,63,14,Wonton soup with shrimp pork and vegetables
+Peking Duck,64,40,A crispy juicy duck served with pancakes spring onions and hoisin sauce.
+Beijing Roasted Fish,64,30,A whole fish that is roasted in a clay oven until it is flaky and flavorful.
+Scallop with Black Truffle Sauce,64,50,Scallops that are seared and then sautéed in a black truffle sauce.
+Peking Duck,65,35,A crispy juicy duck served with pancakes spring onions and hoisin sauce.
+Scallop with Black Truffle Sauce,65,50,Scallops that are seared and then sautéed in a black truffle sauce.
+Beijing Roasted Fish,65,30,A whole fish that is roasted in a clay oven until it is flaky and flavorful.
+Stir-Fried Beef with Garlic Sauce,66,25,Thinly sliced beef that is stir-fried with garlic and vegetables.
+Scallop with Black Truffle Sauce,66,50,Scallops that are seared and then sautéed in a black truffle sauce.
+Beijing Roasted Fish,66,30,A whole fish that is roasted in a clay oven until it is flaky and flavorful.
+Stir-Fried Chicken with Cashews,67,20,Chicken that is stir-fried with cashews and vegetables.
+Scallop with Black Truffle Sauce,67,50,Scallops that are seared and then sautéed in a black truffle sauce.
+Beijing Roasted Fish,67,30,A whole fish that is roasted in a clay oven until it is flaky and flavorful.
+Stir-Fried Beef with Garlic Sauce,68,25,Thinly sliced beef that is stir-fried with garlic and vegetables.
+Scallop with Black Truffle Sauce,68,50,Scallops that are seared and then sautéed in a black truffle sauce.
+Beijing Roasted Fish,68,30,A whole fish that is roasted in a clay oven until it is flaky and flavorful.
+Stir-Fried Chicken with Cashews,69,20,Chicken that is stir-fried with cashews and vegetables.
+Scallop with Black Truffle Sauce,69,50,Scallops that are seared and then sautéed in a black truffle sauce.
+Beijing Roasted Fish,69,30,A whole fish that is roasted in a clay oven until it is flaky and flavorful.
+Stir-Fried Beef with Garlic Sauce,70,25,Thinly sliced beef that is stir-fried with garlic and vegetables.
+Scallop with Black Truffle Sauce,70,50,Scallops that are seared and then sautéed in a black truffle sauce.
+Beijing Roasted Fish,70,30,A whole fish that is roasted in a clay oven until it is flaky and flavorful.
+Stir-Fried Chicken with Cashews,71,20,Chicken that is stir-fried with cashews and vegetables.
+Scallop with Black Truffle Sauce,71,50,Scallops that are seared and then sautéed in a black truffle sauce.
+Beijing Roasted Fish,71,30,A whole fish that is roasted in a clay oven until it is flaky and flavorful.
+Chicken char siu bao,72,2.5,Steamed barbecued pork buns
+Banana tart,72,2,Deep-fried pastry filled with banana and custard
+Egg tarts,72,1.5,Portuguese egg tarts with flaky pastry and creamy custard filling
+Beef brisket hot pot,73,25,A traditional Chinese hot pot dish made with beef brisket vegetables and broth
+Shrimp hot pot,73,30,A hot pot dish made with shrimp vegetables and broth
+Chicken hot pot,73,20,A hot pot dish made with chicken vegetables and broth
+Mapo tofu,74,15,A spicy Sichuan dish made with tofu ground beef and chili peppers
+Kung pao chicken,74,18,A stir-fry dish made with chicken peanuts vegetables and chili peppers
+Dry pot chicken,74,20,A spicy Sichuan dish made with chicken vegetables and dry pot sauce
+Dan dan noodles,75,10,A Sichuan noodle dish made with hand-pulled noodles chili oil and ground beef
+Chongqing chicken,75,15,A spicy Sichuan dish made with chicken vegetables and chili peppers
+Biang biang noodles,75,12,A wide hand-pulled noodle dish from Xi'an
+Xiaolongbao,76,6,A steamed soup dumpling filled with pork and broth
+Shengjianbao,76,5,A pan-fried soup dumpling filled with pork and broth
+Jiaozi,76,4,A boiled or steamed dumpling filled with meat vegetables or both
+Wuhan hot pot,77,25,A traditional Chinese hot pot dish made with beef vegetables and broth
+Shrimp hot pot,77,30,A hot pot dish made with shrimp vegetables and broth
+Chicken hot pot,77,20,A hot pot dish made with chicken vegetables and broth
+Chuan cai,78,15,A Sichuan dish made with vegetables meat and chili peppers
+Mapo tofu,78,15,A spicy Sichuan dish made with tofu ground beef and chili peppers
+Kung pao chicken,78,18,A stir-fry dish made with chicken peanuts vegetables and chili peppers
+Harbin Da Dong,79,25,A traditional Chinese hot pot dish made with lamb vegetables and broth
+Shrimp hot pot,79,30,A hot pot dish made with shrimp vegetables and broth
+Chicken hot pot,79,20,A hot pot dish made with chicken vegetables and broth
+Harbin Ice Beer,80,2,A refreshing beer made with ice and snow from Harbin
+Mantou,80,1,A steamed white bun that is often served with dumplings or other dishes
+Pork Belly,80,3,A fatty and flavorful pork belly that is often roasted or braised
+Naan,81,2,A large round flatbread that is often served with curries or other dishes
+Tandoori Chicken,81,3,Chicken that is marinated in yogurt and spices and then cooked in a tandoor oven
+Chicken Tikka Masala,81,4,Chicken that is cooked in a creamy tomato sauce with spices
+Longjing Tea,82,2,A type of green tea that is grown in the Hangzhou area
+Spring Rolls,82,1,A type of spring roll that is filled with vegetables and shrimp
+Fried Dumplings,82,3,A type of dumpling that is filled with pork and vegetables and then fried
+West Lake Fish,83,5,A type of fish that is caught in West Lake and then cooked in a variety of ways
+Stir-Fried Fish with Vegetables,83,4,A dish of fish that is stir-fried with vegetables and spices
+Steamed Fish with Soy Sauce,83,3,A dish of fish that is steamed with soy sauce and ginger
+Xiaolongbao,84,2,A type of soup dumpling that is filled with pork and soup and then steamed
+Pork Xiaolongbao,84,3,A type of xiaolongbao that is filled with pork
+Vegetable Xiaolongbao,84,4,A type of xiaolongbao that is filled with vegetables
+Coconut Milk with Sago,85,2,A sweet and refreshing drink made with coconut milk sago and pandan leaves.
+Coconut Milk Jelly,85,3,A smooth and creamy jelly made with coconut milk agar-agar and sugar.
+Coconut Milk Ice Cream,85,4,A delicious and refreshing ice cream made with coconut milk sugar and cream.
+Shrimp with Oyster Sauce,86,10,Shrimp cooked in a savory sauce made with oyster sauce soy sauce ginger and garlic.
+Scallops with Black Bean Sauce,86,12,Scallops cooked in a flavorful sauce made with black bean sauce soy sauce ginger and garlic.
+Fried Fish with Sweet and Sour Sauce,86,8,Fish fillets fried and coated in a sweet and sour sauce.
+Beef Hot Pot,87,15,A traditional Chinese hot pot dish made with beef vegetables and broth.
+Seafood Hot Pot,87,20,A hot pot dish made with seafood vegetables and broth.
+Vegetarian Hot Pot,87,10,A hot pot dish made with vegetables tofu and broth.
+Handan Dumplings,88,5,Dumplings filled with pork chives and soy sauce.
+Pork Dumplings,88,4,Dumplings filled with pork ginger and garlic.
+Vegetable Dumplings,88,3,Dumplings filled with vegetables ginger and garlic.
+Liangpi,89,2,A cold noodle dish made with wheat noodles vinegar sesame oil and chili peppers.
+Cold Noodles with Sesame Sauce,89,3,A cold noodle dish made with wheat noodles sesame sauce and vegetables.
+Cold Noodles with Peanut Sauce,89,4,A cold noodle dish made with wheat noodles peanut sauce and vegetables.
+Braised Chicken,90,10,Chicken braised in a flavorful sauce made with soy sauce ginger and garlic.
+Roasted Chicken,90,8,Chicken roasted in a flavorful sauce made with soy sauce ginger and garlic.
+Fried Chicken,90,6,Chicken fried in a flavorful batter.
+Sour Fish,91,15,A traditional Yunnan dish made with sour fish bamboo shoots and vegetables.
+Chicken with Green Pepper,91,12,A flavorful dish of chicken and green peppers in a spicy sauce.
+Beef with Broccoli,91,10,A healthy and hearty dish of beef and broccoli in a light sauce.
+Crossing Bridge Rice Noodle,92,10,A famous Yunnan dish of rice noodles in a flavorful broth with meat vegetables and peanuts.
+Fried Rice Noodle,92,8,A simple but delicious dish of fried rice noodles with vegetables and eggs.
+Stir-Fried Rice Noodle,92,12,A flavorful dish of stir-fried rice noodles with meat vegetables and sauce.
+Stone Pot Fish,93,20,A delicious and hearty dish of fish cooked in a hot stone pot with vegetables and spices.
+Stone Pot Chicken,93,18,A flavorful dish of chicken cooked in a hot stone pot with vegetables and spices.
+Stone Pot Beef,93,22,A hearty and satisfying dish of beef cooked in a hot stone pot with vegetables and spices.
+Tangyuan,94,5,A traditional Chinese dessert made with glutinous rice flour and filled with sweet fillings.
+Jiaozi,94,3,A traditional Chinese dumpling filled with meat or vegetables.
+Wonton,94,4,A traditional Chinese dumpling filled with meat or vegetables.
+Mutton Soup,95,10,A hearty and flavorful soup made with mutton vegetables and spices.
+Lamb Soup,95,12,A delicious and satisfying soup made with lamb vegetables and spices.
+Beef Soup,95,8,A hearty and nourishing soup made with beef vegetables and spices.
+Shouxing Fish,96,25,A delicious and flavorful fish dish cooked in a special sauce.
+Shouxing Chicken,96,20,A flavorful chicken dish cooked in a special sauce.
+Shouxing Beef,96,22,A hearty and satisfying beef dish cooked in a special sauce.
+Jianbing,97,5,A traditional Chinese savory crepe made with wheat flour vegetables and eggs.
+Crispy Pancake,97,3,A crispy pancake made with wheat flour and vegetables.
+Stir-Fried Noodles,97,4,A flavorful dish of stir-fried noodles with meat vegetables and sauce.
+Baozi,98,2,A traditional Chinese steamed bun filled with meat or vegetables.
+Mantou,98,1,A traditional Chinese steamed bun filled with nothing.
+Youtiao,98,1,A traditional Chinese fried dough stick.
+Handan Dumplings,99,2,Steamed dumplings filled with pork chives and ginger.
+Pork Belly with Sticky Rice,99,4,Stir-fried pork belly with sticky rice and scallions.
+Stir-Fried Fish with Bean Sprouts,99,3,Stir-fried fish with bean sprouts carrots and onions.
+Niujie Rousi,100,5,Roast beef with cumin and coriander.
+Beef Noodle Soup,100,6,Noodle soup with beef brisket and vegetables.
+Stir-Fried Lamb with Green Beans,100,7,Stir-fried lamb with green beans onions and garlic.
+Beef with Pickled Vegetables,101,10,Thin slices of beef in a spicy soup with pickled vegetables.
+Spicy Fish Balls,101,8,Fish balls in a spicy soup with chili peppers and peanuts.
+Tofu with Minced Pork,101,6,Tofu cubes in a spicy soup with minced pork and vegetables.
+Crawfish in Spicy Sauce,102,15,Crawfish in a spicy sauce with chili peppers garlic and ginger.
+Crawfish with Salt and Pepper,102,12,Crawfish with salt pepper and garlic.
+Crawfish with Garlic Butter,102,10,Crawfish with garlic butter and parsley.
+Jiaozi,103,5,Dumplings filled with meat and vegetables steamed or pan-fried
+Tanghulu,103,3,Grilled skewers of candied fruit typically hawthorn berries
+Mantou,103,2,Steamed buns made from white flour often served with soup or stew
+Beijing Roast Duck,104,20,Duck that has been roasted in a wood-fired oven served with pancakes spring onions and hoisin sauce
+Peking duck soup,104,10,Soup made from the bones and skin of a roasted duck served with noodles
+Stir-fried green beans,104,5,Green beans stir-fried with garlic and soy sauce
+Lamian,105,10,Hand-pulled noodles served in a variety of broths and sauces
+Hand-pulled noodles with cumin lamb,105,15,Hand-pulled noodles served in a broth with cumin-spiced lamb
+Hand-pulled noodles with vegetables,105,8,Hand-pulled noodles served in a broth with vegetables
+Shrimp dumplings,106,12,Dumplings filled with shrimp water chestnuts and vegetables steamed or pan-fried
+Scallion pancakes,106,6,Thin pancakes made from wheat flour and scallions often served with dipping sauce
+Fried rice,106,8,Fried rice made with rice vegetables and meat or seafood
+Shrimp Wonton Soup,107,6.99,A delicious soup with shrimp wontons egg dumplings and chives in a flavorful broth.
+Fried Pork Dumplings,107,5.99,A classic Taiwanese dish of fried pork dumplings with a savory filling.
+Beef Noodle Soup,107,9.99,A hearty soup with tender beef noodles and vegetables in a flavorful broth.
+Pearl Milk Tea,108,4.99,A refreshing drink made with black tea milk and tapioca pearls.
+Oolong Milk Tea,108,5.99,A flavorful drink made with oolong tea milk and tapioca pearls.
+Green Milk Tea,108,6.99,A refreshing drink made with green tea milk and tapioca pearls.
+Beef Hot Pot,109,29.99,A shared dish of thinly sliced beef vegetables and noodles cooked in a hot pot.
+Shrimp Hot Pot,109,34.99,A shared dish of thinly sliced shrimp vegetables and noodles cooked in a hot pot.
+Lamb Hot Pot,109,39.99,A shared dish of thinly sliced lamb vegetables and noodles cooked in a hot pot.
+Jianbing,110,3.99,A savory Chinese pancake filled with egg scallions and other toppings.
+Crispy Wontons,110,4.99,Crispy wontons filled with a savory filling.
+Shrimp Fried Rice,110,6.99,Fried rice with shrimp eggs and vegetables.
+Beef Noodles,111,7.99,Noodles with beef vegetables and a flavorful sauce.
+Chicken Noodles,111,6.99,Noodles with chicken vegetables and a flavorful sauce.
+Vegetable Noodles,111,5.99,Noodles with vegetables and a flavorful sauce.
+Hand-Pulled Lanzhou Lamian,112,9.99,A type of Chinese hand-pulled noodle served in a flavorful broth.
+Beef Lanzhou Lamian,112,11.99,A type of Chinese hand-pulled noodle served in a flavorful broth with beef.
+Vegetable Lanzhou Lamian,112,10.99,A type of Chinese hand-pulled noodle served in a flavorful broth with vegetables.
+Mapo Tofu,113,12.99,A classic Sichuan dish of tofu in a spicy sauce.
+Kung Pao Chicken,113,14.99,A classic Sichuan dish of chicken in a spicy sauce.
+Dry Pot Fish,113,16.99,A Sichuan dish of fish cooked in a dry pot with vegetables and spices.
+Biang Biang Mian,114,10,Hand-pulled wide noodles in a spicy flavorful soup.
+Pork Chops with Garlic Sauce,114,15,Thick-cut pork chops coated in a savory garlic sauce.
+Stir-Fried Green Beans,114,8,Fresh green beans stir-fried with garlic and ginger.
+Scallion Pancake,115,5,Thin pancakes made with scallions and served with a dipping sauce.
+Wontons in Soup,115,10,Wontons in a flavorful broth with shrimp pork and vegetables.
+Fried Rice,115,7,Stir-fried rice with vegetables and your choice of protein.
+Noodles with Sesame Sauce,116,8,Noodles tossed in a sesame sauce with vegetables and your choice of protein.
+Fried Dumplings,116,7,Dumplings filled with pork and vegetables fried to golden brown.
+Wonton Soup,116,10,Wontons in a flavorful broth with shrimp pork and vegetables.
+Stir-Fried Fish,117,15,Fresh fish stir-fried with vegetables and your choice of sauce.
+Scallion Pancake,117,5,Thin pancakes made with scallions and served with a dipping sauce.
+Fried Rice,117,7,Stir-fried rice with vegetables and your choice of protein.
+Shrimp with Garlic Sauce,118,12,Shrimp coated in a savory garlic sauce.
+Scallops with Lemon Butter Sauce,118,15,Scallops sautéed in a lemon butter sauce.
+Fried Fish,118,15,Fresh fish fried to golden brown.
+Stir-Fried Chicken with Cashews,119,12,Chicken stir-fried with cashews and vegetables in a savory sauce.
+Stir-Fried Beef with Broccoli,119,15,Beef stir-fried with broccoli and vegetables in a savory sauce.
+Fried rice,119,7,A simple but delicious Chinese dish of rice fried with eggs vegetables and sometimes meat.
+Stir-Fried Shrimp with Snow Peas,120,15,Shrimp stir-fried with snow peas and vegetables in a savory sauce.
+Wonton Soup,120,10,Wontons in a flavorful broth with shrimp pork and vegetables.
+Fried Rice,120,7,Stir-fried rice with vegetables and your choice of protein.
+Dagu,121,10,A whole fish steamed or poached in a flavorful broth.
+Scallops with Lemon Butter Sauce,121,15,Scallops sautéed in a lemon butter sauce.
+Fried Fish,121,15,Fresh fish fried to golden brown.
+Xiao Long Bao,122,6,Steamed soup dumplings with pork filling
+Fried Dumplings,122,5,Fried dumplings with pork filling
+Boiled Wantan,122,4,Boiled dumplings with shrimp filling
+Braised Pork Buns,123,5,Steamed buns filled with braised pork belly pickled vegetables and hoisin sauce.
+Wonton Soup,123,7,Wontons in a flavorful chicken broth with vegetables.
+Beef Noodle Soup,123,8,Noodles in a hearty beef broth with vegetables and thinly sliced beef.
+Ceviche Mixto,124,10,A mix of ceviche of shrimp octopus and fish.
+Ceviche de Camarones,124,8,Ceviche of shrimp.
+Ceviche de Pulpo,124,9,Ceviche of octopus.
+Picanha,125,20,A grilled picanha steak with chimichurri sauce.
+Alitas de Pollo,125,15,Fried chicken wings with your choice of sauce.
+Churrasco Mixto,125,25,A mix of grilled meats including picanha chicken and sausage.
+Hamburguesa de la Casa,126,15,A juicy burger with your choice of toppings.
+Patacones con Hogao,126,10,Fried plantains with a tomato and onion sauce.
+Arepa con Queso,126,5,A corn pancake with cheese.
+Bandeja Paisa,127,15,A traditional Colombian dish of rice beans meat eggs and plantains.
+Ajiaco,127,12,A creamy chicken and potato soup.
+Sancocho,127,10,A hearty beef and vegetable soup.
+Picadillo,128,12,A ground beef stew with vegetables.
+Lengua en Salsa,128,15,Beef tongue in a tomato sauce.
+Pollo a la Brasa,128,18,Roasted chicken.
+Ceviche de Atún,129,12,Ceviche of tuna.
+Ceviche de Salmón,129,14,Ceviche of salmon.
+Parrillada Mixta,129,25,A mix of grilled meats including chicken fish and shrimp.
+Punta de Filete,130,25,A grilled filet mignon steak.
+Mignon Wellington,130,30,A filet mignon steak wrapped in puff pastry and baked.
+Carne Asada,130,20,Grilled skirt steak.
+Carne Asada,131,15,Grilled steak with chimichurri sauce
+Pollo a la Brasa,131,12,Roasted chicken with rice and beans
+Papas Fritas,131,5,French fries with ketchup
+Ceviche Mixto,132,10,Shrimp octopus and fish marinated in citrus juices
+Lomo Saltado,132,15,Stir-fried beef with onions tomatoes and peppers
+Arroz Chaufa,132,12,Fried rice with chicken or shrimp
+Paella Valenciana,133,20,Spanish rice dish with seafood chicken and sausage
+Fabada Asturiana,133,15,Bean stew with sausage ham and chorizo
+Callos a la Madrileña,133,12,Tripe stew with white beans and chorizo
+Carne al Trapo,134,15,Grilled meat wrapped in banana leaves
+Picadillo,134,12,Ground beef stew with potatoes and raisins
+Llajua,134,5,Chili sauce made with tomatoes onions and peppers
+Arroz con Mariscos,135,15,Seafood rice dish with shrimp octopus and fish
+Ceviche de Camarones,135,10,Shrimp ceviche with onions tomatoes and peppers
+Lomo Saltado,135,15,Stir-fried beef with onions tomatoes and peppers
+Pollo a la Brasa,136,12,Roasted chicken with rice and beans
+Anticuchos,136,10,Beef heart skewers marinated in aji panca sauce
+Papas Fritas,136,5,French fries with ketchup
+Carne Asada,137,15,Grilled steak with chimichurri sauce
+Pollo a la Brasa,137,12,Roasted chicken with rice and beans
+Papas Fritas,137,5,French fries with ketchup
+Arroz con Leche,138,10,Rice pudding with cinnamon and raisins
+Tres Leches Cake,138,12,Cake soaked in three milks
+Mango Sticky Rice,138,5,Sticky rice with mango and coconut milk
+Falafel,139,10,Deep-fried balls of chickpeas and herbs
+Hummus,139,5,Dip made with chickpeas tahini and lemon juice
+Shawarma,139,15,Grilled meat with pita bread vegetables and sauce
+Koshari,140,10,Egyptian dish of rice lentils macaroni and chickpeas topped with tomato sauce garlic vinegar and cumin
+Ful Medames,140,5,Stewed fava beans with garlic lemon juice and olive oil
+Tahini Sauce,140,5,Dip made with tahini lemon juice garlic and water
+Falafel,141,3,Deep-fried balls of ground chickpeas fava beans and herbs.
+Koshari,141,4,A dish of lentils rice macaroni chickpeas and tomato sauce.
+Taameya,141,2,Falafel made with fava beans instead of chickpeas.
+Ful Medames,142,3,A stew of fava beans cooked with garlic lemon juice and olive oil.
+Molokhiya,142,4,A soup made with jute leaves garlic lemon juice and olive oil.
+Kebab,142,2,A grilled meat dish typically made with lamb or beef.
+Kafta,143,3,A grilled meatball dish made with ground beef lamb and spices.
+Shawarma,143,4,A grilled meat dish made with lamb beef or chicken and then shaved off a vertical spit.
+Falafel,143,2,Deep-fried balls of ground chickpeas fava beans and herbs.
+Biryani,144,3,A rice dish made with meat vegetables and spices.
+Naan,144,4,A flatbread made with wheat flour water and yeast.
+Chicken Tikka Masala,144,2,A creamy curry made with chicken tikka tomatoes and spices.
+Doro Wat,145,3,A stew made with chicken onions garlic ginger and spices.
+Injera,145,4,A sourdough flatbread made with teff flour.
+Misir Wot,145,2,A stew made with lentils onions garlic ginger and spices.
+Tibs,146,3,A stir-fry made with beef or lamb onions garlic ginger and spices.
+Yemisir Wot,146,4,A stew made with lentils onions garlic ginger and spices.
+Ayib,146,2,A type of cheese made from cow's milk.
+Doro Wat,147,3,A stew made with chicken onions garlic ginger and spices.
+Injera,147,4,A sourdough flatbread made with teff flour.
+Misir Wot,147,2,A stew made with lentils onions garlic ginger and spices.
+Mylläri Burger,148,3,A burger made with beef cheddar cheese lettuce tomato onion and pickles.
+Mylläri Pulled Pork,148,4,Pulled pork served with coleslaw and fries.
+Mylläri Fish & Chips,148,2,Fish and chips served with tartar sauce and fries.
+Kerttu's Pie,149,3,A pie made with seasonal fruit custard or cream.
+Lohikeitto,149,4,A fish soup made with salmon potatoes carrots and onions.
+Poronkäristys,149,2,A stew made with reindeer meat onions and spices.
+Savulohi,150,3,Smoked salmon served with dill sauce and rye bread.
+Karjalanpiirakka,150,4,A savory pie made with rye flour butter and milk.
+Mansikkapiirakka,150,2,A sweet pie made with strawberries vanilla custard and whipped cream.
+Escargots de Bourgogne,151,12,Snails cooked in garlic butter and parsley sauce.
+Coq au Vin,151,24,Chicken stewed in red wine with bacon mushrooms and onions.
+Soupe à l'oignon gratinée,151,10,Onion soup topped with Gruyère cheese and broiled until golden brown.
+Tartare de boeuf,152,28,Raw beef steak tartare with shallots capers and Dijon mustard.
+Choucroute garnie,152,32,Sauerkraut with smoked sausage pork and bacon.
+Flammekueche,152,18,Alsatian tart with bacon onions and cheese.
+Canard à l'orange,153,36,Duck roasted with orange sauce.
+Tarte Tatin,153,16,Upside-down apple tart.
+Soufflé au Grand Marnier,153,12,Sour cream soufflé with Grand Marnier sauce.
+Côte de boeuf,154,52,Roast beef with béarnaise sauce.
+Pavé de saumon,154,42,Pan-seared salmon fillet with dill sauce.
+Soupe de poissons,154,18,Fish soup with shrimp mussels and scallops.
+Bavette frites,155,20,Steak frites with fries.
+Moules frites,155,18,Mussels steamed in white wine with fries.
+Crêpes Suzette,155,12,Thin pancakes flambéed with orange liqueur.
+Omble chevalier,156,48,Lake trout with beurre blanc sauce.
+Filet de perche,156,36,Perch fillet with tartar sauce.
+Fondue bourguignonne,156,32,Meat fondue with beef pork and lamb.
+Thon grillé,157,24,Grilled tuna steak with lemon and herbs.
+Bar à la plancha,157,28,Sea bass grilled on a plancha griddle.
+Soupe de pistou,157,16,Vegetable soup with pistou (basil pesto).
+Côte de veau,158,48,Veal chop with demi-glace sauce.
+Filet mignon,158,42,Filet mignon with béarnaise sauce.
+Soufflé au chocolat,158,12,Chocolate soufflé.
+Aiguillette de canard,159,28,Duck confit with potatoes and carrots.
+Cassoulet,159,32,Bean stew with duck sausage and pork.
+Tarte aux fraises,159,16,Strawberry tart.
+Khachapuri,160,12,Georgian cheese bread.
+Lobio,160,10,Bean stew with herbs and spices.
+Chhatapuri,160,8,Georgian flatbread with cheese.
+Khinkali,161,10,Georgian dumplings filled with meat or cheese
+Khachapuri,161,12,Georgian cheese bread
+Lobio,161,8,Georgian bean stew
+Khinkali,162,10,Georgian dumplings filled with meat or cheese
+Khachapuri,162,12,Georgian cheese bread
+Chhatschapuri,162,15,Georgian boat-shaped cheese bread
+Schlossschnitzel,163,20,Schnitzel with a mushroom sauce
+Forelle Müllerin Art,163,25,Pan-fried trout with a lemon sauce
+Schweinsbraten mit Knödel,163,22,Roast pork with dumplings
+Steak,164,30,Steak of your choice
+Ribs,164,25,Baby back ribs
+Salmon,164,28,Salmon fillet
+Pasta all'arrabbiata,165,15,Pasta with a spicy tomato sauce
+Pasta carbonara,165,18,Pasta with a creamy sauce made with eggs and bacon
+Pasta alla Norma,165,17,Pasta with a tomato sauce and eggplant
+Schweinsbraten mit Knödel,166,22,Roast pork with dumplings
+Schweinebraten mit Soße,166,20,Roast pork with gravy
+Schnitzel mit Pommes frites,166,20,Schnitzel with fries
+Fischbrötchen,167,10,Fish sandwich
+Steakbrötchen,167,12,Steak sandwich
+Currywurst,167,8,Sausage with curry ketchup and curry powder
+Schweinsbraten mit Knödel,168,22,Roast pork with dumplings
+Schweinebraten mit Soße,168,20,Roast pork with gravy
+Schnitzel mit Pommes frites,168,20,Schnitzel with fries
+Käsespätzle,169,15,Spätzle with cheese
+Sauerbraten,169,20,Braised beef with a sweet and sour sauce
+Schweinsbraten mit Knödel,169,22,Roast pork with dumplings
+Fischfilet mit Kartoffeln,170,18,Fish fillet with potatoes
+Hähnchenfilet mit Pommes frites,170,16,Chicken fillet with fries
+Schweinebraten mit Knödel,170,22,Roast pork with dumplings
+Kölsch,171,4, A traditional German beer brewed in Düsseldorf.
+Himmel und Erde,171,12, A traditional German dish of pork sausage sauerkraut and applesauce.
+Schweinebraten mit Knödeln,171,18, A traditional German dish of roast pork with dumplings.
+Ceviche Nikkei,172,15, A Peruvian dish of raw fish marinated in citrus juices chilies and onions.
+Anticuchos de Corazón,172,12, A Peruvian dish of grilled beef heart skewers.
+Lomo Saltado,172,18, A Peruvian dish of stir-fried beef onions tomatoes and peppers.
+Arroz con Pato,173,15, A Colombian dish of rice with duck plantains and raisins.
+Ajiaco Santafereño,173,12, A Colombian dish of chicken soup with potatoes corn and capers.
+Bandeja Paisa,173,18, A Colombian dish of rice beans meat eggs plantains and arepas.
+Callos a la Madrileña,174,15, A Spanish dish of tripe stew with white beans potatoes and chorizo.
+Fabada Asturiana,174,12, A Spanish dish of bean stew with chorizo morcilla and panceta.
+Paella Valenciana,174,18, A Spanish dish of rice with seafood chicken and vegetables.
+Chicken Tikka Masala,175,15, A British dish of chicken in a creamy tomato sauce with spices.
+Dal Makhani,175,12, A Punjabi dish of black lentils and kidney beans in a creamy tomato sauce with spices.
+Naan,175,18, A leavened flatbread made from wheat flour water and yeast.
+Tamarind Fish,176,15, A South Indian dish of fish in a tamarind sauce with spices.
+Chicken Chettinad,176,12, A South Indian dish of chicken in a spicy curry with spices.
+Vegetable Biryani,176,18, A South Indian dish of rice with vegetables spices and herbs.
+Chicken Tikka,177,15, A North Indian dish of chicken marinated in yogurt and spices then grilled.
+Lamb Rogan Josh,177,12, A North Indian dish of lamb in a creamy tomato sauce with spices.
+Dal Makhani,177,18, A Punjabi dish of black lentils and kidney beans in a creamy tomato sauce with spices.
+Chicken Biryani,178,15, A rice dish with chicken spices and herbs.
+Veggie Biryani,178,12, A rice dish with vegetables spices and herbs.
+Fish Biryani,178,18, A rice dish with fish spices and herbs.
+Beef Stroganoff,179,15, A Russian dish of beef in a sour cream sauce with mushrooms.
+Chicken Kiev,179,12, A Ukrainian dish of chicken cutlets stuffed with butter and herbs then breaded and fried.
+Pelmeni,179,18, A Russian dumpling filled with meat cheese or vegetables.
+Chicken Tikka Masala,180,15, A British dish of chicken in a creamy tomato sauce with spices.
+Dal Makhani,180,12, A Punjabi dish of black lentils and kidney beans in a creamy tomato sauce with spices.
+Naan,180,18, A leavened flatbread made from wheat flour water and yeast.
+Chicken Tikka Masala,181,15,A creamy and flavorful dish made with chicken tikka tomatoes and spices.
+Naan Bread,181,5,A soft and fluffy flatbread that is perfect for scooping up curries and other dishes.
+Dal Makhani,181,12,A rich and creamy lentil dish that is perfect for vegetarians.
+Tandoori Chicken,182,20,A succulent and flavorful chicken dish that is cooked in a tandoor oven.
+Fish Curry,182,18,A flavorful and aromatic fish curry that is made with a variety of spices.
+Vegetable Biryani,182,15,A flavorful and aromatic rice dish that is made with a variety of vegetables.
+Mutton Biryani,183,25,A flavorful and aromatic rice dish that is made with mutton.
+Chicken Tikka,183,20,A succulent and flavorful chicken dish that is marinated in yogurt and spices.
+Naan Bread,183,5,A soft and fluffy flatbread that is perfect for scooping up curries and other dishes.
+Chicken Biryani,184,18,A flavorful and aromatic rice dish that is made with chicken.
+Mutton Korma,184,25,A creamy and flavorful dish made with mutton yogurt and spices.
+Dal Makhani,184,12,A rich and creamy lentil dish that is perfect for vegetarians.
+Chicken Tikka Masala,185,15,A creamy and flavorful dish made with chicken tikka tomatoes and spices.
+Naan Bread,185,5,A soft and fluffy flatbread that is perfect for scooping up curries and other dishes.
+Dal Makhani,185,12,A rich and creamy lentil dish that is perfect for vegetarians.
+Hyderabadi Biryani,186,20,A flavorful and aromatic rice dish that is made with a variety of spices.
+Chicken Tikka,186,20,A succulent and flavorful chicken dish that is marinated in yogurt and spices.
+Naan Bread,186,5,A soft and fluffy flatbread that is perfect for scooping up curries and other dishes.
+Idli,187,5,A soft and fluffy steamed rice cake that is perfect for breakfast.
+Sambar,187,5,A flavorful and aromatic lentil soup that is perfect for breakfast.
+Vada,187,5,A savory donut-shaped fritter that is made with lentils and spices.
+Falafel,188,10,A crispy and flavorful deep-fried ball made with chickpeas parsley and spices.
+Hummus,188,8,A creamy and flavorful dip made with chickpeas tahini and lemon juice.
+Tabbouleh,188,7,A refreshing and flavorful salad made with bulgur wheat tomatoes cucumbers and parsley.
+Vegetable Biryani,189,15,A flavorful and aromatic rice dish that is made with a variety of vegetables.
+Chicken Tikka Masala,189,15,A creamy and flavorful dish made with chicken tikka tomatoes and spices.
+Naan Bread,189,5,A soft and fluffy flatbread that is perfect for scooping up curries and other dishes.
+Dosa,190,5,A thin and crispy crepe made with fermented rice and lentil batter.
+Sambar,190,5,A flavorful and aromatic lentil soup that is perfect for breakfast.
+Vada,190,5,A savory donut-shaped fritter that is made with lentils and spices.
+Chicken Tikka Masala,191,15,A rich and creamy curry made with chicken tikka tomatoes and cream.
+Lamb Rogan Josh,191,20,A hearty and flavorful curry made with lamb yogurt and spices.
+Naan,191,5,A soft and fluffy flatbread that is perfect for scooping up curries.
+Dosa,192,10,A thin and crispy crepe made from fermented rice and lentil batter.
+Idli,192,7,A soft and fluffy steamed cake made from fermented rice and lentil batter.
+Samosa,192,5,A savory pastry filled with potatoes peas and spices.
+Biryani,193,18,A flavorful rice dish made with meat vegetables and spices.
+Dal Makhani,193,12,A creamy and flavorful lentil dish made with black lentils kidney beans and spices.
+Naan,193,5,A soft and fluffy flatbread that is perfect for scooping up curries.
+Kheer,194,10,A sweet and creamy rice pudding made with milk sugar and nuts.
+Jalebi,194,5,A deep-fried sweet made from batter that is twisted into spirals.
+Ladoo,194,7,A sweet and chewy candy made from sugar milk and nuts.
+Pav Bhaji,195,10,A savory dish made with mashed potatoes vegetables and spices.
+Vada Pav,195,5,A savory snack made from a deep-fried potato fritter and a bun.
+Bhel Puri,195,7,A savory snack made from puffed rice sev vegetables and tamarind chutney.
+Dal Makhani,196,12,A creamy and flavorful lentil dish made with black lentils kidney beans and spices.
+Chicken Tikka Masala,196,15,A rich and creamy curry made with chicken tikka tomatoes and cream.
+Naan,196,5,A soft and fluffy flatbread that is perfect for scooping up curries.
+Chicken Biryani,197,18,A flavorful rice dish made with chicken vegetables and spices.
+Mutton Biryani,197,20,A flavorful rice dish made with lamb vegetables and spices.
+Naan,197,5,A soft and fluffy flatbread that is perfect for scooping up curries.
+Tandoori Chicken,198,15,Chicken that is marinated in yogurt and spices and then cooked in a tandoor oven.
+Chicken Tikka Masala,198,15,A rich and creamy curry made with chicken tikka tomatoes and cream.
+Naan,198,5,A soft and fluffy flatbread that is perfect for scooping up curries.
+Chicken Biryani,199,18,A flavorful rice dish made with chicken vegetables and spices.
+Mutton Biryani,199,20,A flavorful rice dish made with lamb vegetables and spices.
+Naan,199,5,A soft and fluffy flatbread that is perfect for scooping up curries.
+Dal Makhani,200,12,A creamy and flavorful lentil dish made with black lentils kidney beans and spices.
+Chicken Tikka Masala,200,15,A rich and creamy curry made with chicken tikka tomatoes and cream.
+Naan,200,5,A soft and fluffy flatbread that is perfect for scooping up curries.
+Nasi Goreng Kampung,201,5,Aromatic fried rice with chicken vegetables and shrimp.
+Ayam Goreng,201,6,Fried chicken with a crispy coating and juicy meat.
+Soto Ayam,201,7,Chicken soup with rice noodles shredded chicken and vegetables.
+Nasi Goreng Kambing,202,20,Fried rice with goat meat
+Ayam Goreng,202,15,Fried chicken
+Sate Ayam,202,10,Satay chicken
+Soto Betawi,203,25,Beef soup with rice and blood
+Gado-gado,203,20,Vegetable salad with peanut sauce
+Es Campur,203,15,Fruit salad with shaved ice
+Sate Padang,204,30,Beef satay with spicy sauce
+Nasi Kapau,204,25,Rice with assorted side dishes
+Gulai Kepala Ikan,204,35,Fish head curry
+Soto Betawi,205,25,Beef soup with rice and blood
+Nasi Goreng,205,20,Fried rice
+Ayam Goreng,205,15,Fried chicken
+Rujak Cingur,206,20,Cucumber salad with beef and tongue
+Gado-gado,206,20,Vegetable salad with peanut sauce
+Es Teler,206,15,Fruit salad with coconut milk
+Soto Lamongan,207,20,Beef soup with rice and vermicelli
+Nasi Goreng,207,15,Fried rice
+Ayam Goreng,207,10,Fried chicken
+Coto Makassar,208,10,A traditional soup of beef offal and spices from Makassar South Sulawesi Indonesia.
+Sop Konro,208,15,A beef soup with blackened ribs from Makassar South Sulawesi Indonesia.
+Ikan Pallu Basa,208,20,A steamed fish dish with a spicy coconut sauce from Makassar South Sulawesi Indonesia.
+Nasi Goreng,209,5,Aromatic rice stir-fried with vegetables and choice of protein
+Soto Ayam,209,6,Chicken soup with rice noodles shredded chicken and vegetables
+Es Teler,209,4,Fruit salad with coconut milk jelly and syrup
+Soto Makassar,210,7,Beef soup with rice noodles beef and vegetables
+Bakso,210,5,Beef meatballs in soup with rice noodles and vegetables
+Coto Makassar,210,8,Beef tripe soup with rice noodles and vegetables
+Gheymeh Bademjan,211,10, Grilled eggplant with tomatoes onions and kidney beans
+Fesenjan,211,15, A stew made with pomegranate molasses walnuts and chicken or duck
+Khoresht Gheymeh,211,20, A stew made with kidney beans tomatoes and lamb or beef
+Fesenjan,212,15, A stew made with pomegranate molasses walnuts and chicken or duck
+Khoresht Gheymeh,212,20, A stew made with kidney beans tomatoes and lamb or beef
+Chelow Kabab,212,25, Grilled skewered lamb or beef served with rice
+Kabab Koobideh,213,20, Ground beef and lamb kebabs
+Kabab Barg,213,25, Lamb chops
+Kabab Torsh,213,20, Grilled lamb with tamarind sauce
+Gheymeh Bademjan,214,10, Grilled eggplant with tomatoes onions and kidney beans
+Fesenjan,214,15, A stew made with pomegranate molasses walnuts and chicken or duck
+Khoresht Gheymeh,214,20, A stew made with kidney beans tomatoes and lamb or beef
+Ash Reshteh,215,10, A noodle soup with herbs beans and lamb
+Ghormeh Sabzi,215,15, A herb stew made with kidney beans tomatoes and lamb or beef
+Fesenjan,215,20, A stew made with pomegranate molasses walnuts and chicken or duck
+Jujeh Kabab,216,20, Grilled chicken kebabs
+Gheymeh Bademjan,216,10, Grilled eggplant with tomatoes onions and kidney beans
+Fesenjan,216,15, A stew made with pomegranate molasses walnuts and chicken or duck
+Khoresht Gheymeh,217,20, A stew made with kidney beans tomatoes and lamb or beef
+Gheymeh Bademjan,217,10, Grilled eggplant with tomatoes onions and kidney beans
+Fesenjan,217,15, A stew made with pomegranate molasses walnuts and chicken or duck
+Zereshk Polo,218,20, A rice dish with barberries saffron and chicken or beef
+Ghormeh Sabzi,218,15, A herb stew made with kidney beans tomatoes and lamb or beef
+Fesenjan,218,20, A stew made with pomegranate molasses walnuts and chicken or duck
+Shish Kebab,219,20, Grilled skewered lamb or beef
+Kabab Koobideh,219,20, Ground beef and lamb kebabs
+Kabab Barg,219,25, Lamb chops
+Mansaf,220,25, A traditional Jordanian dish made with lamb yogurt and rice
+Kabsa,220,20, A traditional Saudi Arabian dish made with rice chicken and spices
+Machboos,220,25, A traditional Emirati dish made with rice fish and spices
+Chicken Shawarma,221,10,Grilled chicken with tahini sauce hummus and vegetables
+Lamb Kebab,221,12,Grilled lamb with tzatziki sauce rice and salad
+Falafel,221,8,Deep-fried chickpeas with tahini sauce hummus and vegetables
+Hummus,222,6,Chickpeas blended with tahini lemon juice and garlic
+Falafel,222,8,Deep-fried chickpeas with tahini sauce hummus and vegetables
+Shawarma,222,10,Grilled meat with tahini sauce hummus and vegetables
+Chicken Biryani,223,15,Chicken cooked with rice spices and herbs
+Mutton Biryani,223,20,Mutton cooked with rice spices and herbs
+Vegetable Biryani,223,12,Vegetables cooked with rice spices and herbs
+Chicken Tikka Masala,224,15,Chicken cooked in a creamy tomato sauce with spices
+Lamb Rogan Josh,224,20,Lamb cooked in a spicy tomato sauce with yogurt
+Vegetable Korma,224,12,Vegetables cooked in a creamy coconut sauce with spices
+Chicken Kabsa,225,15,Chicken cooked with rice spices and herbs
+Mutton Kabsa,225,20,Mutton cooked with rice spices and herbs
+Vegetable Kabsa,225,12,Vegetables cooked with rice spices and herbs
+Pasta Carbonara,226,15,Pasta cooked with bacon eggs and Parmesan cheese
+Pasta Arrabbiata,226,12,Pasta cooked with tomatoes garlic and chili peppers
+Pasta Alfredo,226,10,Pasta cooked with cream Parmesan cheese and butter
+Pizza Margherita,227,15,Pizza with tomato sauce mozzarella cheese and basil
+Pizza Marinara,227,12,Pizza with tomato sauce garlic and oregano
+Pizza Diavola,227,10,Pizza with tomato sauce mozzarella cheese and spicy salami
+Spaghetti Bolognese,228,15,Spaghetti cooked with a meat sauce made with ground beef tomatoes and herbs
+Spaghetti Carbonara,228,12,Spaghetti cooked with bacon eggs and Parmesan cheese
+Spaghetti alle Vongole,228,10,Spaghetti cooked with clams garlic and white wine
+Tiramisu,229,8,Ladyfingers soaked in coffee and layered with a creamy mascarpone filling
+Cannoli,229,6,Cannoli shells filled with a sweet ricotta cheese filling
+Profiteroles,229,10,Deep-fried pastry puffs filled with a creamy chocolate filling
+Tiramisu,230,8,Ladyfingers soaked in coffee and layered with a creamy mascarpone filling
+Cannoli,230,6,Cannoli shells filled with a sweet ricotta cheese filling
+Profiteroles,230,10,Deep-fried pastry puffs filled with a creamy chocolate filling
+Margherita,231,10,A classic Neapolitan pizza with fresh mozzarella tomatoes and basil.
+Prosciutto e Funghi,231,15,A pizza topped with prosciutto mushrooms and mozzarella.
+Pepperoni,231,12,A pizza topped with pepperoni mozzarella and red sauce.
+Aloko,232,10,A traditional Ivorian dish made with beef tomatoes and onions.
+Feuilleté d'Aloko,232,12,A flaky pastry filled with beef tomatoes and onions.
+Aloko Soumbala,232,15,A traditional Ivorian dish made with beef tomatoes onions and soumbala (a fermented locust bean powder).
+Coq au Vin,233,20,A classic French dish made with chicken red wine mushrooms and bacon.
+Boeuf Bourguignon,233,25,A classic French dish made with beef red wine carrots and onions.
+Tartare de Boeuf,233,22,A French dish made with raw ground beef shallots capers and Dijon mustard.
+Poulet Yassa,234,15,A Senegalese dish made with chicken onions tomatoes and lemon juice.
+Thieboudienne,234,20,A Senegalese dish made with rice fish vegetables and tomatoes.
+Maffe,234,18,A Senegalese dish made with beef peanut butter and tomatoes.
+Sushi Roll,235,10,A sushi roll made with rice seaweed and your choice of fillings.
+Sashimi,235,15,A dish of thinly sliced raw fish.
+Nigiri,235,12,A sushi roll made with rice and a single piece of raw fish.
+Ebi Fry,236,10,A dish of fried shrimp with tempura batter.
+Unagi Kabayaki,236,15,A dish of grilled eel glazed with sweet soy sauce.
+Takoyaki,236,12,A ball of batter filled with octopus tempura flakes and mayonnaise.
+Tonkotsu Ramen,237,15,A Japanese noodle soup made with pork broth noodles and toppings such as pork belly nori and scallions.
+Shoyu Ramen,237,12,A Japanese noodle soup made with soy sauce broth noodles and toppings such as pork belly nori and scallions.
+Miso Ramen,237,10,A Japanese noodle soup made with miso broth noodles and toppings such as pork belly nori and scallions.
+Ippudo Hakata Classic,238,15,A tonkotsu ramen made with pork broth noodles and toppings such as pork belly nori and scallions.
+Ippudo Karaka Men,238,12,A spicy tonkotsu ramen made with pork broth noodles and toppings such as pork belly nori and scallions.
+Ippudo Shoyu Men,238,10,A shoyu ramen made with soy sauce broth noodles and toppings such as pork belly nori and scallions.
+Aburi Salmon Nigiri,239,15,A sushi roll made with rice and a piece of salmon that has been seared with a torch.
+Beef Tataki,239,12,A dish of thinly sliced beef that has been seared and served with ponzu sauce.
+Edamame,239,10,A dish of steamed soybeans.
+Udon,240,15,A thick Japanese noodle made with wheat flour.
+Tempura,240,12,A dish of seafood or vegetables that have been battered and deep-fried.
+Sushi,240,10,A dish of rice and raw fish.
+Tonkotsu Ramen,241,10,A rich and flavorful tonkotsu broth with chewy noodles and tender pork belly.
+Shoyu Ramen,241,9,A light and refreshing shoyu broth with thin noodles and a variety of toppings.
+Miso Ramen,241,8,A hearty miso broth with thick noodles and a variety of toppings.
+Tantanmen,242,12,A spicy and flavorful tantanmen broth with thick noodles and ground pork.
+Shoyu Mazesoba,242,10,A light and refreshing shoyu broth with thin noodles and a variety of toppings.
+Miso Mazesoba,242,9,A hearty miso broth with thick noodles and a variety of toppings.
+Shio Ramen,243,8,A light and refreshing shio broth with thin noodles and a variety of toppings.
+Miso Ramen,243,9,A hearty miso broth with thick noodles and a variety of toppings.
+Tantanmen,243,12,A spicy and flavorful tantanmen broth with thick noodles and ground pork.
+Tonkotsu Ramen,244,10,A rich and flavorful tonkotsu broth with chewy noodles and tender pork belly.
+Shoyu Ramen,244,9,A light and refreshing shoyu broth with thin noodles and a variety of toppings.
+Miso Ramen,244,8,A hearty miso broth with thick noodles and a variety of toppings.
+Sukiyabashi Jiro Special Omakase,245,300,A 20-course omakase featuring the finest sushi and sashimi.
+Sukiyabashi Jiro Special Omakase with A5 Wagyu,245,400,A 20-course omakase featuring the finest sushi and sashimi as well as A5 wagyu beef.
+Sukiyabashi Jiro Special Omakase with Uni,245,500,A 20-course omakase featuring the finest sushi and sashimi as well as uni (sea urchin).
+Katsu Curry,246,15,A delicious katsu curry with a flavorful curry sauce and a crispy katsu.
+Katsudon,246,12,A hearty katsudon with a fried pork cutlet and a delicious egg on top.
+Katsu Udon,246,10,A comforting katsu udon with a fried pork cutlet and a savory udon broth.
+Okonomiyaki,247,10,A savory Japanese pancake with cabbage pork belly and a variety of toppings.
+Takoyaki,247,5,A Japanese ball-shaped snack made with batter and octopus.
+Oden,247,8,A Japanese hot pot dish with a variety of ingredients including fish cakes tofu and eggs.
+Momoya Special Omakase,248,200,A 10-course omakase featuring the finest sushi and sashimi.
+Momoya Special Omakase with A5 Wagyu,248,300,A 10-course omakase featuring the finest sushi and sashimi as well as A5 wagyu beef.
+Momoya Special Omakase with Uni,248,400,A 10-course omakase featuring the finest sushi and sashimi as well as uni (sea urchin).
+Okonomiyaki,249,10,A savory Japanese pancake with cabbage pork belly and a variety of toppings.
+Takoyaki,249,5,A Japanese ball-shaped snack made with batter and octopus.
+Oden,249,8,A Japanese hot pot dish with a variety of ingredients including fish cakes tofu and eggs.
+Falafel,250,6,A delicious falafel with a crispy exterior and a fluffy interior.
+Hummus,250,5,A creamy hummus with a flavorful tahini sauce.
+Shawarma,250,10,A flavorful shawarma with a crispy exterior and a juicy interior.
+Chicken Shawarma,251,5, Grilled chicken with tahini sauce hummus and vegetables.
+Falafel,251,4, Deep-fried balls of chickpeas and herbs.
+Hummus,251,3, Chickpea dip with tahini sauce garlic and lemon juice.
+Mezze Platter,252,10, A selection of appetizers including hummus baba ganoush tabbouleh and falafel.
+Kafta Kebab,252,12, Grilled ground beef and lamb kebabs.
+Chicken Shawarma,252,10, Grilled chicken with tahini sauce hummus and vegetables.
+Muffin,253,3, A small cake-like bread that is typically served for breakfast or brunch.
+Latte,253,5, A coffee drink made with espresso and steamed milk.
+Cappuccino,253,4, A coffee drink made with espresso steamed milk and foamed milk.
+Nyama Choma,254,15, Grilled meat typically beef or goat.
+Ugali,254,3, A thick maize-based porridge.
+Sukuma Wiki,254,2, A dish of collard greens cooked with tomatoes onions and spices.
+Nyama Choma,255,15, Grilled meat typically beef or goat.
+Ugali,255,3, A thick maize-based porridge.
+Sukuma Wiki,255,2, A dish of collard greens cooked with tomatoes onions and spices.
+Hummus,256,5,A creamy chickpea dip with tahini garlic lemon juice and olive oil.
+Falafel,256,7,Deep-fried balls of chickpeas and fava beans.
+Shawarma,256,10,Grilled meat vegetables and spices wrapped in pita bread.
+Mansaf,257,15,A traditional Jordanian dish of lamb cooked in a yogurt sauce.
+Kabsa,257,12,A traditional Saudi Arabian dish of rice cooked with meat and spices.
+Machboos,257,10,A traditional Emirati dish of rice cooked with meat and spices.
+Falafel,258,5,Deep-fried balls of chickpeas and fava beans.
+Shawarma,258,10,Grilled meat vegetables and spices wrapped in pita bread.
+Hummus,258,5,A creamy chickpea dip with tahini garlic lemon juice and olive oil.
+Quesadillas,259,10,A Mexican dish of tortillas filled with cheese and other ingredients then grilled.
+Tacos,259,5,A Mexican dish of small tortillas filled with meat vegetables and other ingredients.
+Burritos,259,12,A Mexican dish of a large tortilla filled with meat vegetables and other ingredients.
+Tostada,260,8,A Mexican dish of a fried tortilla topped with meat vegetables and other ingredients.
+Mole,260,15,A Mexican sauce made with chili peppers chocolate and spices.
+Enchiladas,260,12,A Mexican dish of tortillas filled with meat vegetables and other ingredients then covered in sauce and cheese.
+Crispy Pata,261,15,Deep-fried pork leg with adobo sauce
+Mofongo,261,12,Fried plantains mashed with garlic chicharrones and pork rinds
+Arroz Con Pollo,261,10,Rice with chicken vegetables and adobo sauce
+Beef Tagine,262,20,Slow-cooked beef stew with preserved lemons olives and spices
+Chicken Tagine,262,18,Slow-cooked chicken stew with preserved lemons olives and spices
+Vegetable Tagine,262,16,Slow-cooked vegetable stew with preserved lemons olives and spices
+Chicken pastilla,263,25,Thin sheets of pastry filled with chicken almonds and spices baked and served with a sweet and savory sauce
+Moroccan couscous,263,20,Couscous with vegetables raisins and spices
+Shrimp couscous,263,22,Couscous with shrimp vegetables raisins and spices
+Beef Wellington,264,45,Beef tenderloin wrapped in puff pastry and baked
+Seared scallops,264,35,Seared scallops with a lemon butter sauce
+Macaroni and cheese,264,25,Classic macaroni and cheese with a crispy top
+Chicken Momo,265,12,Steamed dumplings filled with chicken and spices
+Kati Roll,265,10,A wrap filled with chicken vegetables and spices
+Dal Bhat,265,8,Rice and lentil dish with vegetables and a side of papad
+Tandoori Chicken,266,15,Chicken marinated in yogurt and spices then cooked in a tandoor oven
+Naan,266,2,Flatbread cooked in a tandoor oven
+Dal Makhani,266,10,Black lentils cooked in a creamy tomato sauce
+Chicken Tikka Masala,267,18,Chicken cooked in a creamy tomato sauce with spices
+Himalayan Momo,267,12,Steamed dumplings filled with chicken and spices
+Vegetable Biryani,267,15,Rice dish with vegetables and spices
+Pancakes,268,8,Fluffy pancakes with your choice of toppings
+Waffles,268,10,Light and crispy waffles with your choice of toppings
+French toast,268,12,Thick slices of bread soaked in egg and milk then fried
+Beef Bourguignon,269,25,Slow-cooked beef stew with red wine mushrooms and bacon
+Coq au Vin,269,20,Chicken stew with red wine mushrooms and bacon
+Duck Confit,269,22,Duck legs that have been cured and then slowly cooked in their own fat
+Croque Monsieur,270,15,Grilled ham and cheese sandwich with béchamel sauce
+Croque Madame,270,17,Grilled ham and cheese sandwich with béchamel sauce and a fried egg on top
+Quiche Lorraine,270,12,Quiche made with bacon eggs and cheese
+Chicken Shawarma,271,10,Grilled chicken marinated in a blend of herbs and spices served with pita bread hummus and vegetables.
+Falafel,271,8,Deep-fried balls of ground chickpeas served with tahini sauce hummus and vegetables.
+Lamb Kebab,271,12,Grilled lamb cubes marinated in a blend of herbs and spices served with pita bread hummus and vegetables.
+Chicken Tikka Masala,272,15,Chicken marinated in a blend of spices and yogurt cooked in a creamy tomato sauce.
+Naan Bread,272,2,A leavened flatbread made with white flour water yeast and salt.
+Biryani,272,18,A rice dish made with meat vegetables and spices.
+Moo-Sha-Ka-Bob,273,12,Grilled beef cubes marinated in a blend of herbs and spices served with plantains rice and beans.
+Fufu,273,3,A dough made from cassava flour boiled and served with soup or stew.
+Egusi Soup,273,10,A Nigerian soup made with melon seeds spinach and meat or fish.
+Jjigae,274,14,A Korean stew made with meat vegetables and tofu.
+Kimchi,274,5,A Korean side dish made with fermented cabbage radish and other vegetables.
+Bibimbap,274,12,A Korean rice bowl topped with vegetables meat and an egg.
+Jajangmyeon,275,10,A popular Korean noodle dish with black bean sauce.
+Bulgogi,275,15,A Korean dish of grilled marinated beef.
+Bibimbab,275,12,A Korean rice bowl topped with vegetables meat and gochujang sauce.
+Manduguk,276,10,A Korean soup made with dumplings.
+Tteokbokki,276,12,A Korean dish of stir-fried rice cakes in a spicy gochujang sauce.
+Dolsot bibimbap,276,15,A Korean rice bowl topped with vegetables meat and gochujang sauce served in a hot stone bowl.
+Chicken biryani,277,10,A Pakistani rice dish made with chicken spices and herbs.
+Lamb biryani,277,12,A Pakistani rice dish made with lamb spices and herbs.
+Fish biryani,277,15,A Pakistani rice dish made with fish spices and herbs.
+Nihari,278,10,A Pakistani stew made with slow-cooked beef shanks in a rich gravy.
+Haleem,278,12,A Pakistani stew made with lentils meat and spices.
+Palak paneer,278,15,A North Indian dish made with spinach paneer cheese and spices.
+Nihari boti,279,10,A Pakistani dish made with slow-cooked lamb shanks in a rich gravy.
+Tandoori chicken,279,12,A North Indian dish made with chicken marinated in yogurt and spices and then cooked in a tandoor oven.
+Chicken tikka masala,279,15,A British dish made with chicken tikka in a creamy tomato sauce.
+Lahori grill,280,10,A Pakistani dish made with grilled meats and vegetables.
+Dal makhani,280,12,A North Indian dish made with black lentils kidney beans and spices.
+Naan,280,15,A type of Indian flatbread.
+Chicken Tikka Masala,281,15,A creamy and flavorful dish made with chicken tikka in a tomato-based sauce.
+Naan,281,2,A soft fluffy flatbread that is perfect for scooping up curries and other dishes.
+Biryani,281,18,A rice dish that is typically made with meat vegetables and spices.
+Chicken Karahi,282,16,A spicy chicken dish that is cooked in a karahi or wok-like pan.
+Lamb Biryani,282,20,A rice dish that is typically made with lamb vegetables and spices.
+Dal Makhani,282,12,A creamy lentil dish that is made with black lentils kidney beans and spices.
+Nihari,283,17,A slow-cooked beef stew that is made with bone-in beef yogurt and spices.
+Haleem,283,13,A thick stew made with lentils meat and spices.
+Tandoori Chicken,283,14,Chicken that is marinated in yogurt and spices and then cooked in a tandoor or clay oven.
+Chicken Tikka,284,15,Chicken that is marinated in yogurt and spices and then cooked in a tandoor or clay oven.
+Chicken Biryani,284,18,A rice dish that is typically made with chicken vegetables and spices.
+Naan,284,2,A soft fluffy flatbread that is perfect for scooping up curries and other dishes.
+Mutton Biryani,285,20,A rice dish that is typically made with mutton vegetables and spices.
+Chicken Karahi,285,16,A spicy chicken dish that is cooked in a karahi or wok-like pan.
+Dal Makhani,285,12,A creamy lentil dish that is made with black lentils kidney beans and spices.
+Chicken Tikka,286,15,Chicken that is marinated in yogurt and spices and then cooked in a tandoor or clay oven.
+Chicken Biryani,286,18,A rice dish that is typically made with chicken vegetables and spices.
+Naan,286,2,A soft fluffy flatbread that is perfect for scooping up curries and other dishes.
+Gulab Jamun,287,5,A sweet dish made with milk solids rose water and sugar.
+Falooda,287,6,A refreshing drink made with rose syrup milk ice cream and vermicelli.
+Shahi Tukda,287,7,A sweet dish made with bread milk and sugar.
+Chicken Tikka Masala,288,15,A creamy and flavorful dish made with chicken tikka in a tomato-based sauce.
+Naan,288,2,A soft fluffy flatbread that is perfect for scooping up curries and other dishes.
+Biryani,288,18,A rice dish that is typically made with chicken vegetables and spices.
+Asado,289,25,A grilled meat dish that is typically made with beef lamb or pork.
+Choripan,289,10,A sausage sandwich that is typically made with chorizo sausage chimichurri sauce and bread.
+Empanadas,289,8,A savory pastry that is typically filled with meat cheese or vegetables.
+Fajitas,290,12,A Tex-Mex dish that is typically made with grilled beef chicken or shrimp onions and peppers.
+Burrito,290,10,A Tex-Mex dish that is typically made with a flour tortilla beans rice meat cheese and vegetables.
+Tacos,290,8,A Tex-Mex dish that is typically made with a corn tortilla meat cheese and vegetables.
+Spaghetti Carbonara,291,15,A classic Italian pasta dish made with spaghetti pancetta eggs and Parmesan cheese.
+Pizza Margherita,291,12,A simple yet delicious pizza made with fresh mozzarella tomatoes and basil.
+Tiramisu,291,10,A rich and creamy dessert made with coffee-soaked ladyfingers and a layer of mascarpone cheese.
+Attiéké au poisson,292,10,A traditional Ivorian dish made with rice-like couscous grilled fish and vegetables.
+Soupe Kôkô,292,8,A hearty and flavorful soup made with chicken okra and tomatoes.
+Aloco,292,5,A crispy fried plantain dish served with a variety of sauces.
+Tartare de saumon,293,20,A fresh and flavorful salmon tartare served with capers dill and a lemon wedge.
+Moules frites,293,15,A classic Belgian dish made with mussels and fries.
+Crêpes Suzette,293,12,A decadent dessert made with crêpes orange sauce and Grand Marnier.
+Moules marinières,294,15,A simple yet delicious dish made with mussels white wine and shallots.
+Coq au vin,294,20,A hearty and flavorful chicken stew made with red wine bacon and mushrooms.
+Boeuf bourguignon,294,25,A classic French beef stew made with red wine carrots and onions.
+Kamayan,295,15,A Filipino feast of grilled meats seafood and vegetables served on banana leaves.
+Lumpia,295,10,A Filipino spring roll filled with ground pork shrimp and vegetables.
+Halo-halo,295,5,A refreshing Filipino dessert made with shaved ice fruits and sweet beans.
+Chickenjoy,296,10,A crispy fried chicken dish served with gravy and rice.
+Jollibee Spaghetti,296,8,A sweet and savory spaghetti dish served with meatballs and a side of garlic bread.
+Chicken adobo,296,6,A Filipino dish of chicken cooked in soy sauce vinegar garlic and black peppercorns.
+Chicken inasal,297,10,A grilled chicken dish marinated in a special sauce.
+Sinigang na baboy,297,9,A sour soup made with pork vegetables and tamarind.
+Bicol express,297,12,A spicy pork dish made with chili peppers shrimp paste and coconut milk.
+Pad thai,298,15,A stir-fried noodle dish made with rice noodles shrimp chicken and vegetables.
+Tom yum goong,298,12,A spicy and sour soup made with shrimp lemongrass and galangal.
+Khao soi,298,10,A creamy noodle curry dish made with coconut milk curry paste and chicken.
+Bacalhau à brás,299,20,A Portuguese dish made with codfish potatoes onions and eggs.
+Alheira de Mirandela,299,15,A sausage made with bread chicken and pork.
+Francesinha,299,12,A sandwich made with bread ham sausage steak and cheese covered in a rich tomato and beer sauce.
+Pastel de nata,300,5,A Portuguese egg tart made with a flaky crust and a creamy custard filling.
+Alheira de caça,300,15,A sausage made with game birds chicken and pork.
+Arroz de marisco,300,20,A seafood rice dish made with shrimp crab clams and mussels.
+Ceviche,301,10,Fresh fish marinated in citrus juices onions and cilantro.
+Arroz con pollo,301,12,Chicken and rice cooked in a flavorful tomato sauce.
+Pollo a la brasa,301,15,Roasted chicken served with potatoes and vegetables.
+Mofongo,302,10,Fried plantains mashed with garlic pork rinds and chicharrones.
+Pernil,302,12,Roasted pork shoulder served with rice and beans.
+Tostones,302,8,Fried green plantains served with garlic sauce.
+Tacos al pastor,303,10,Grilled pork tacos with pineapple cilantro and onions.
+Quesadillas,303,12,Cheese quesadillas filled with your choice of meat vegetables or both.
+Burritos,303,15,Beef chicken or pork burritos served with rice and beans.
+Pelmeni,304,10,Dumplings filled with ground beef and potatoes.
+Blini,304,8,Thin pancakes served with sour cream and caviar.
+Solyanka,304,12,Hearty soup made with beef sausage vegetables and sour cream.
+Beef stroganoff,305,10,Sautéed beef in a creamy sauce with mushrooms and onions.
+Chicken Kiev,305,12,Chicken cutlets stuffed with ham and cheese then breaded and fried.
+Pelmeni,305,8,Dumplings filled with ground beef and potatoes.
+Chicken Kiev,306,10,Chicken cutlets stuffed with ham and cheese then breaded and fried.
+Beef stroganoff,306,12,Sautéed beef in a creamy sauce with mushrooms and onions.
+Solyanka,306,8,Hearty soup made with beef sausage vegetables and sour cream.
+Vareniki,307,10,Dumplings filled with potatoes cheese or fruit.
+Borscht,307,8,Beet soup with sour cream and dill.
+Kvas,307,5,Fermented rye bread drink.
+Pelmeni,308,10,Dumplings filled with ground beef and potatoes.
+Blini,308,8,Thin pancakes served with sour cream and caviar.
+Solyanka,308,12,Hearty soup made with beef sausage vegetables and sour cream.
+Vareniki,309,10,Dumplings filled with potatoes cheese or fruit.
+Borscht,309,8,Beet soup with sour cream and dill.
+Kvas,309,5,Fermented rye bread drink.
+Beef stroganoff,310,10,Sautéed beef in a creamy sauce with mushrooms and onions.
+Chicken Kiev,310,12,Chicken cutlets stuffed with ham and cheese then breaded and fried.
+Pelmeni,310,8,Dumplings filled with ground beef and potatoes.
+Chicken Kiev,311,15,A breaded chicken breast stuffed with garlic butter and herbs.
+Beef Stroganoff,311,20,Sautéed beef strips in a creamy sauce with mushrooms and sour cream.
+Pierogi,311,10,Potato dumplings filled with cheese meat or vegetables.
+Steak Tartare,312,25,Raw ground beef seasoned with capers onions and herbs.
+Potato Pancakes,312,12,Thin pancakes made from grated potatoes and onions.
+Cabbage Rolls,312,15,Ground beef and rice wrapped in cabbage leaves and cooked in tomato sauce.
+Chicken Shawarma,313,10,Grilled chicken marinated in garlic and lemon juice served in a pita with tahini sauce vegetables and fries.
+Falafel,313,8,Deep-fried balls made from ground chickpeas fava beans and herbs.
+Hummus,313,6,A dip made from chickpeas tahini lemon juice and garlic.
+Mutton Mandi,314,25,A rice dish cooked with lamb yogurt and spices.
+Chicken Biryani,314,20,A rice dish cooked with chicken spices and herbs.
+Naan,314,5,A type of flatbread made from wheat flour and water.
+Chicken Tikka Masala,315,15,A creamy curry made with chicken tomatoes and spices.
+Dal Makhani,315,10,A lentil dish cooked with kidney beans black beans and spices.
+Naan,315,5,A type of flatbread made from wheat flour and water.
+Chicken Manakish,316,3.5,A traditional Lebanese dish of baked dough topped with thyme za'atar and olive oil.
+Falafel,316,2.5,A deep-fried ball made of ground chickpeas fava beans and herbs.
+Hummus,316,3,A creamy dip made of chickpeas tahini lemon juice and garlic.
+Chicken Shawarma,317,5,A grilled chicken dish that is typically served in a pita with tahini hummus vegetables and sauces.
+Lamb Mandi,317,6,A slow-cooked lamb dish that is served with rice yogurt and pine nuts.
+Kabsa,317,7,A rice dish that is typically made with chicken lamb or seafood.
+Chicken Adobo,318,4,A Filipino dish of chicken that is marinated in soy sauce vinegar garlic and black peppercorns.
+Chicken Inasal,318,5,A Filipino dish of grilled chicken that is marinated in a mixture of soy sauce calamansi juice and annatto.
+Picadillo,318,4,A Filipino dish of ground beef that is cooked with raisins potatoes and vegetables.
+Beef Hor Fun,319,5,A stir-fried dish of flat rice noodles beef and vegetables.
+Char Kway Teow,319,4,A stir-fried dish of flat rice noodles shrimp cockles and vegetables.
+Laksa,319,6,A spicy noodle soup that is typically made with chicken or seafood.
+Chicken Rice,320,4,A dish of poached chicken that is served with rice chili sauce and ginger.
+Char Siew,320,5,A barbecued pork dish that is typically served with rice and vegetables.
+Rojak,320,3,A salad dish that is typically made with fruits vegetables and nuts.
+Char Kway Teow,321,4,Stir-fried flat rice noodles with shrimp egg and Chinese sausage
+Chicken Rice,321,5,Steamed chicken served with rice and chili sauce
+Laksa,321,6,Spicy noodle soup with shrimp fish cakes and tofu
+Beef Wellington,322,20,Beef tenderloin wrapped in puff pastry and baked
+Seared Scallops,322,30,Seared scallops with a lemon beurre blanc sauce
+Truffle Mac and Cheese,322,25,Macaroni and cheese with truffle oil and Parmesan cheese
+Chicken Pot Pie,323,15,Chicken pot pie with a flaky crust
+Fish and Chips,323,12,Fried fish and chips with tartar sauce
+Mushroom Risotto,323,20,Risotto with mushrooms and Parmesan cheese
+Steak Tartare,324,25,Raw beef tartare with capers onions and egg yolk
+Caviar,324,100,Caviar served on blinis with sour cream and chives
+Tiramisu,324,15,Tiramisu with coffee-flavored sponge cake and mascarpone cheese
+Chocolate Lava Cake,325,12,Chocolate lava cake with vanilla ice cream
+Cheesecake,325,10,New York cheesecake with a graham cracker crust
+Tiramisu,325,15,Tiramisu with coffee-flavored sponge cake and mascarpone cheese
+Beef Bourguignon,326,25,A classic French stew made with beef red wine and vegetables.
+Chicken Pot Pie,326,18,A hearty and comforting dish made with chicken vegetables and a flaky crust.
+Macaroni and Cheese,326,15,A classic comfort food made with macaroni noodles and a creamy cheese sauce.
+Beef Jerky,327,12,A flavorful and healthy snack made with beef that has been dried and seasoned.
+Chicken Wings,327,15,A classic appetizer made with chicken wings that have been fried and tossed in your choice of sauce.
+Falafel,327,10,A Middle Eastern dish made with deep-fried chickpeas that are served in a pita with hummus tahini and vegetables.
+Beef Bibimbap,328,15,A Korean dish made with rice vegetables and thinly sliced beef that is served in a hot stone bowl.
+Dak Galbi,328,20,A Korean dish made with chicken that is marinated in a sweet and spicy sauce and then grilled.
+Japchae,328,12,A Korean dish made with stir-fried glass noodles vegetables and beef.
+Kalbi,329,25,A Korean dish made with short ribs that are marinated in a sweet and spicy sauce and then grilled.
+Bibimbap,329,15,A Korean dish made with rice vegetables and beef that is served in a hot stone bowl.
+Tteokbokki,329,10,A Korean dish made with stir-fried rice cakes in a spicy gochujang sauce.
+Galbi,330,25,A Korean dish made with short ribs that are marinated in a sweet and spicy sauce and then grilled.
+Bulgogi,330,20,A Korean dish made with thinly sliced beef that is marinated in a soy sauce and sesame oil sauce and then grilled.
+Japchae,330,12,A Korean dish made with stir-fried glass noodles vegetables and beef.
+Dolsot Bibimbap,331,10,A traditional Korean dish of rice mixed with vegetables meat and gochujang sauce served in a hot stone bowl.
+Bulgogi Bibimbap,331,12,A Bibimbap with thinly sliced beef.
+Japchae Bibimbap,331,14,A Bibimbap with stir-fried glass noodles.
+Galbi,332,15,Grilled short ribs marinated in a sweet and savory sauce.
+Dak Galbi,332,17,Grilled chicken ribs marinated in a sweet and savory sauce.
+Samgyeopsal,332,19,Grilled pork belly.
+Sujebi,333,8,A Korean noodle soup made with hand-cut noodles vegetables and meat.
+Jjapaguri,333,10,A Korean noodle stir-fry made with Chapagetti and Neoguri noodles vegetables and meat.
+Tteokbokki,333,12,A Korean spicy rice cake dish made with rice cakes gochujang sauce and vegetables.
+Bibimbap,334,10,A traditional Korean dish of rice mixed with vegetables meat and gochujang sauce served in a hot stone bowl.
+Bulgogi Bibimbap,334,12,A Bibimbap with thinly sliced beef.
+Japchae Bibimbap,334,14,A Bibimbap with stir-fried glass noodles.
+Galbi,335,15,Grilled short ribs marinated in a sweet and savory sauce.
+Dak Galbi,335,17,Grilled chicken ribs marinated in a sweet and savory sauce.
+Samgyeopsal,335,19,Grilled pork belly.
+Daegu Sundubu Jjigae,336,10,Spicy tofu stew with seafood and vegetables
+Daegu Bibimbap,336,12,Rice bowl with vegetables meat and egg
+Daegu Japchae,336,15,Stir-fried glass noodles with vegetables and meat
+Paella Mixta,337,20,Mixed paella with seafood chicken and sausage
+Arroz Negro,337,18,Black rice paella with seafood
+Gambas al Ajillo,337,15,Shrimp in garlic sauce
+Arroz a la Cubana,338,18,Cuban rice dish with ham sausage and vegetables
+Paella Valenciana,338,20,Valencian paella with chicken rabbit and vegetables
+Picadillo a la Habanera,338,15,Cuban ground beef stew
+Tapas Mixta,339,15,Assortment of tapas
+Croquetas de Jamón,339,12,Ham croquettes
+Patatas Bravas,339,10,Fried potatoes in spicy sauce
+Cochinillo Asado,340,30,Roasted suckling pig
+Callos a la Madrileña,340,20,Tripe stew
+Fabada Asturiana,340,25,Bean stew with sausage ham and bacon
+Croquetas de jamón ibérico,341,4, Deep-fried croquettes filled with Iberian ham and béchamel sauce.
+Patatas bravas,341,5, Fried potatoes with a spicy tomato sauce.
+Gambas al ajillo,341,10, Shrimps sautéed in garlic and olive oil.
+Albondigas con salsa de tomate,342,7, Meatballs in tomato sauce.
+Paella valenciana,342,15, Traditional Valencian paella made with rice chicken rabbit and seafood.
+Arroz negro,342,12, Black rice dish made with squid cuttlefish and shrimp.
+Shawarma,343,6, Grilled meat (usually chicken or lamb) served in pita bread with vegetables and sauces.
+Falafel,343,5, Deep-fried chickpea balls served in pita bread with vegetables and sauces.
+Hummus,343,4, Chickpea dip made with tahini lemon juice and garlic.
+Kabsa,344,12, Saudi Arabian rice dish made with meat (usually lamb) vegetables and spices.
+Mandi,344,10, Yemeni rice dish made with meat (usually chicken or lamb) vegetables and spices.
+Machboos,344,11, Emirati rice dish made with meat (usually chicken or lamb) vegetables and spices.
+Foul mudammas,345,4, Fava beans cooked with garlic lemon juice and olive oil.
+Ta'ameya,345,5, Egyptian falafel made with fava beans chickpeas and spices.
+Koshari,345,6, Egyptian dish made with rice lentils macaroni chickpeas and a tomato sauce.
+Mansaf,346,15, Jordanian dish made with lamb rice and a yogurt sauce.
+Musakhan,346,12, Palestinian dish made with chicken sumac and onions.
+Knafeh,346,8, Sweet cheese pastry soaked in syrup.
+Shawarma,347,6, Grilled meat (usually chicken or lamb) served in pita bread with vegetables and sauces.
+Falafel,347,5, Deep-fried chickpea balls served in pita bread with vegetables and sauces.
+Hummus,347,4, Chickpea dip made with tahini lemon juice and garlic.
+Kabab koobideh,348,8, Grilled ground beef kebabs.
+Kabab barg,348,9, Grilled ground lamb kebabs.
+Tandoori chicken,348,10, Chicken marinated in yogurt and spices and cooked in a tandoor oven.
+Soy milk,349,2, Made from soybeans water and salt.
+Soybean milk pudding,349,3, Made from soy milk sugar and agar-agar.
+Soybean milk ice cream,349,4, Made from soy milk sugar and cream.
+Xiao long bao,350,6, Soup dumplings filled with pork and broth.
+Steamed pork buns,350,4, Steamed buns filled with pork and vegetables.
+Fried pork dumplings,350,5, Fried dumplings filled with pork and vegetables.
+Tiramisu,351,10,A classic Italian dessert made with coffee-soaked ladyfingers and a rich creamy mascarpone filling.
+Spaghetti Carbonara,351,15,A classic Italian pasta dish made with spaghetti pancetta eggs and Parmesan cheese.
+Pasta alla Norma,351,18,A classic Sicilian pasta dish made with eggplant tomatoes ricotta salata and basil.
+Pho Ga,352,12,A Vietnamese noodle soup made with chicken broth rice noodles shredded chicken and herbs.
+Bun Cha,352,10,A Vietnamese dish of grilled pork patties served with rice noodles herbs and dipping sauce.
+Banh Mi,352,8,A Vietnamese sandwich made with baguette meat pickled vegetables and herbs.
+Tom Yum Goong,353,15,A Thai soup made with shrimp lemongrass galangal kaffir lime leaves and chili peppers.
+Pad Thai,353,12,A Thai stir-fried noodle dish made with rice noodles shrimp chicken or tofu eggs peanuts and bean sprouts.
+Green Curry,353,18,A Thai curry made with green chili peppers coconut milk and basil.
+Black Cod with Miso,354,50,A whole black cod marinated in miso and charcoal-grilled to perfection.
+Stir-Fried Crab with Green Curry,354,40,A delicious stir-fry of crab meat green curry and vegetables.
+Truffled Egg with Lobster,354,60,A decadent dish of truffled egg and lobster served on a bed of mashed potatoes.
+Antep Fıstıklı Baklava,355,15,A traditional Turkish dessert made with pistachios and honey.
+Künefe,355,10,A shredded wheat pastry filled with cheese and syrup.
+Dondurma,355,5,A Turkish ice cream made with salep and mastic gum.
+Dana Steak,356,60,A grilled tenderloin steak served with your choice of sides.
+Izgara Köfte,356,40,A grilled lamb meatball served with your choice of sides.
+Karnıyarık,356,30,A stuffed eggplant dish made with ground beef onions tomatoes and peppers.
+Adana Kebap,357,30,A spicy grilled lamb kebab served with your choice of sides.
+Urfa Kebap,357,30,A mild grilled lamb kebab served with your choice of sides.
+Lahmacun,357,15,A thin Turkish pizza made with ground beef onions tomatoes and peppers.
+Adana Kebab,358,10,A traditional Turkish dish made of grilled lamb meat.
+Urfa Kebab,358,12,A traditional Turkish dish made of grilled lamb meat with a spicy sauce.
+Lahmacun,358,8,A thin Turkish pizza topped with ground beef onions tomatoes and spices.
+Adana Kebab,359,10,A traditional Turkish dish made of grilled lamb meat.
+Urfa Kebab,359,12,A traditional Turkish dish made of grilled lamb meat with a spicy sauce.
+Lahmacun,359,8,A thin Turkish pizza topped with ground beef onions tomatoes and spices.
+Antep Lahmacun,360,7,A thin Turkish pizza topped with ground beef onions tomatoes and spices and a special sauce.
+Küşleme,360,15,A traditional Turkish dish made of grilled lamb meat.
+Patlıcan Kebab,360,10,A traditional Turkish dish made of grilled eggplant with a spicy sauce.
+Adana Kebab,361,15,Grilled Adana kebab with fresh herbs and spices.
+Lahmacun,361,10,Turkish pizza topped with ground beef onions tomatoes and spices.
+Küşleme,361,20,Grilled skewered lamb chops.
+Simit Söğüş,362,5,A Turkish street food of pita bread filled with cucumber tomato onion and sumac.
+Kebap,362,10,Grilled meat kebab.
+Izgara Köfte,362,15,Grilled meatballs.
+Adana Kebab,363,15,Grilled Adana kebab with fresh herbs and spices.
+Urfa Kebab,363,15,Grilled Urfa kebab with fresh herbs and spices.
+Lahmacun,363,10,Turkish pizza topped with ground beef onions tomatoes and spices.
+Beef Tartare,364,20,Raw beef tartare with shallots capers and Dijon mustard.
+Cod with Oyster Mushrooms,364,30,Pan-seared cod with roasted oyster mushrooms and a brown butter sauce.
+Whole Roasted Chicken,364,40,Whole roasted chicken with roasted vegetables and a jus.
+Beef Wellington,365,50,Beef Wellington with a puff pastry crust and a duxelle filling.
+Scallop with Sea Urchin,365,40,Scallop with sea urchin caviar and a yuzu vinaigrette.
+Roast Cod,365,35,Roast cod with chorizo potatoes and a salsa verde.
+Cacio e Pepe,366,20,Spaghetti with pecorino cheese black pepper and a touch of pasta water.
+Linguine with Clams,366,25,Linguine with clams garlic and parsley.
+Veal Milanese,366,30,Veal Milanese with a lemon sauce.
+Dal Makhani,367,20,A rich and creamy lentil dish with black lentils kidney beans and spices.
+Tandoori Chicken,367,25,Grilled tandoori chicken marinated in yogurt and spices.
+Naan,367,5,A type of Indian flatbread.
+Chicken Shawarma,368,15,Grilled chicken shawarma with hummus tahini and vegetables.
+Falafel,368,10,Deep-fried falafel balls with tahini hummus and vegetables.
+Hummus,368,5,A dip made from chickpeas tahini lemon juice and garlic.
+The Botanist,369,15,A gin and tonic made with botanicals from the garden.
+The Botanist Collins,369,18,A gin and citrus cocktail made with botanicals from the garden.
+The Botanist Old Fashioned,369,20,A whiskey cocktail made with botanicals from the garden.
+Half Smoke,370,5,A half-smoke sausage with chili and cheese.
+Mumbo Sauce,370,3,A spicy sauce made with ketchup vinegar and spices.
+Ben's Chili Bowl,370,5,A half-smoke sausage with chili and cheese served in a steamed bun.
+Chicken Piccata,371,24,Sautéed chicken cutlets with lemon white wine capers and a light sauce.
+Shrimp Scampi,371,22,Sautéed shrimp with garlic white wine and butter.
+Filet Mignon,371,42,A grilled filet mignon with your choice of sides.
+Pizza,372,12,Thin crust pizza with your choice of toppings.
+Pasta,372,15,Fresh pasta dishes with your choice of sauce.
+Salad,372,10,Salads with your choice of greens toppings and dressing.
+The Original Joe,373,20,A slice of pepperoni pizza with a thin crust and a generous amount of toppings.
+The Grandma Slice,373,20,A slice of cheese pizza with a thick crust and a simple tomato sauce.
+The Sicilian Slice,373,22,A slice of square pizza with a thick crust and a generous amount of toppings.
+Pastrami Sandwich,374,22,A large sandwich piled high with pastrami rye bread Swiss cheese and Russian dressing.
+Reuben Sandwich,374,24,A grilled sandwich with corned beef sauerkraut Swiss cheese and Russian dressing.
+Tuna Salad Sandwich,374,18,A simple sandwich with tuna salad lettuce tomato and mayonnaise on rye bread.
+Porterhouse Steak,375,68,A large bone-in steak that is perfect for sharing.
+T-Bone Steak,375,58,A smaller bone-in steak that is perfect for one person.
+Ribeye Steak,375,52,A flavorful steak with a lot of marbling.
+The Deep Dish,376,28,A thick deep-dish pizza with a buttery crust and a generous amount of toppings.
+The Thin Crust,376,20,A thin-crust pizza with a crispy crust and a simple tomato sauce.
+The Stuffed Pizza,376,32,A deep-dish pizza with a stuffed crust and a generous amount of toppings.
+The Chicago Classic,377,26,A deep-dish pizza with sausage pepperoni mushrooms onions and green peppers.
+The Spinach & Feta,377,24,A deep-dish pizza with spinach feta cheese garlic and a light sauce.
+The Veggie,377,22,A deep-dish pizza with vegetables including mushrooms onions green peppers and black olives.
+The Original,378,20,A thin-crust pizza with tomato sauce mozzarella cheese and your choice of toppings.
+The Tavern Cut,378,22,A thick-cut pizza with tomato sauce mozzarella cheese and your choice of toppings.
+The Stuffed Pizza,378,28,A thin-crust pizza with a stuffed crust and a generous amount of toppings.
+The Seafood Tower,379,72,A large tower of seafood with shrimp crab lobster and oysters.
+The Ultimate Feast,379,98,A large platter of seafood steak chicken and vegetables.
+The Blackened Grouper,379,48,A blackened grouper fillet with a side of rice and vegetables.
+The Stone Crab Claws,380,48,A dozen stone crab claws served with a side of mustard sauce.
+The Key Lime Pie,380,18,A classic key lime pie with a graham cracker crust.
+The Chocolate Lava Cake,380,16,A warm chocolate lava cake with a scoop of vanilla ice cream.
+Chicken Fried Chicken,381,18.95, A bone-in hand-breaded chicken breast coated in a seasoned flour mixture and fried to golden brown perfection. Served with two sides.
+Macaroni and Cheese,381,12.95, A rich and creamy macaroni and cheese made with three types of cheese and topped with a crispy breadcrumb crust.
+Fettuccine Alfredo,381,16.95, A classic Italian dish made with fettuccine noodles tossed in a creamy Alfredo sauce.
+The Original,382,2.5, A half-pound of ground beef topped with grilled onions mustard ketchup and mayo on a toasted bun.
+Waffle House Special,382,6.99, Two eggs cooked to order two strips of bacon two sausage links and two pancakes.
+Grits and Cheese,382,3.99, A bowl of creamy grits topped with melted cheese.
+Margherita Pizza,383,12.99, A classic Neapolitan pizza made with fresh mozzarella San Marzano tomatoes and basil.
+Pepperoni Pizza,383,14.99, A pizza topped with pepperoni mozzarella and San Marzano tomatoes.
+Sicilian Pizza,383,16.99, A thick-crust pizza topped with mozzarella San Marzano tomatoes and your choice of toppings.
+The Original Biscuit,384,2.99, A fluffy buttermilk biscuit with sausage gravy.
+The Flying Biscuit Breakfast Sandwich,384,6.99, A biscuit with two eggs cheese and your choice of ham bacon or sausage.
+The Flying Biscuit Club,384,9.99, A biscuit with two eggs cheese bacon ham and avocado.
+Sushi Roll,385,12.95, A variety of sushi rolls made with fresh fish vegetables and rice.
+Sashimi,385,14.95, A variety of sashimi made with fresh fish.
+Tempura,385,16.95, A variety of tempura made with fresh vegetables and seafood.
+Chicken Mole,386,15.95, A rich and flavorful chicken stew made with a mole sauce made from chili peppers chocolate and spices.
+Tacos al Pastor,386,12.95, A taco made with spit-roasted pork onions cilantro and pineapple.
+Guacamole,386,7.95, A traditional Mexican guacamole made with fresh avocados onions cilantro and lime juice.
+Filet Mignon,387,52.95, A 6-ounce filet mignon grilled to your liking.
+New York Strip Steak,387,47.95, A 6-ounce New York strip steak grilled to your liking.
+Ribeye Steak,387,54.95, A 6-ounce ribeye steak grilled to your liking.
+Roast Pork Sandwich,388,7.99,A classic Philly cheesesteak with roasted pork instead of beef.
+Cheesesteak,388,7.99,A classic Philly cheesesteak with thinly sliced beef melted cheese and onions.
+Roast Chicken,388,8.99,A roasted chicken with mashed potatoes and gravy.
+Cheesesteak,389,7.99,A classic Philly cheesesteak with thinly sliced beef melted cheese and onions.
+Roast Pork Sandwich,389,7.99,A classic Philly cheesesteak with roasted pork instead of beef.
+Chicken Cheesesteak,389,8.99,A Philly cheesesteak with thinly sliced chicken melted cheese and onions.
+Cheesesteak,390,7.99,A classic Philly cheesesteak with thinly sliced beef melted cheese and onions.
+Roast Pork Sandwich,390,7.99,A classic Philly cheesesteak with roasted pork instead of beef.
+Pepperoni Cheesesteak,390,8.99,A Philly cheesesteak with thinly sliced beef melted cheese and pepperoni.
+Lobster Roll,391,22,A toasted hot dog bun filled with fresh lobster meat celery and mayonnaise.
+Clam Chowder,391,16,A creamy New England-style clam chowder made with fresh clams potatoes and milk.
+Fried Shrimp,391,18,A basket of crispy fried shrimp served with tartar sauce.
+Chicken Piccata,392,28,Sautéed chicken cutlets in a lemon-caper sauce.
+Veal Parmesan,392,26,Sautéed veal cutlets in a Parmesan cheese sauce.
+Tiramisu,392,12,A traditional Italian dessert made with ladyfingers coffee and mascarpone cheese.
+Filet Mignon,393,58,A grilled filet mignon served with your choice of sides.
+Lobster Thermidor,393,48,A lobster dish baked in a creamy cheese sauce.
+Crème Brûlée,393,12,A classic French dessert made with custard topped with a caramelized sugar crust.
+Beef Tartare,394,28,A raw beef dish seasoned with capers shallots and Dijon mustard.
+Seared Scallops,394,32,Seared scallops served with a lemon beurre blanc sauce.
+Chocolate Lava Cake,394,16,A warm chocolate cake filled with a gooey chocolate center.
+Shrimp Toast,395,12,A crispy wonton filled with shrimp water chestnuts and bean sprouts.
+Napa Cabbage Salad,395,10,A salad of Napa cabbage carrots and cucumbers tossed with a sesame vinaigrette.
+Chicken Satay,395,14,Grilled chicken skewers served with peanut sauce.
+Zuni Roast Chicken,396,28,A roasted chicken served with bread salad and salsa verde.
+Pasta Fagioli,396,16,A hearty soup made with beans pasta and tomatoes.
+Zuni Coffee Cake,396,8,A moist coffee cake topped with a cinnamon streusel.
+Cioppino,397,32,A seafood stew made with clams mussels shrimp and Dungeness crab.
+Fish and Chips,397,18,A basket of fried fish and chips served with tartar sauce.
+Flan,397,10,A custard dessert made with caramel sauce.
+Cioppino,398,32,A seafood stew made with clams mussels shrimp and Dungeness crab.
+Filet Mignon,398,58,A grilled filet mignon served with your choice of sides.
+Cheesecake,398,12,A classic New York cheesecake.
+Seared Scallops,399,32,Seared scallops served with a lemon beurre blanc sauce.
+Lobster Roll,399,22,A toasted hot dog bun filled with fresh lobster meat celery and mayonnaise.
+Key Lime Pie,399,10,A tart and creamy pie made with key lime juice sweetened condensed milk and whipped cream.
+Beef Brisket,400,28,A slow-cooked beef brisket served with mashed potatoes and gravy.
+Chicken Fried Steak,400,26,A breaded and fried steak served with mashed potatoes and gravy.
+Apple Pie,400,12,A classic apple pie served with vanilla ice cream.
+Beef Dip,401,18,A classic beef dip sandwich with thinly sliced beef au jus and horseradish sauce.
+Chicken Fried Steak,401,22,A breaded and fried steak served with mashed potatoes gravy and green beans.
+Fish and Chips,401,16,A classic fish and chips dish with battered cod french fries and tartar sauce.
+Fried Chicken,402,15,A platter of fried chicken with two sides.
+Ribs,402,20,A rack of ribs served with two sides.
+Beef Brisket,402,25,A tender beef brisket served with two sides.
+Enchiladas,403,15,Two enchiladas with your choice of filling rice and beans.
+Fajita Plate,403,20,A fajita plate with your choice of meat rice beans and tortillas.
+Tacos,403,10,Two tacos with your choice of filling rice and beans.
+Filet Mignon,404,40,A 6-ounce filet mignon served with your choice of two sides.
+Lobster Bisque,404,18,A creamy lobster bisque served with a side of grilled bread.
+Crab Cakes,404,22,A pair of crab cakes served with remoulade sauce.
+Oysters Rockefeller,405,25,An appetizer of oysters topped with spinach bacon and Parmesan cheese.
+Crawfish Etouffee,405,20,A creamy crawfish etouffee served over rice.
+Cheese Grits,405,12,A side of creamy cheese grits.
+Enchiladas Suizas,406,15,Two enchiladas topped with white sauce sour cream and guacamole.
+Sopa Azteca,406,18,A Mexican soup made with tortilla strips beans and vegetables.
+Flautas,406,10,Two flautas with your choice of filling.
+Mission Burrito,407,15,A large burrito filled with your choice of meat rice beans and vegetables.
+Tacos Al Pastor,407,10,Two tacos filled with pork pineapple and onions.
+Quesadillas,407,12,Two quesadillas filled with your choice of filling.
+Chicken Fajita Quesadilla,408,14,A quesadilla filled with chicken fajita meat rice beans and cheese.
+Steak Fajita Quesadilla,408,16,A quesadilla filled with steak fajita meat rice beans and cheese.
+Vegetarian Fajita Quesadilla,408,12,A quesadilla filled with vegetables rice beans and cheese.
+Pepperoni Pizza,409,12,A large pepperoni pizza.
+Sausage Pizza,409,12,A large sausage pizza.
+Mushroom Pizza,409,12,A large mushroom pizza.
+Pepperoni and Sausage Pizza,410,14,A large pepperoni and sausage pizza.
+Mushroom and Sausage Pizza,410,14,A large mushroom and sausage pizza.
+Pepperoni and Mushroom Pizza,410,14,A large pepperoni and mushroom pizza.
+Nashville Hot Chicken,411,8,Fried chicken coated in a hot and spicy sauce
+Cheese Curds,411,5,Battered and deep-fried cheese curds served with ranch dressing
+Mac and Cheese,411,6,Creamy macaroni and cheese topped with bread crumbs
+Filet Mignon,412,65,A 6-ounce filet mignon cooked to your liking
+Ribeye Steak,412,55,A 12-ounce ribeye steak cooked to your liking
+Lobster Bisque,412,25,A rich and creamy lobster bisque
+Chicken Pot Pie,413,18,A classic chicken pot pie with a flaky crust and a creamy filling
+Braised Short Ribs,413,35,Fall-off-the-bone braised short ribs served with mashed potatoes and vegetables
+Steak Frites,413,30,A grilled New York strip steak served with fries and a béarnaise sauce
+Duck Confit Tacos,414,16,Two soft tacos filled with duck confit roasted vegetables and a chipotle sauce
+Crispy Brussels Sprouts,414,12,Crispy Brussels sprouts tossed in a balsamic glaze
+Mole Negro,414,22,A rich and flavorful mole sauce made with chocolate chiles and spices
+Sopa Azteca,415,15,A traditional Mexican soup made with tortilla chips shredded chicken beans and vegetables
+Enchiladas Rojas,415,18,Two enchiladas filled with your choice of meat or cheese topped with red sauce cheese and sour cream
+Flautas,415,16,Three flautas filled with your choice of meat or cheese topped with green sauce cheese and sour cream
+Crab and Corn Chowder,418,15,A creamy chowder with fresh crab and corn
+Cioppino,418,25,A seafood stew with clams mussels shrimp and Dungeness crab
+Fish and Chips,418,18,Fresh fish and chips served with tartar sauce and malt vinegar
+Fish Tacos,417,12,Two flour tortillas filled with grilled fish cabbage pico de gallo and avocado
+Enchiladas Rojas,417,15,Three corn tortillas filled with your choice of meat cheese and beans topped with red sauce and sour cream
+Mole Poblano,417,18,Chicken in a rich dark mole sauce with chocolate chilies and spices
+Beef Brisket,416,25,A tender smoky beef brisket served with mashed potatoes and vegetables
+Pork Chops,416,20,Thick-cut pork chops grilled to perfection and served with roasted vegetables
+Shrimp Scampi,416,22,Shrimp sautéed in a garlic butter sauce with white wine and lemon
+Cioppino,419,25,A seafood stew with clams mussels shrimp and Dungeness crab
+Shrimp Scampi,419,22,Shrimp sautéed in a garlic butter sauce with white wine and lemon
+Crab Legs,419,35,A pound of fresh crab legs served with melted butter
+Filet Mignon,420,50,A 6-ounce filet mignon cooked to your liking
+Canlis Salad,420,18,A mixed greens salad with grilled asparagus goat cheese and a balsamic vinaigrette
+Seared Scallops,420,32,Four seared scallops served with a lemon beurre blanc sauce
+Filet Mignon,421,30,A 6-ounce center-cut filet mignon grilled to your liking and served with your choice of two sides.
+Fried Oysters,421,15,A dozen fresh oysters lightly battered and fried to perfection.
+Oysters Rockefeller,421,20,A dozen fresh oysters topped with spinach bacon and Parmesan cheese and baked until bubbly.
+Fried Chicken,422,18,A half-chicken breaded and fried to golden brown perfection.
+Country Ham,422,16,A thick slice of country ham cured and smoked to perfection.
+Macaroni and Cheese,422,12,A classic comfort food made with elbow macaroni and a creamy cheese sauce.
+New York Strip Steak,423,45,An 8-ounce center-cut New York strip steak grilled to your liking and served with your choice of two sides.
+Lobster Bisque,423,25,A rich and creamy lobster bisque made with fresh lobster cream and sherry.
+Crab Cakes,423,20,A pair of crab cakes made with fresh crab meat bread crumbs and spices.
+Shish Kebab,424,20,A skewer of grilled lamb chicken or beef served with your choice of rice or vegetables.
+Plov,424,15,A traditional Uzbek rice pilaf made with lamb carrots and onions.
+Lagman,424,20,A hand-pulled noodle soup made with lamb vegetables and a spicy sauce.
+Beef Plov,425,20,A traditional Uzbek rice pilaf made with beef carrots and onions.
+Lagman,425,20,A hand-pulled noodle soup made with beef vegetables and a spicy sauce.
+Manty,425,15,A steamed dumpling filled with ground beef and onions.
+Beef Chorba,426,15,A traditional Uzbek beef soup made with noodles vegetables and a spicy sauce.
+Lagman,426,20,A hand-pulled noodle soup made with beef vegetables and a spicy sauce.
+Plov,426,15,A traditional Uzbek rice pilaf made with beef carrots and onions.
+Pho Ga,427,8,Vietnamese chicken noodle soup
+Pho Bo,427,10,Vietnamese beef noodle soup
+Bun Bo Hue,427,12,Vietnamese spicy beef noodle soup
+Bun Cha,428,7,Vietnamese grilled pork noodle soup
+Nem Cuon,428,5,Vietnamese spring rolls
+Banh Mi,428,4,Vietnamese baguette sandwich
+Bun Bo Hue,429,10,Spicy beef noodle soup with rice noodles pork blood and herbs.
+Banh Xeo,429,8,Vietnamese crepes made with rice flour turmeric and shrimp.
+Goi Cuon,429,5,Spring rolls filled with pork shrimp and vegetables.
+Com Tam,430,6,Broken rice with grilled pork shrimp and egg.
+Bun Thit Nuong,430,7,Rice noodles with grilled pork and vegetables.
+Banh Xeo,430,8,Vietnamese crepes made with rice flour turmeric and shrimp.
+Pho Ga,431,8,Vietnamese chicken noodle soup
+Bun Bo Hue,431,10,Vietnamese beef noodle soup
+Pho Bac Ha,431,9,Vietnamese beef noodle soup from Ha Giang province
+Bun Cha Ha Noi,432,12,Vietnamese grilled pork and noodle dish
+Cha Ca Ha Noi,432,15,Vietnamese turmeric fish grilled over charcoal
+Bun Cha Que Huong,432,10,Vietnamese grilled pork and noodle dish from Hue
+Souvlaki,433,10,Grilled Greek skewers of meat chicken or vegetables
+Gyro,433,12,Grilled Greek pita sandwich with meat vegetables and tzatziki sauce
+Moussaka,433,15,Greek eggplant casserole with ground beef béchamel sauce and cheese
+Grilled Octopus,434,18,Grilled octopus with lemon olive oil and oregano.
+Chicken Souvlaki,434,12,Chicken souvlaki with rice tzatziki and grilled vegetables.
+Mousaka,434,15,Layers of eggplant ground beef and béchamel sauce.
+Grilled Salmon,435,22,Grilled salmon with lemon dill and capers.
+Chicken Tzatziki,435,16,Chicken breast with tzatziki sauce.
+Falafel Plate,435,12,Falafel with hummus tahini and vegetables.
+Bacon Cheeseburger,436,10,Bacon cheeseburger with lettuce tomato onion and pickles.
+Build-Your-Own Burger,436,12,Build your own burger with your choice of toppings.
+Turkey Burger,436,10,Turkey burger with lettuce tomato onion and pickles.
+Umami Burger,437,15,Umami Burger with umami sauce lettuce tomato onion and pickles.
+Bacon Cheeseburger,437,16,Bacon cheeseburger with lettuce tomato onion and pickles.
+Mushroom Swiss Burger,437,14,Mushroom Swiss burger with lettuce tomato onion and pickles.
+Double-Double,438,3,Double-Double with two beef patties two slices of American cheese lettuce tomato onion and pickles.
+Animal Style Fries,438,3,Fries with melted American cheese grilled onions and Thousand Island dressing.
+Neapolitan Shake,438,5,Vanilla chocolate and strawberry shake.
+Goat Cheese Salad,439,12,Goat cheese salad with mixed greens roasted vegetables and balsamic vinaigrette.
+Philly Cheesesteak,439,15,Philly cheesesteak with grilled steak onions and cheese.
+Macaroni and Cheese,439,10,Macaroni and cheese with Gruyère and cheddar cheese.
+Chilaquiles,440,12,Chilaquiles with eggs shredded chicken cheese and salsa.
+Biscuits and Gravy,440,9,Biscuits and gravy with sausage gravy.
+Waffles,440,10,Waffles with your choice of toppings.
+Pot Sticker Soup,441,10,Pot sticker soup with pork shrimp and vegetables.
+Dough Zone Fried Dumplings,441,12,Dough Zone fried dumplings with pork shrimp and vegetables.
+Dough Zone Dan Dan Noodles,441,15,Dough Zone Dan Dan noodles with pork peanuts and chili oil.

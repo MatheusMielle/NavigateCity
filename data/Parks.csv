@@ -1,0 +1,618 @@
+Hamma Garden,1,Urban Park,A large public park in the heart of Algiers with gardens fountains and a zoo.
+Bologhine Park,1,Urban Park,A beautiful park with a lake gardens and a playground.
+Beni Messous National Park,1,National park,A large national park with forests mountains and lakes.
+Parque da Cidade,2,Urban Park,A large urban park with gardens a lake and a playground.
+Parque do Kinaxixi,2,Urban Park,A beautiful park with gardens a lake and a zoo.
+Parque de Kifangondo,2,National park,A large national park with forests mountains and beaches.
+Royal Botanic Garden,3,Botanical garden,A beautiful botanical garden with a wide variety of plants from all over the world.
+Taronga Zoo,3,Zoo,A large zoo with over 4000 animals from all over the world.
+Bondi Beach,3,Beach,A popular beach with white sand and clear water.
+Brisbane Botanic Gardens,4,Botanical garden,A beautiful botanical garden with a wide variety of plants from all over the world.
+Lone Pine Koala Sanctuary,4,Sanctuary,A sanctuary that cares for koalas and other Australian animals.
+Mount Coot-tha Lookout,4,Viewpoint,A popular viewpoint with stunning views of the city.
+Prater,5,Urban Park,The Prater is one of the largest amusement parks in the world and is located in the Prater district of Vienna.
+Stadtpark,5,Urban Park,The Stadtpark is an urban park in the Innere Stadt district of Vienna. It is one of the most popular parks in the city and is home to a variety of attractions including a rose garden a Japanese garden and a playground.
+Schönbrunn Palace Park,5,Palace park,The Schönbrunn Palace Park is a large park located in the Schönbrunn district of Vienna. It is home to the Schönbrunn Palace which is one of the most popular tourist destinations in Austria.
+Baku Boulevard,6,Boulevard,The Baku Boulevard is a waterfront promenade located in the Baku City Circuit of Baku Azerbaijan. It is one of the most popular tourist destinations in the city and offers stunning views of the Caspian Sea.
+Nargiz Park,6,Urban Park,The Nargiz Park is an urban park located in the Narimanov Rayon of Baku Azerbaijan. It is one of the most popular parks in the city and is home to a variety of attractions including a rose garden a playground and a water park.
+Fəvvarələr meydanı,6,Square,The Fəvvarələr meydanı is a fountain square located in the Icheri Sheher of Baku Azerbaijan. It is one of the most popular tourist destinations in the city and is home to a number of historical and cultural monuments.
+Ramna Park,7,Urban Park,The Ramna Park is an urban park located in the Ramna Thana of Dhaka Bangladesh. It is one of the largest parks in the city and is home to a variety of attractions including a zoo a botanical garden and a playground.
+Ziauddin Ahmed Park,7,Urban Park,The Ziauddin Ahmed Park is an urban park located in the Dhanmondi Thana of Dhaka Bangladesh. It is one of the most popular parks in the city and is home to a variety of attractions including a lake a playground and a mosque.
+Parque Lage,8,Urban Park,A public park located in the Jardim Botânico neighborhood of Rio de Janeiro Brazil. It is known for its lush vegetation beautiful gardens and stunning views of the city.
+Copacabana Beach,8,Beach,One of the most famous beaches in the world Copacabana Beach is a must-see for any visitor to Rio de Janeiro. It is known for its soft sand clear water and lively atmosphere.
+Sugarloaf Mountain,8,Mountain Park,Sugarloaf Mountain is a iconic landmark in Rio de Janeiro. It is a popular tourist destination offering stunning views of the city and the surrounding mountains.
+Parque Ibirapuera,9,Urban Park,Parque Ibirapuera is a large urban park located in the South Zone of São Paulo Brazil. It is one of the most popular parks in the city and is known for its beautiful gardens museums and cultural attractions.
+Parque Villa-Lobos,9,Urban Park,Parque Villa-Lobos is a large urban park located in the West Zone of São Paulo Brazil. It is known for its lush vegetation beautiful gardens and musical performances.
+Parque do Ipiranga,9,Urban Park,Parque do Ipiranga is a large urban park located in the East Zone of São Paulo Brazil. It is home to the Museu do Ipiranga which houses a collection of Brazilian art and history.
+Parque das Mangabeiras,10,Urban Park,Parque das Mangabeiras is a large urban park located in the North Zone of Belo Horizonte Brazil. It is known for its lush vegetation beautiful gardens and hiking trails.
+Parque Municipal Américo Renné Giannetti,10,Urban Park,Parque Municipal Américo Renné Giannetti is a large urban park located in the downtown area of Belo Horizonte Brazil. It is known for its beautiful gardens fountains and sculptures.
+Parque das Mangabeiras,11,Urban Park,Parque das Mangabeiras is a large urban park located in the North Zone of Brasilia Brazil. It is known for its lush vegetation beautiful gardens and hiking trails.
+Parque da Cidade Sarah Kubitschek,11,Urban Park,Parque da Cidade Sarah Kubitschek is a large urban park located in the South Zone of Brasilia Brazil. It is known for its lush vegetation beautiful gardens and hiking trails.
+Manaus Zoo,12,Zoo,A zoo located in the heart of Manaus Brazil. It is home to over 1200 animals from all over the world.
+Parque do Mindu,12,Urban Park,A large urban park located in the heart of Manaus. It is home to a variety of plants and animals as well as a number of recreational facilities.
+Parque Encontro das Águas,12,Urban Park,A large urban park located on the banks of the Rio Negro and the Rio Solimões. It is a popular spot for swimming sunbathing and fishing.
+Parque Nacional do Jaú,12,National park,A national park located in the Amazon rainforest. It is home to a variety of wildlife including jaguars monkeys and snakes.
+Parque Estadual do Sumaúma,12,State park,A state park located in the Amazon rainforest. It is home to a variety of wildlife including sloths toucans and parrots.
+Parque da Jaqueira,13,Urban Park,A large urban park located in the heart of Recife. It is home to a variety of plants and animals as well as a number of recreational facilities.
+Parque dos Dois Irmãos,13,Urban Park,A large urban park located on the banks of the Rio Capibaribe. It is a popular spot for swimming sunbathing and fishing.
+Parque Estadual de Dois Irmãos,13,State park,A state park located in the Atlantic forest. It is home to a variety of wildlife including monkeys sloths and toucans.
+Parque Nacional da Serra do Cipó,10,National park,A national park located in the Serra do Cipó mountains. It is home to a variety of wildlife including jaguars monkeys and snakes.
+Parque Estadual do Catimbau,13,State park,A state park located in the Caatinga region. It is home to a variety of wildlife including armadillos anteaters and snakes.
+Parque Farroupilha,14,Urban Park,A large urban park located in the heart of Porto Alegre. It is home to a variety of plants and animals as well as a number of recreational facilities.
+Parque da Redenção,14,Urban Park,A large urban park located in the heart of Porto Alegre. It is a popular spot for swimming sunbathing and fishing.
+Parque Estadual do Itapuã,14,State park,A state park located on the coast of Porto Alegre. It is home to a variety of wildlife including monkeys sloths and toucans.
+Parque Nacional da Lagoa do Peixe,14,National park,A national park located on the coast of Rio Grande do Sul. It is home to a variety of wildlife including penguins sea lions and dolphins.
+Parque Nacional da Serra Geral,14,National park,A national park located in the Serra Geral mountains. It is home to a variety of wildlife including jaguars monkeys and snakes.
+Parque da Cidade,15,Urban Park,A large urban park located in the heart of Salvador. It is home to a variety of plants and animals as well as a number of recreational facilities.
+Parque do Pelourinho,15,Historic Park,A historic park located in the heart of Salvador. It is home to a variety of colonial buildings as well as a number of museums and art galleries.
+Parque das Dunas,15,Urban Park,A large urban park located on the coast of Salvador. It is a popular spot for swimming sunbathing and fishing.
+Parque Nacional da Chapada Diamantina,15,National park,A national park located in the Chapada Diamantina mountains. It is home to a variety of wildlife including monkeys sloths and toucans.
+Bulgarian Garden,16,Botanical Garden,A large botanical garden with a variety of plants from all over the world.
+Lyubomir Pipkov Garden,16,Urban Park,A popular park with a playground a lake and a rose garden.
+Vitosha Park,16,Mountain Park,A large park with hiking trails a ski resort and a monastery.
+La Réserve Bonapriso,17,Urban Park,A large park with a zoo a botanical garden and a lake.
+Mfoundi Park,17,Urban Park,A popular park with a playground a lake and a botanical garden.
+Mount Cameroon National Park,17,Mountain Park,A large national park with hiking trails waterfalls and a variety of wildlife.
+Mount Royal Park,18,Urban Park,A large park with hiking trails a lake and a view of the city.
+Jardin Botanique de Montréal,18,Botanical Garden,A large botanical garden with a variety of plants from all over the world.
+Parc Jean-Drapeau,18,Island Park,An island park with a amusement park a water park and a marina.
+Prince's Island Park,19,Island Park,An island park with a park a playground and a walking path.
+Stanley Park,19,Urban Park,A large park with a zoo a botanical garden and a waterfront.
+High Park,20,Urban Park,A large park with a zoo a botanical garden and a ravine system.
+Toronto Islands Park,20,Island Park,An island park with a park a playground and a walking path.
+Yu Garden,21,Garden,A UNESCO World Heritage Site one of the most popular tourist attractions in Shanghai.
+People's Square,21,Square,A large public square in the heart of Shanghai.
+The Bund,21,Viewpoint,A waterfront promenade with stunning views of the Huangpu River and the Pudong skyline.
+Jinshan Forest Park,21,Forest,A large forest park with hiking trails temples and a cable car.
+Shanghai Zoo,21,Zoo,A zoo home to over 10000 animals from all over the world.
+Beihai Park,22,National Park,A large park in the heart of Beijing with a lake gardens and temples.
+Temple of Heaven,22,Temple,A UNESCO World Heritage Site one of the most important religious sites in China.
+Summer Palace,22,Palace Park,A former imperial summer palace with gardens lakes and temples.
+Olympic Green,22,National Park,A large park built for the 2008 Summer Olympics.
+Zhongshan Park,22,National Park,A large park with a lake gardens and a museum.
+Tianjin Binhai Forest Park,23,Forest,A large forest park with hiking trails a cable car and a water park.
+Jinghai Lake Park,23,National Park,A large park with a lake gardens and a zoo.
+Binhai New Area Coastal Park,23,National Park,A new park with a beach a boardwalk and a Ferris wheel.
+Tianjin Olympic Green,23,National Park,A large park built for the 2008 Summer Olympics.
+Tianjin Children's Palace,23,National Park,A park with a playground a water park and a science museum.
+Huadu Park,24,National Park,A large park with a lake gardens and a zoo.
+Yuexiu Park,24,National Park,A UNESCO World Heritage Site one of the most popular tourist attractions in Guangzhou.
+Liwan Lake Park,24,National Park,A large park with a lake gardens and a temple.
+Baiyun Mountain,24,Mountain Park,A mountain with hiking trails temples and a cable car.
+Chengdu Giant Panda Research Base,25,Research,A research base where giant pandas are bred and raised in captivity.
+Wuhou Temple,25,Temple,A temple dedicated to the Three Kingdoms general Zhuge Liang.
+Dujiangyan Irrigation System,25,National Park,A UNESCO World Heritage Site an ancient irrigation system that still provides water to Chengdu today.
+Mount Emei,25,Mountain Park,A mountain with hiking trails temples and a cable car.
+Bifengxia Panda Base,25,Research,A research base where giant pandas are bred and raised in captivity.
+Huanghelou Park,26,Urban Park,A large park in the heart of Wuhan with a variety of gardens lakes and pavilions.
+Central Waterfront Park,26,Riverside park,A long park along the Yangtze River with stunning views of the city skyline.
+East Lake Park,26,Lakeside park,A large park on the shores of East Lake with a variety of activities and attractions.
+Happy Valley Wuhan,26,Amusement Park,A large amusement park with a variety of rides and attractions for all ages.
+Wuhan Zoo,26,Zoo,A zoo with a variety of animals from around the world.
+Songhua River Park,27,Riverside park,A long park along the Songhua River with stunning views of the city skyline.
+Sun Island Park,27,Urban Park,A large park with a variety of gardens lakes and pavilions.
+Xinghai Park,27,Urban Park,A large park with a variety of gardens lakes and pavilions.
+Harbin Polar Land,27,Zoo,A zoo with a variety of polar animals including polar bears seals and walruses.
+Harbin Ice and Snow World,27,Winter Park,A large park with a variety of ice and snow sculptures rides and attractions.
+West Lake,28,Lakeside park,A large lake in the heart of Hangzhou with a variety of gardens temples and pavilions.
+Lingyin Temple,28,Temple,A large Buddhist temple with a long history.
+Humble Administrator's Garden,28,Garden,A classic Chinese garden with a beautiful layout and design.
+Yu Garden,28,Garden,A classic Chinese garden with a beautiful layout and design.
+Hangzhou Zoo,28,Zoo,A zoo with a variety of animals from around the world.
+Wuzhizhou Park,29,Island park,An island park with a variety of gardens beaches and restaurants.
+Haikou Forest Park,29,Forest,A large forest park with a variety of hiking trails and scenic views.
+Haikou Botanical Garden,29,Botanical garden,A botanical garden with a variety of plants from around the world.
+Haikou Zoo,29,Zoo,A zoo with a variety of animals from around the world.
+Taiyuan People's Park,30,Urban Park,A large park in the heart of Taiyuan with a variety of gardens lakes and pavilions.
+Taiyuan Confucius Temple,30,Temple,A Confucian temple with a long history.
+Dianchi Lake Park,31,Urban Park,A large lake park with a variety of activities and attractions.
+Kunming Zoo,31,Zoo,A zoo with a variety of animals from around the world.
+Yunnan Provincial Museum,31,Museum,A museum with a collection of artifacts from Yunnan Province.
+Stone Forest,31,Mountain Park,A UNESCO World Heritage Site with a unique landscape of limestone karsts.
+Yunnan Botanical Garden,31,Botanical Garden,A botanical garden with a variety of plants from around the world.
+Hefei Happy Valley,32,Amusement Park,An amusement park with a variety of rides and attractions.
+Hefei Zoo,32,Zoo,A zoo with a variety of animals from around the world.
+Hefei University Museum,32,Museum,A museum with a collection of artifacts from Hefei University.
+Mount Jiuhua,33,Mountain Park,A UNESCO World Heritage Site with a number of Buddhist temples.
+Shijiazhuang Zoo,33,Zoo,A zoo with a variety of animals from around the world.
+Zhaozhou Tower,33,Temple,A Buddhist temple that is one of the oldest and most important in China.
+Yellow Crane Tower,34,Viewpoint,A tower that offers panoramic views of Changsha.
+Yuelu Academy,34,Historic Park,A Confucian academy that is one of the oldest in China.
+Orange Island,34,Island Park,An island park with a variety of activities and attractions.
+Changsha Zoo,34,Zoo,A zoo with a variety of animals from around the world.
+Jilin Forest Park,35,Forest,A large forest park with a variety of trees and plants.
+Changchun Olympic Forest Park,35,Urban Park,A large urban park with a variety of facilities including a zoo a botanical garden and a water park.
+Children's Palace Park,35,Urban Park,A park dedicated to children with a variety of rides and attractions.
+Zhongshan Park,35,Urban Park,A historic park with a variety of traditional Chinese architecture.
+Shenzhen Bay Park,36,Urban Park,A large park with a variety of facilities including a beach a marina and a botanical garden.
+Hong Kong Wetland Park,36,Urban Park,A park dedicated to wetlands with a variety of birdlife and other wildlife.
+Shenzhen Safari Park,36,Zoo,A large zoo with a variety of animals from all over the world.
+Chongqing Zoo,37,Zoo,A large zoo with a variety of animals from all over the world.
+Jiefangbei Park,37,Urban Park,A large park with a variety of facilities including a square a theater and a museum.
+Chongqing People's Park,37,Urban Park,A large park with a variety of facilities including a zoo a botanical garden and a water park.
+Lanzhou Baita Mountain Park,38,Mountain Park,A park with a variety of temples and other historical sites.
+Lanzhou Yellow River Park,38,Urban Park,A park with a variety of facilities including a beach a marina and a botanical garden.
+Lanzhou Zoo,38,Zoo,A large zoo with a variety of animals from all over the world.
+Ling Lake Park,39,Urban Park,A large park with a lake in the center surrounded by trees and flowers. There are many places to relax and enjoy the scenery as well as a variety of activities to keep you entertained.
+Zhongshan Park,39,Urban Park,A beautiful park with a long history. It is home to many historical and cultural landmarks as well as a variety of plants and animals.
+Dalian Forest Park,40,Urban Park,A large park with a forest in the center. There are many trails to explore as well as a variety of activities to keep you entertained.
+Dalian Ocean Park,40,Zoo,A large zoo with a variety of animals from all over the world. There are many exhibits to see as well as a variety of activities to keep you entertained.
+Dalian Botanical Garden,40,Botanical Garden,A beautiful garden with a variety of plants from all over the world. There are many trails to explore as well as a variety of activities to keep you entertained.
+Zhengzhou People's Park,41,Urban Park,A large park with a lake in the center surrounded by trees and flowers. There are many places to relax and enjoy the scenery as well as a variety of activities to keep you entertained.
+Zhengzhou Zoo,41,Zoo,A large zoo with a variety of animals from all over the world. There are many exhibits to see as well as a variety of activities to keep you entertained.
+Zhengzhou Botanical Garden,41,Botanical Garden,A beautiful garden with a variety of plants from all over the world. There are many trails to explore as well as a variety of activities to keep you entertained.
+Parque Arvi,42,Urban Park,A large park with a forest in the center. There are many trails to explore as well as a variety of activities to keep you entertained.
+Parque de la Independencia,42,Urban Park,A beautiful park with a long history. It is home to many historical and cultural landmarks as well as a variety of plants and animals.
+Parque Arví,43,Urban Park,A large park with a forest in the center. There are many trails to explore as well as a variety of activities to keep you entertained.
+Monserrate,43,Mountain Park,A mountain with a cable car that takes you to the top. From the top you can enjoy stunning views of the city.
+Simon Bolivar Park,43,Urban Park,A large park with a lake in the center surrounded by trees and flowers. There are many places to relax and enjoy the scenery as well as a variety of activities to keep you entertained.
+Parque Mirador del Sur,44,Urban Park,A large park with stunning views of the city.
+Parque Los Tres Ojos,44,National park,A series of three underground lakes located in a cave.
+Parque Nacional del Este,44,National park,A large national park with beaches forests and mountains.
+Parque Zoologico Nacional,44,Zoo,A zoo that is home to over 2000 animals.
+Parque La Isabela,44,Historical Park,A park that commemorates the first Spanish settlement in the Americas.
+Parque de la Independencia,44,Square,A large square in the heart of the city.
+Parque Simón Bolívar,44,Boulevard,A boulevard that runs through the city center.
+Parque El Ejido,44,Garden,A large garden with a variety of plants and flowers.
+Parque de la Paz,44,Temple,A temple that is dedicated to peace.
+Parque de las Flores,44,Garden,A garden with a variety of flowers.
+Parque La Carolina,45,Urban Park,A large park with a variety of activities and attractions.
+Parque El Ejido,45,Garden,A large garden with a variety of plants and flowers.
+Parque Itchimbía,45,Mountain Park,A mountain park with stunning views of the city.
+Parque Nacional Cotopaxi,45,National park,A national park that is home to the Cotopaxi volcano.
+Parque Nacional Yasuní,45,National park,A national park that is home to a variety of wildlife.
+Parque Zoológico de Quito,45,Zoo,A zoo that is home to over 1000 animals.
+Parque Arqueológico de Quito,45,Historical Park,A park that commemorates the history of Quito.
+Parque de la Alameda,45,Square,A large square in the heart of the city.
+Parque de la Independencia,45,Square,A square that commemorates the independence of Ecuador.
+Parque de la Merced,45,Square,A square that is home to the Church of La Merced.
+Parque Seminario,46,Urban Park,A large park with a variety of activities and attractions.
+Malecón 2000,46,Boulevard,A boulevard that runs along the waterfront.
+Parque de la Ciudadela,46,Garden,A garden with a variety of plants and flowers.
+Parque Forestal,46,Forest,A forest park with a variety of trails and activities.
+Parque Histórico Guayaquil,46,Historical Park,A park that commemorates the history of Guayaquil.
+Parque de las Iguanas,46,Square,A square that is home to a variety of iguanas.
+Parque de la Paz,46,Temple,A temple that is dedicated to peace.
+Parque de la Mujer,46,Square,A square that is dedicated to women.
+Parque de la Familia,46,Square,A square that is dedicated to families.
+Parque de la Amistad,46,Square,A square that is dedicated to friendship.
+Al-Azhar Park,47,Urban Park,A large park with a variety of activities and attractions.
+Zamalek Island,47,Island Park,An island park with a variety of restaurants shops and hotels.
+Giza Necropolis,47,Historical Park,A UNESCO World Heritage Site that is home to the Pyramids of Giza.
+Saqqara Necropolis,47,Historical Park,A UNESCO World Heritage Site that is home to the Step Pyramid of Djoser.
+Memphis Necropolis,47,Historical Park,A UNESCO World Heritage Site that is home to the ruins of the ancient city of Memphis.
+Khan el-Khalili,47,Square,A large square that is home to a variety of shops restaurants and cafes.
+Al-Hussein Mosque,47,Mosque,A mosque that is one of the most important mosques in Cairo.
+Al-Azhar Mosque,47,Mosque,A mosque that is one of the oldest and most important mosques in Cairo.
+Mosque of Muhammad Ali,47,Mosque,A mosque that was built in the 19th century.
+Giza Necropolis,48,Historic Park,The Giza Necropolis is a UNESCO World Heritage Site that includes the Pyramids of Giza the Great Sphinx and other ancient monuments.
+Al-Azhar Park,48,Urban Park,Al-Azhar Park is a large public park in the heart of Cairo. It was built in the 1980s on the site of a former garbage dump.
+Meskel Square,48,Square,Meskel Square is a large public square in the center of Addis Ababa. It is the site of the annual Meskel festival which celebrates the finding of the True Cross.
+Helem Park,49,Urban Park,Helem Park is a large public park in the center of Addis Ababa. It is a popular spot for families and couples to relax and enjoy the outdoors.
+Entoto Maryam Church,49,Temple,Entoto Maryam Church is a large church located on Mount Entoto which overlooks Addis Ababa. It is a popular pilgrimage site for Ethiopian Orthodox Christians.
+Kumulo Mountain Park,49,Mountain Park,Kumulo Mountain Park is a national park located in the Ethiopian Highlands. It is home to a variety of wildlife including elephants lions and leopards.
+Helsinki Olympic Stadium,50,Urban Park,Helsinki Olympic Stadium is a large sports stadium in Helsinki Finland. It was built for the 1952 Summer Olympics and is now used for a variety of events including football matches concerts and exhibitions.
+Seurasaari Island,50,Island Park,Seurasaari Island is a small island in the Helsinki metropolitan area. It is home to a museum of Finnish folk culture and a variety of outdoor activities including hiking swimming and fishing.
+Kaivopuisto Park,50,Urban Park,Kaivopuisto Park is a large public park in Helsinki. It is a popular spot for locals and tourists to relax and enjoy the outdoors.
+Jardin du Luxembourg,51,Urban Park,Jardin du Luxembourg is a large public park in Paris France. It is home to a variety of gardens a palace and a Senate building.
+Champs-Élysées,51,Boulevard,Champs-Élysées is a famous avenue in Paris. It is lined with shops restaurants and cafés.
+Musée d'Orsay,51,Museum,Musée d'Orsay is an art museum in Paris. It is home to a collection of Impressionist and Post-Impressionist paintings.
+Parc de la Villette,51,Urban Park,Parc de la Villette is a large public park in Paris. It is home to a science museum a music conservatory and a variety of outdoor activities including concerts exhibitions and festivals.
+Parc de la Tête d'Or,52,Urban Park,Parc de la Tête d'Or is a large public park in Lyon France. It is home to a zoo a botanical garden and a lake.
+Parc de la Briqueterie,52,Urban Park,Parc de la Briqueterie is a small public park in Lyon. It is home to a playground a picnic area and a variety of outdoor activities including hiking biking and fishing.
+Place Bellecour,52,Square,Place Bellecour is a large square in Lyon. It is the largest square in France and is home to a statue of Louis XIV.
+Parc Borély,53,Urban Park,A large park with gardens a lake and a rose garden.
+Parc du 26ème Centenaire,53,Urban Park,A new park with a playground a skate park and a climbing wall.
+Jardin du Pharo,53,Garden,A botanical garden with a view of the Mediterranean Sea.
+Botanical Garden of Tbilisi,54,Botanical Garden,A large botanical garden with over 10000 species of plants.
+Mtatsminda Park,54,Mountain Park,A mountain park with a cable car a Ferris wheel and a zoo.
+Ritual Garden of Svetitskhoveli Cathedral,54,Temple,A garden with a waterfall and a sacred tree.
+Stuttgarter Volksgarten,55,Urban Park,A large park with a beer garden a playground and a lake.
+Killesbergpark,55,Urban Park,A park with a rollercoaster a carousel and a miniature railway.
+Botanischer Garten Stuttgart,55,Botanical Garden,A botanical garden with over 16000 species of plants.
+Planten un Blomen,56,Urban Park,A park with a greenhouse a Japanese garden and a rose garden.
+Alsterpark,56,Urban Park,A park with a lake a playground and a jogging trail.
+Planten un Blomen,56,Urban Park,A park with a greenhouse a Japanese garden and a rose garden.
+Hofgarten,57,Palace Park,A park with a palace a fountain and a rose garden.
+Nordpark,57,Urban Park,A park with a lake a playground and a jogging trail.
+Rheinpark,57,Riverside Park,A park with a river a playground and a jogging trail.
+Amatitlan Lake,58,Lakeside Park,Amatitlan Lake is a caldera lake located in the south of Guatemala. It is a popular tourist destination for swimming boating and fishing.
+Central Park,58,Urban Park,Central Park is a large public park located in the heart of Guatemala City. It is a popular spot for recreation relaxation and cultural events.
+Malecon,58,Boulevard,Malecon is a waterfront promenade located in the city of Guatemala. It is a popular spot for walking jogging and people-watching.
+National Zoo,58,Zoo,The National Zoo is a zoo located in the city of Guatemala. It is home to over 1000 animals from all over the world.
+Plaza Mayor,58,Square,Plaza Mayor is the main square in the city of Guatemala. It is a popular spot for tourists and locals alike.
+Aravalli Biodiversity Park,59,Urban Park,Aravalli Biodiversity Park is a large public park located in the Aravalli Hills of Delhi. It is home to a variety of plant and animal life including over 200 species of birds.
+Assi Ghat,59,Riverside Park,Assi Ghat is a ghat located on the banks of the Ganges River in Varanasi. It is a popular spot for religious pilgrims and tourists alike.
+Central Park,59,Urban Park,Central Park is a large public park located in the heart of Delhi. It is a popular spot for recreation relaxation and cultural events.
+Humayun's Tomb,59,Historic Park,Humayun's Tomb is a mausoleum located in Delhi. It is the tomb of Mughal emperor Humayun and his wife Hamida Banu Begum.
+Lodhi Gardens,59,Urban Park,Lodhi Gardens is a large public park located in Delhi. It is home to a number of historical monuments including the Tomb of Sikandar Lodhi and the Tomb of Mohammed Shah.
+Elephanta Caves,60,Historic Park,Elephanta Caves are a group of caves located on an island in the Arabian Sea off the coast of Mumbai. The caves are home to a number of Hindu and Buddhist sculptures dating back to the 6th and 7th centuries.
+Gateway of India,60,Monument,Gateway of India is a monument located in Mumbai. It was built in 1924 to commemorate the visit of King George V and Queen Mary to India.
+Marine Drive,60,Boulevard,Marine Drive is a waterfront promenade located in Mumbai. It is a popular spot for walking jogging and people-watching.
+Raj Bhavan,60,Palace,Raj Bhavan is the official residence of the Governor of Maharashtra. It is a large imposing building located in the heart of Mumbai.
+Tarapore Hills,60,Mountain Park,Tarapore Hills is a mountain range located in Mumbai. It is a popular spot for hiking trekking and camping.
+Lalbagh Botanical Garden,61,Botanical Garden,Lalbagh Botanical Garden is a botanical garden located in Bengaluru. It is home to a wide variety of plant life including over 10000 species of plants.
+Malleshwaram Lake,61,Lakeside Park,Malleshwaram Lake is a lake located in Bengaluru. It is a popular spot for swimming boating and fishing.
+Nandi Hills,61,Mountain Park,Nandi Hills is a mountain range located in Bengaluru. It is a popular spot for hiking trekking and camping.
+Zen Garden,61,Garden,Zen Garden is a Japanese garden located in Bengaluru. It is a popular spot for relaxation and meditation.
+Necklace Road,62,Urban Park,A 30-kilometer long road with a park running alongside it offering stunning views of the city and the Hussain Sagar Lake.
+Gachibowli Stadium Park,62,Urban Park,A large park with a variety of facilities including a playground a jogging track and a lake.
+Nehru Zoological Park,62,Zoo,A zoo with over 2500 animals including lions tigers elephants and giraffes.
+KBR Park,62,Urban Park,A large park with a variety of facilities including a playground a jogging track and a lake.
+Lumbini Park,62,Urban Park,A park with a large Buddha statue as well as a variety of other attractions including a water park and a children's park.
+Marina Beach,63,Beach,One of the longest beaches in the world offering stunning views of the Bay of Bengal.
+Guindy National Park,63,National park,A park with a variety of wildlife including tigers leopards and elephants.
+Vandalur Zoo,63,Zoo,A zoo with over 3000 animals including lions tigers elephants and giraffes.
+Theosophical Society Garden,63,Garden,A garden with a variety of plants and flowers as well as a library and a museum.
+Government Botanical Garden,63,Botanical garden,A garden with a variety of plants and flowers as well as a library and a museum.
+Pashan Lake,64,Lakeside Park,A lake with a park surrounding it offering stunning views of the city and the surrounding mountains.
+Rajiv Gandhi Zoological Park,64,Zoo,A zoo with over 1500 animals including lions tigers elephants and giraffes.
+Sinhagad Fort,64,Mountain Park,A fort located on a hilltop offering stunning views of the city and the surrounding countryside.
+Aga Khan Palace,64,Palace,A palace that was once home to the Aga Khan a spiritual leader of the Ismaili Muslims.
+Osho Ashram,64,Temple,An ashram founded by Osho a spiritual leader who was known for his controversial teachings.
+Sabarmati Ashram,65,Temple,An ashram founded by Mahatma Gandhi the leader of the Indian independence movement.
+Gandhinagar Lake,65,Lakeside Park,A lake with a park surrounding it offering stunning views of the city and the surrounding mountains.
+Kankaria Lake,65,Lakeside Park,A lake with a park surrounding it offering stunning views of the city and the surrounding mountains.
+Sidi Sayyed Jali,65,Historic Park,A mosque that was built in the 16th century featuring intricate stonework and latticework.
+Hawa Mahal,65,Palace,A palace that was built in the 18th century featuring a unique honeycomb design.
+Amber Fort,66,Palace,A fort located on a hilltop offering stunning views of the city and the surrounding countryside.
+City Palace,66,Palace,A palace that was once home to the rulers of Jaipur featuring a variety of architectural styles.
+Jantar Mantar,66,Research,An astronomical observatory that was built in the 18th century featuring a variety of instruments.
+Hawa Mahal,66,Palace,A palace that was built in the 18th century featuring a unique honeycomb design.
+Jal Mahal,66,Island Park,A palace located in the middle of a lake offering stunning views of the city and the surrounding countryside.
+Ambedkar Park,67,Urban Park,A large urban park with a variety of facilities including a lake a playground and a walking track.
+Kanpur Zoo,67,Zoo,A zoo with a variety of animals including lions tigers and elephants.
+Lucknow Botanical Garden,67,Botanical Garden,A botanical garden with a variety of plants including trees flowers and shrubs.
+Ramlila Maidan,67,Square,A large square that is used for public events such as religious festivals and political rallies.
+Chowk,67,Market,A historic market that is known for its narrow streets and bustling atmosphere.
+Taj Mahal,67,Historic Park,A UNESCO World Heritage Site that is one of the most famous buildings in the world.
+Taman Mini Indonesia Indah,68,Urban Park,A theme park that showcases the cultures of Indonesia's 34 provinces.
+Taman Impian Jaya Ancol,68,Amusement Park,An amusement park with a variety of rides including roller coasters water rides and shows.
+Kebun Binatang Ragunan,68,Zoo,A zoo with a variety of animals including lions tigers and elephants.
+Taman Suropati,68,Square,A large square that is used for public events such as concerts and festivals.
+Kota Tua,68,Historic Park,A historic district that is home to a variety of colonial buildings.
+Taman Bungkul,69,Urban Park,A large urban park with a variety of facilities including a lake a playground and a walking track.
+Surabaya Zoo,69,Zoo,A zoo with a variety of animals including lions tigers and elephants.
+Taman Flora Kebun Bibit Wonorejo,69,Botanical Garden,A botanical garden with a variety of plants including trees flowers and shrubs.
+Taman Hiburan Rakyat (THR) Surabaya,69,Amusement Park,An amusement park with a variety of rides including roller coasters water rides and shows.
+Taman Skatepark Kenjeran,69,Skatepark,A skatepark with a variety of ramps and obstacles for skateboarders and BMX riders.
+Fort Rotterdam,69,Historic Park,A historic fort that was built by the Dutch in the 17th century.
+Monumen Jalesveva Jayamahe,70,Viewpoint,A viewpoint that offers panoramic views of the city and the Makassar Strait.
+Benteng Fort Rotterdam,70,Historic Park,A historic fort that was built by the Dutch in the 17th century.
+Monumen Mandala Nasional,70,Square,A large square that is used for public events such as concerts and festivals.
+Taman Makam Pahlawan (TMP) Panaikang,70,Cemetery,A cemetery that is the final resting place of many of Indonesia's national heroes.
+Taman Hiburan Rakyat (THR) Makassar,70,Amusement Park,An amusement park with a variety of rides including roller coasters water rides and shows.
+Golestan Palace,71,Palace Park,A palace complex that was built by the Qajar dynasty in the 18th century.
+Imam Khomeini Mausoleum,71,Religious Site,The mausoleum of the founder of the Islamic Republic of Iran.
+Azadi Tower,71,Viewpoint,A tower that offers panoramic views of the city.
+Niavaran Cultural Complex,71,Historic Park,A complex of historic buildings that was built by the Pahlavi dynasty in the 20th century.
+Lalezar Garden,71,Garden,A garden with a variety of flowers trees and shrubs.
+Azadi Square,72,Square,A large public square in the center of Mashhad Iran. It is one of the largest squares in the world with a surface area of over 500000 square meters.
+Baharestan Park,72,Urban Park,A large urban park in the center of Mashhad Iran. It is one of the most popular parks in the city and is home to a variety of attractions including a zoo a botanical garden and a lake.
+Golestan Garden,72,Historic Park,A UNESCO World Heritage Site Golestan Garden is one of the most important historical gardens in Iran. It was built in the 18th century by the Qajar dynasty and is home to a variety of pavilions fountains and gardens.
+Tabriz Park,73,Urban Park,A large urban park in the center of Tabriz Iran. It is one of the most popular parks in the city and is home to a variety of attractions including a zoo a botanical garden and a lake.
+Shahriar Park,73,Urban Park,A large urban park in the south of Tabriz Iran. It is one of the most popular parks in the city and is home to a variety of attractions including a zoo a botanical garden and a lake.
+Sattarkhan Park,73,Urban Park,A large urban park in the east of Tabriz Iran. It is one of the most popular parks in the city and is home to a variety of attractions including a zoo a botanical garden and a lake.
+Al-Zawraa Park,74,Urban Park,A large urban park in the center of Baghdad Iraq. It is one of the most popular parks in the city and is home to a variety of attractions including a zoo a botanical garden and a lake.
+Al-Furat Park,74,Urban Park,A large urban park in the south of Baghdad Iraq. It is one of the most popular parks in the city and is home to a variety of attractions including a zoo a botanical garden and a lake.
+Al-Kadhimiya Park,74,Urban Park,A large urban park in the north of Baghdad Iraq. It is one of the most popular parks in the city and is home to a variety of attractions including a zoo a botanical garden and a lake.
+Nineveh Park,75,Urban Park,A large urban park in the center of Mosul Iraq. It is one of the most popular parks in the city and is home to a variety of attractions including a zoo a botanical garden and a lake.
+Al-Nuri Park,75,Urban Park,A large urban park in the south of Mosul Iraq. It is one of the most popular parks in the city and is home to a variety of attractions including a zoo a botanical garden and a lake.
+Al-Tahrir Park,75,Urban Park,A large urban park in the north of Mosul Iraq. It is one of the most popular parks in the city and is home to a variety of attractions including a zoo a botanical garden and a lake.
+Villa Borghese,76,Urban Park,One of the largest public parks in Rome Villa Borghese is a beautiful park with a variety of attractions including a zoo a botanical garden and a lake.
+Villa Doria Pamphili,76,Urban Park,Another large public park in Rome Villa Doria Pamphili is a beautiful park with a variety of attractions including a zoo a botanical garden and a lake.
+Villa Gregoriana,76,Urban Park,A beautiful park located in the Tivoli Valley Villa Gregoriana is home to a variety of waterfalls caves and grottoes.
+Parco Sempione,77,Urban Park,A large public park in the center of Milan Italy. It is home to the Castello Sforzesco the Arco della Pace and the Giardini Pubblici Indro Montanelli.
+La Pineta di Appia Antica,77,Urban Park,A large pine forest located along the Appian Way in Rome Italy. It is a popular spot for hiking biking and picnicking.
+Parco del Valentino,77,Urban Park,A large park located on the banks of the Po River in Turin Italy. It is home to the Castello del Valentino the Giardini Botanici dell'Università di Torino and the Museo dell'Automobile di Torino.
+Parc National de la Comoé,78,National Park,A large national park located in the Comoé River basin in Ivory Coast. It is home to a variety of wildlife including elephants lions and buffalo.
+Parc National du Banco,78,National Park,A small national park located in the Banco Lagoon in Abidjan Ivory Coast. It is home to a variety of wildlife including monkeys birds and reptiles.
+Ueno Park,79,Urban Park,A large public park located in the Ueno district of Tokyo Japan. It is home to the Tokyo National Museum the National Museum of Nature and Science and the Ameyoko Market.
+Shinjuku Gyoen National Garden,79,Urban Park,A large public park located in the Shinjuku and Shibuya districts of Tokyo Japan. It is home to three gardens: the Japanese Garden the English Garden and the French Garden.
+Yoyogi Park,79,Urban Park,A large public park located in the Shibuya and Shinjuku districts of Tokyo Japan. It is home to the Meiji Jingu Shrine the Yoyogi National Gymnasium and the Harajuku district.
+Hirado Park,80,Urban Park,A large public park located in the Chuo-ku district of Fukuoka Japan. It is home to the Fukuoka Castle ruins the Kyushu National Museum and the Fukuoka Art Museum.
+Ohori Park,80,Urban Park,A large public park located in the Chuo-ku district of Fukuoka Japan. It is home to the Ohori Pond the Fukuoka City Museum and the Fukuoka City Zoo.
+Moerenuma Park,81,Urban Park,A large public park located in the Sapporo ward of Sapporo Japan. It is home to the Moerenuma Hills the Moerenuma Art Museum and the Sapporo Snow Festival.
+Odori Park,81,Urban Park,A large public park located in the Chuo-ku district of Sapporo Japan. It is home to the Odori Park Fountain the Odori Park Ice Rink and the Sapporo TV Tower.
+Chapultepec Castle Park,87,Urban Park,A large park with a castle museums and gardens.
+Bosque de Chapultepec,87,Forest,A large forest with hiking trails lakes and wildlife.
+Alameda Central,87,Square,A historic square in the heart of the city.
+Casablanca Zoo,88,Zoo,A zoo with over 1200 animals.
+Hassan II Mosque,88,Mosque,The largest mosque in Morocco.
+Jardin Majorelle,88,Garden,A beautiful garden with colorful plants and a museum.
+Durbar Square,89,Historic Park,A UNESCO World Heritage Site with temples palaces and museums.
+Swayambhunath Stupa,89,Temple,A Buddhist stupa with panoramic views of the city.
+Pashupatinath Temple,89,Temple,A Hindu temple with cremation grounds.
+Vondelpark,90,Urban Park,A large park with a lake playgrounds and a theater.
+Rijksmuseum Gardens,90,Garden,The gardens of the Rijksmuseum with tulips and other flowers.
+Anne Frank House,90,Historic Park,The house where Anne Frank hid during the Holocaust.
+Osaka Castle Park,82,Urban Park,A large park located in the center of Osaka Japan. It is home to Osaka Castle a UNESCO World Heritage Site.
+Universal Studios Japan,82,Amusement Park,A theme park based on the Universal Studios film and television franchises.
+Minami Park,82,Urban Park,A large park located in the southern part of Osaka. It is home to the Osaka Aquarium Kaiyukan the largest aquarium in Japan.
+Kobe Port Park,82,Urban Park,A large park located in the port of Kobe. It is home to the Kobe Maritime Museum and the Kobe Maritime Museum Observatory.
+Hiroshima Peace Memorial Park,83,Urban Park,A park dedicated to the victims of the atomic bombing of Hiroshima. It is home to the Hiroshima Peace Memorial Museum and the Hiroshima Peace Memorial Cenotaph.
+Hiroshima Castle Park,83,Urban Park,A park located in the center of Hiroshima. It is home to Hiroshima Castle a UNESCO World Heritage Site.
+Mitsui Garden Park,83,Urban Park,A large park located in the western part of Hiroshima. It is home to the Hiroshima City Museum of Art and the Hiroshima City Museum of History and Traditional Crafts.
+Amman Citadel,84,Historic Park,A UNESCO World Heritage Site located in the center of Amman. It is home to the Temple of Hercules the Umayyad Palace and the Jordan Archaeological Museum.
+Al Husseini Mosque,84,Mosque,The largest mosque in Jordan. It is located in the center of Amman.
+Rainbow Street,84,Boulevard,A popular shopping and dining street located in the Jabal Amman district of Amman.
+Nairobi National Park,85,National Park,A large national park located just outside of Nairobi. It is home to a variety of wildlife including lions elephants and rhinos.
+Karura Forest,85,Forest,A large forest located on the outskirts of Nairobi. It is a popular spot for hiking biking and picnicking.
+Nairobi Arboretum,85,Botanical Garden,A botanical garden located in the Karen district of Nairobi. It is home to a variety of plants from around the world.
+Kuwait City Park,86,Urban Park,A large park located in the center of Kuwait City. It is home to the Kuwait Towers a symbol of Kuwait.
+Al Shaheed Park,86,Urban Park,A park dedicated to the victims of the Iraqi invasion of Kuwait. It is home to the Kuwait Liberation Monument.
+Sabah Al Salem Park,86,Urban Park,A large park located in the western part of Kuwait City. It is home to the Kuwait Zoo and the Kuwait Science Center.
+Gidan Murtala Muhammed,91,Urban Park,A large urban park with a variety of amenities including a playground a swimming pool and a football field.
+Tafo National Park,91,National park,A large national park with a variety of wildlife including lions elephants and giraffes.
+Kano Zoo,91,Zoo,A zoo with a variety of animals including lions tigers and elephants.
+Pyongyang Central Zoo,92,Zoo,A zoo with a variety of animals including lions tigers and elephants.
+Mt. Paektu,92,Mountain Park,A mountain park with a variety of hiking trails and scenic views.
+Botanical Garden of Pyongyang,92,Botanical garden,A botanical garden with a variety of plants from around the world.
+Karachi Zoo,93,Zoo,A zoo with a variety of animals including lions tigers and elephants.
+Jinnah Gardens,93,Urban Park,A large urban park with a variety of amenities including a playground a swimming pool and a football field.
+Lahore Fort,94,Historic Park,A historic fort that was once the capital of the Mughal Empire.
+Wazir Khan Mosque,94,Mosque,A beautiful mosque that is one of the most popular tourist attractions in Lahore.
+Jallo Park,94,Urban Park,A large urban park with a variety of amenities including a playground a swimming pool and a football field.
+Lahore Zoo,94,Zoo,A zoo with a variety of animals including lions tigers and elephants.
+Jinnah Garden,95,Urban Park,A large urban park with a variety of amenities including a playground a swimming pool and a football field.
+Iqbal Park,95,Urban Park,A large urban park with a variety of amenities including a playground a swimming pool and a football field.
+Faisalabad Zoo,95,Zoo,A zoo with a variety of animals including lions tigers and elephants.
+Gulshan-e-Iqbal Park,96,Urban Park,A large public park in Peshawar Pakistan. It is one of the most popular tourist destinations in the city.
+Ziaul Haq Park,96,Urban Park,A large public park in Peshawar Pakistan. It is named after the former President of Pakistan Zia-ul-Haq.
+Jinnah Bagh,96,Urban Park,A large public park in Peshawar Pakistan. It is named after the founder of Pakistan Muhammad Ali Jinnah.
+Asuncion Botanical Garden,97,Botanical Garden,A botanical garden in Asuncion Paraguay. It is one of the largest botanical gardens in South America.
+Parque Ñu Guasu,97,Urban Park,A large public park in Asuncion Paraguay. It is one of the most popular tourist destinations in the city.
+Parque Carlos Antonio López,97,Urban Park,A large public park in Asuncion Paraguay. It is named after the former President of Paraguay Carlos Antonio López.
+Parque de la Democracia,97,Urban Park,A large public park in Asuncion Paraguay. It is dedicated to the memory of the victims of the Stroessner dictatorship.
+Larco Herrera Museum,98,Museum,A museum in Lima Peru. It is home to a large collection of pre-Columbian art.
+Parque de la Reserva,98,Urban Park,A large public park in Lima Peru. It is home to a variety of gardens and attractions including a water park and a zoo.
+Parque del Amor,98,Urban Park,A small public park in Lima Peru. It is known for its iconic heart-shaped fountain.
+Rizal Park,98,Urban Park,A large public park in Manila Philippines. It is the site of the Rizal Monument a memorial to the national hero of the Philippines José Rizal.
+Luneta Park,98,Urban Park,A large public park in Manila Philippines. It is the site of the Japanese Peace Memorial a memorial to the victims of the Japanese occupation of the Philippines.
+Parque de la Independência,99,Urban Park,A large public park in Lisbon Portugal. It is the site of the Padrão dos Descobrimentos a monument to the Portuguese explorers.
+Jardim do Príncipe Real,99,Garden,A garden in Lisbon Portugal. It is known for its beautiful flowers and its peaceful atmosphere.
+Jardim da Estrela,99,Garden,A garden in Lisbon Portugal. It is home to a variety of plants and animals including a lake and a zoo.
+Parque Eduardo VII,99,Urban Park,A large public park in Lisbon Portugal. It is one of the most popular tourist destinations in the city.
+Parque das Nações,99,Urban Park,A large public park in Lisbon Portugal. It was built for the 1998 World Expo.
+Condado Lagoon Park,101,Urban Park,A 24-acre park with a lagoon walking trails and a playground.
+El Yunque National Forest,101,National Park,A tropical rainforest with hiking trails waterfalls and swimming holes.
+Museo de Arte de Puerto Rico,101,Museum,A museum with a collection of Puerto Rican art.
+Parque de las Palomas,101,Square,A public square with a fountain and benches.
+Parque Luis Muñoz Marín,101,Urban Park,A large park with a lagoon a zoo and a botanical garden.
+Gorky Park,102,Urban Park,A large park with a lake a theater and a Ferris wheel.
+Red Square,102,Square,A historic square with the Kremlin St. Basil's Cathedral and the GUM department store.
+Tsaritsyno Park,102,Palace park,A former imperial palace with a park a museum and a theater.
+Zoological Park of Moscow,102,Zoo,A zoo with over 6000 animals.
+Summer Garden,103,Palace park,A former imperial garden with a theater a museum and a fountain.
+Peterhof Palace and Park,103,Palace park,A former imperial palace with a park a museum and a fountain.
+Tsarskoye Selo,103,Palace park,A former imperial palace with a park a museum and a theater.
+Zelenogradsky Park,103,Urban Park,A large park with a lake a theater and a Ferris wheel.
+Central Park,104,Urban Park,A large park with a lake a theater and a Ferris wheel.
+Ekaterinburg Zoo,104,Zoo,A zoo with over 2000 animals.
+Park of the 300th Anniversary of Yekaterinburg,104,Urban Park,A large park with a lake a theater and a Ferris wheel.
+Al-Murabba`,105,Urban Park,A large public park in the heart of Riyadh. It is home to a number of historical and cultural landmarks including the Masmak Fort and the King Abdulaziz Historical Center.
+Al-Turaif,105,Historic Park,A UNESCO World Heritage Site Al-Turaif is a historic district in Riyadh that was once the capital of the Emirate of Riyadh. It is home to a number of traditional mud-brick buildings including the Al-Turaif Museum and the Sheikh Mohammed bin Abdulwahhab Mosque.
+Al-Kharj National Park,105,National Park,A large national park located about an hour's drive from Riyadh. It is home to a variety of wildlife including gazelles oryx and Arabian leopards.
+Jeddah Corniche,106,Boulevard,A 30-kilometer-long waterfront promenade that stretches along the Red Sea coast. It is a popular spot for jogging cycling and swimming.
+Al-Safa Park,106,Urban Park,A large public park located in the heart of Jeddah. It is home to a number of attractions including the Jeddah Fountain the Jeddah Planetarium and the Jeddah Zoo.
+Fort Canning Park,107,Urban Park,A large public park located in the heart of Singapore. It is home to a number of historical and cultural landmarks including the Battlebox the Fort Canning Centre and the Singapore Botanic Gardens.
+Jurong Bird Park,107,Zoo,A large zoo located in the western part of Singapore. It is home to over 5000 birds from over 350 species.
+Singapore Botanic Gardens,107,Botanical Garden,A UNESCO World Heritage Site the Singapore Botanic Gardens is a tropical garden that was founded in 1859. It is home to a variety of plants including orchids palms and ferns.
+Constitution Hill,108,Historic Park,A historic hill located in the center of Johannesburg. It is home to a number of historical landmarks including the Union Buildings the Nelson Mandela Capture Site and the Voortrekker Monument.
+Gold Reef City,108,Amusement Park,An amusement park located in the northern suburbs of Johannesburg. It is home to a number of rides and attractions including the Gold Reef City Theme Park the Apartheid Museum and the Orlando Towers.
+Johannesburg Zoo,108,Zoo,A large zoo located in the northern suburbs of Johannesburg. It is home to over 2000 animals from over 200 species.
+Table Mountain National Park,109,National Park,A UNESCO World Heritage Site with stunning views of the city and ocean.
+Kirstenbosch National Botanical Garden,109,Botanical Garden,A beautiful garden with a variety of plants from all over the world.
+Victoria & Alfred Waterfront,109,Urban Park,A vibrant waterfront area with shops restaurants and attractions.
+Hangang River Park,110,Riverside Park,A long stretch of parkland along the Han River perfect for a stroll bike ride or picnic.
+Insadong,110,Historic Park,A traditional Korean shopping street with a variety of shops restaurants and teahouses.
+Gyeongbokgung Palace,110,Palace Park,One of the five grand palaces of the Joseon Dynasty.
+N Seoul Tower,110,Viewpoint,A communications and observation tower with stunning views of the city.
+Daejeon Expo Park,111,Urban Park,A large park with a variety of attractions including the World Expo Museum and the Expo Science Park.
+Bukchon Hanok Village,111,Historic Park,A traditional Korean village with a variety of hanok (traditional Korean houses).
+Daejeon Science Park,111,Research Park,A science park with a variety of museums research institutes and educational facilities.
+Daegu Citizen's Park,112,Urban Park,A large park with a variety of attractions including the Daegu Zoo the Daegu Museum of Art and the Daegu Sports Complex.
+Buk-gu Ecological Park,112,Forest,A forest park with a variety of hiking trails and natural attractions.
+Daegu National Museum of Art,112,Museum,A museum with a collection of Korean and international art.
+Parc de la Ciutadella,113,Urban Park,A large park with a variety of attractions including the Barcelona Zoo the Catalan Parliament and the Palau Nacional.
+Montjuïc Park,113,Mountain Park,A mountain park with a variety of hiking trails and stunning views of the city.
+Barceloneta Beach,113,Beach,A popular beach with a variety of amenities including restaurants bars and shops.
+Las Ramblas,113,Boulevard,A lively pedestrian street with a variety of shops restaurants and performers.
+Sagrada Família,113,Temple,An unfinished basilica by Antoni Gaudí.
+Casa de Campo,114,Urban Park,The largest park in Madrid with a variety of activities and attractions.
+Retiro Park,114,Urban Park,A beautiful park in the heart of Madrid with a lake gardens and a variety of sculptures.
+Parque del Buen Retiro,114,Urban Park,A large park in the center of Madrid with a lake gardens and a variety of activities and attractions.
+Alfonso XII Park,114,Urban Park,A large park in the center of Madrid with a lake gardens and a variety of activities and attractions.
+Parque Juan Carlos I,114,Urban Park,A large park in the south of Madrid with a lake gardens and a variety of activities and attractions.
+Al-Azhar Park,115,Urban Park,A large park in the center of Khartoum with a variety of activities and attractions.
+Hilton Khartoum Corniche Park,115,Urban Park,A beautiful park along the Nile River with a variety of activities and attractions.
+Al-Sahafah Park,115,Urban Park,A large park in the north of Khartoum with a variety of activities and attractions.
+Al-Nil Park,115,Urban Park,A large park in the south of Khartoum with a variety of activities and attractions.
+Al-Fateh Park,115,Urban Park,A large park in the east of Khartoum with a variety of activities and attractions.
+Palmyra Park,116,Urban Park,A beautiful park in the center of Homs with a variety of activities and attractions.
+Tishreen Park,116,Urban Park,A large park in the north of Homs with a variety of activities and attractions.
+Al-Abassieh Park,116,Urban Park,A large park in the south of Homs with a variety of activities and attractions.
+Al-Zahraa Park,116,Urban Park,A large park in the east of Homs with a variety of activities and attractions.
+Al-Jalaa Park,116,Urban Park,A large park in the west of Homs with a variety of activities and attractions.
+Daan Forest Park,117,Urban Park,A large park in the center of Taipei with a variety of activities and attractions.
+Yangmingshan National Park,117,National park,A beautiful national park in the north of Taipei with a variety of activities and attractions.
+Elephant Mountain,117,Mountain Park,A popular hiking spot in the north of Taipei with stunning views of the city.
+Nangang Park,117,Urban Park,A large park in the south of Taipei with a variety of activities and attractions.
+Zhongzheng Park,117,Urban Park,A large park in the center of Taipei with a variety of activities and attractions.
+Chatuchak Park,118,Urban Park,A large park in the north of Bangkok with a variety of activities and attractions.
+Lumphini Park,118,Urban Park,A large park in the center of Bangkok with a variety of activities and attractions.
+Variety Garden,118,Urban Park,A small park in the center of Bangkok with a variety of activities and attractions.
+Chinatown Park,118,Urban Park,A small park in the Chinatown district of Bangkok with a variety of activities and attractions.
+Chatuchak Weekend Market,118,Market,A large weekend market in the north of Bangkok with a variety of goods and activities.
+Gülhane Parkı,119,Urban Park,A large public park in the heart of Istanbul with gardens fountains and a museum.
+Yıldız Parkı,119,Urban Park,A former palace garden now a public park with a lake a mosque and a museum.
+Emirgan Parkı,119,Urban Park,A large park with gardens a lake and a tea garden.
+Ankara Castle,120,Historic Park,A 10th-century castle that offers stunning views of the city.
+Atatürk Forest Park,120,Forest,A large forest park with hiking trails a lake and a zoo.
+Ankara Botanical Garden,120,Botanical Garden,A garden with over 10000 species of plants from around the world.
+Adana Atatürk Parkı,121,Urban Park,A large public park with gardens a lake and a museum.
+Sabancı Merkez Camii Parkı,121,Urban Park,A park with a mosque a library and a museum.
+Karataş Beach Parkı,121,Beach,A beach park with a long stretch of sand and clear water.
+Regent's Park,122,Urban Park,A large park in the heart of London with gardens a lake and a zoo.
+Hyde Park,122,Urban Park,A large park in the heart of London with gardens a lake and a Speakers' Corner where people can freely express their views.
+Greenwich Park,122,Urban Park,A park in Greenwich with a view of the Prime Meridian and the Royal Observatory.
+Birmingham Botanical Gardens,123,Botanical Garden,A garden with over 15000 species of plants from around the world.
+Cadbury World,123,Amusement Park,A theme park based on the history of Cadbury chocolate.
+Kedleston Hall,123,Historic Park,A 17th-century country house with gardens and a park.
+Central Park,125,Urban Park,A large urban park in the borough of Manhattan New York City United States. Central Park is the most visited urban park in the United States with 40 million visitors in 2013 and one of the most filmed locations in the world.
+Washington Square Park,125,Square,A 9.75-acre public park in the Greenwich Village neighborhood of Lower Manhattan New York City. One of the best known of New York City's public parks it is an icon as well as a meeting place and center for cultural activity.
+The High Line,125,Urban Park,A linear park elevated above a former railway line running through the Lower West Side of Manhattan New York City. The High Line was created by the Friends of the High Line an organization formed in 1999 to advocate for the park's creation. The park opened in 2009 and has since become one of the most popular tourist attractions in New York City.
+Bryant Park,125,Urban Park,A 9.6-acre public park located in the heart of Midtown Manhattan New York City. Bryant Park is known for its beautiful gardens fountains and food kiosks. It is also home to the New York Public Library the Rose Center for Earth and Space and the Bryant Park Winter Village.
+Washington Monument,124,Monument,An obelisk on the National Mall in Washington D.C. built to commemorate George Washington once the commander-in-chief of the Continental Army and the first president of the United States. The monument is made of marble granite and bluestone gneiss and it stands 555 feet tall. It was completed in 1884 and is one of the most iconic landmarks in Washington D.C.
+Lincoln Memorial,124,Memorial,A neoclassical memorial on the National Mall in Washington D.C. built to honor the memory of Abraham Lincoln the 16th president of the United States. The memorial is composed of a large marble temple with a seated Lincoln statue inside. It was completed in 1922 and is one of the most popular tourist destinations in Washington D.C.
+Thomas Jefferson Memorial,124,Memorial,A neoclassical memorial on the National Mall in Washington D.C. built to honor the memory of Thomas Jefferson the 3rd president of the United States. The memorial is composed of a large dome with a seated Jefferson statue inside. It was completed in 1943 and is one of the most popular tourist destinations in Washington D.C.
+Smithsonian National Air and Space Museum,124,Museum,A museum of aviation and space exploration located on the National Mall in Washington D.C. The museum is part of the Smithsonian Institution and is one of the most popular tourist destinations in Washington D.C. It houses a large collection of aircraft spacecraft and other artifacts related to aviation and space exploration.
+Smithsonian National Museum of Natural History,124,Museum,A natural history museum located on the National Mall in Washington D.C. The museum is part of the Smithsonian Institution and is one of the most popular tourist destinations in Washington D.C. It houses a large collection of natural history specimens including dinosaurs animals plants and minerals.
+Grant Park,126,Urban Park,A large park in the Loop with Buckingham Fountain Millennium Park and the Art Institute of Chicago.
+Lincoln Park,126,Urban Park,A large park in the Lincoln Park neighborhood with the Lincoln Park Zoo Peggy Notebaert Nature Museum and Lincoln Park Conservatory.
+Lake Michigan,126,Lakeside Park,The largest lake in the Great Lakes and a popular spot for swimming boating and fishing.
+Millenium Park,126,Urban Park,A modern park in the Loop with the Cloud Gate sculpture Jay Pritzker Pavilion and Lurie Garden.
+Magnificent Mile,126,Boulevard,A popular shopping and dining district in the Loop.
+The Field Museum,126,Museum,A natural history museum with exhibits on dinosaurs ancient Egypt and other topics.
+The Art Institute of Chicago,126,Museum,An art museum with a large collection of paintings sculptures and other works of art.
+Willis Tower,126,Viewpoint,A skyscraper with an observation deck that offers panoramic views of the city.
+Navy Pier,126,Amusement Park,An amusement park with rides games and restaurants.
+Museum of Science and Industry,126,Museum,A science museum with interactive exhibits on a variety of topics.
+Jungle Island,127,Zoo,A zoo with over 2000 animals from around the world.
+Vizcaya Museum and Gardens,127,Botanical Garden,A museum and gardens with a collection of European-style gardens.
+South Beach,127,Beach,A popular beach with white sand and clear water.
+Little Havana,127,Square,A neighborhood with a large Cuban population.
+Calle Ocho,127,Boulevard,A popular street in Little Havana with shops restaurants and music.
+Pérez Art Museum Miami,127,Museum,An art museum with a collection of modern and contemporary art.
+Frost Science Museum,127,Museum,A science museum with interactive exhibits on a variety of topics.
+Philip and Patricia Frost Museum of Science,127,Museum,A science museum with interactive exhibits on a variety of topics.
+Piedmont Park,128,Urban Park,A large park in the Midtown Atlanta neighborhood with the Atlanta Botanical Garden the Atlanta Zoo and the Fox Theatre.
+Centennial Olympic Park,128,Urban Park,A park built for the 1996 Summer Olympics with the Olympic Flame the World of Coca-Cola and the Georgia Aquarium.
+Martin Luther King Jr. National Historic Site,128,Historic Park,A park with the Martin Luther King Jr. Memorial the Ebenezer Baptist Church and the King Center.
+Atlanta Botanical Garden,128,Botanical Garden,A botanical garden with a collection of plants from around the world.
+Atlanta Zoo,128,Zoo,A zoo with over 1200 animals from around the world.
+Fox Theatre,128,Palace Park,A historic theater that hosts a variety of performances including concerts plays and movies.
+High Museum of Art,128,Museum,An art museum with a collection of paintings sculptures and other works of art.
+Center for Puppetry Arts,128,Museum,A museum with a collection of puppets from around the world.
+World of Coca-Cola,128,Museum,A museum that tells the story of Coca-Cola and its history.
+Klyde Warren Park,129,Urban Park,A 5.2-acre deck park built over a freeway in downtown Dallas.
+White Rock Lake Park,129,Lakeside Park,A 1870-acre park with a lake trails and a golf course.
+Dallas Arboretum and Botanical Garden,129,Botanical Garden,A 66-acre garden with a variety of plants and flowers.
+Fort Worth Zoo,129,Zoo,A zoo with over 5000 animals from around the world.
+Grapevine Vintage Railroad,129,Historic Park,A historic railroad that offers train rides through the countryside.
+Fairmount Park,130,Urban Park,A 9100-acre park with a variety of attractions including the Philadelphia Museum of Art and the Please Touch Museum.
+The Morris Arboretum of the University of Pennsylvania,130,Botanical Garden,A 198-acre garden with a variety of plants and flowers.
+The Philadelphia Zoo,130,Zoo,A zoo with over 1300 animals from around the world.
+Camden Waterfront,130,Riverside Park,A waterfront park with a variety of attractions including the Adventure Aquarium and the BB&T Pavilion.
+The Betsy Ross House,130,Historic Park,The house where Betsy Ross is said to have sewn the first American flag.
+Boston Common,131,Urban Park,The oldest public park in the United States with a variety of attractions including the State House and the Park Street Church.
+Public Garden,131,Urban Park,A 24-acre park with a variety of flowers and trees including the famous Swan Boats.
+Fenway Park,131,Ballpark,Home of the Boston Red Sox.
+Museum of Fine Arts,131,Museum,A museum with a vast collection of art from around the world.
+Isabella Stewart Gardner Museum,131,Museum,A museum with a collection of European art.
+Golden Gate Park,132,Urban Park,One of the largest urban parks in the world with gardens lakes and a Japanese Tea Garden.
+Alcatraz Island,132,Island Park,Former federal prison and now a popular tourist destination.
+Fisherman's Wharf,132,Seaside Park,A popular tourist destination with seafood restaurants shops and attractions.
+Chinatown,132,Historic Park,The oldest Chinatown in North America with a vibrant community and delicious food.
+Coit Tower,132,Viewpoint,A 210-foot tower with panoramic views of the city.
+Twin Peaks,132,Viewpoint,A popular spot for hiking and taking in views of the city.
+Palace of Fine Arts,132,Historic Park,A beautiful and iconic building that is a popular tourist destination.
+Balboa Park,133,Urban Park,One of the largest urban parks in the United States with museums gardens and a zoo.
+Mission Beach,133,Beach,A popular beach destination with a boardwalk amusement park and restaurants.
+La Jolla Cove,133,Beach,A beautiful cove with crystal-clear water and tide pools.
+Torrey Pines State Reserve,133,State Park,A stunning coastal park with hiking trails beaches and a Torrey pine forest.
+San Diego Zoo,133,Zoo,One of the world's largest and most popular zoos.
+San Diego Zoo Safari Park,133,Zoo,A safari park with over 3500 animals from all over the world.
+SeaWorld San Diego,133,Amusement Park,An amusement park with marine life shows and attractions.
+Balboa Park Botanical Garden,133,Botanical Garden,A beautiful garden with over 1700 plant species.
+Japanese Friendship Garden,133,Garden,A beautiful Japanese garden with a koi pond tea house and waterfall.
+Children's Pool,133,Beach,A popular beach destination for families with young children.
+Happy Hollow Park & Zoo,134,Zoo,A small zoo with a variety of animals including monkeys bears and lions.
+Alum Rock Park,134,State Park,A large state park with hiking trails waterfalls and a reservoir.
+Almaden Quicksilver County Park,134,County Park,A historic park with hiking trails a museum and a former mercury mine.
+Stevens Creek County Park,134,County Park,A large county park with hiking trails a lake and a redwood forest.
+Guadalupe River Park,134,River Park,A beautiful river park with hiking trails a bike path and a playground.
+San Jose Flea Market,134,Market,A large flea market with a variety of vendors selling everything from antiques to electronics.
+Hermann Park,135,Urban Park,A 445-acre urban park in Houston Texas United States within the Houston Museum District.
+Discovery Green,135,Urban Park,A 12-acre public park in downtown Houston Texas United States.
+Memorial Park,135,Urban Park,A 1554-acre urban park in Houston Texas United States.
+Miller Outdoor Theatre,135,Urban Park,An outdoor amphitheater in Houston Texas United States.
+The Houston Zoo,135,Zoo,A zoo in Houston Texas United States.
+The Houston Arboretum and Nature Center,135,Urban Park,A 150-acre urban park in Houston Texas United States.
+Encanto Park,136,Urban Park,A 1200-acre urban park in Phoenix Arizona United States.
+Desert Botanical Garden,136,Botanical Garden,A botanical garden in Phoenix Arizona United States.
+Papago Park,136,Urban Park,A 1280-acre urban park in Phoenix Arizona United States.
+Saguaro National Park,136,National park,A national park in the Sonoran Desert of Arizona United States.
+Phoenix Zoo,136,Zoo,A zoo in Phoenix Arizona United States.
+Belle Isle Park,137,Urban Park,A 1278-acre urban park in Detroit Michigan United States.
+The Detroit Zoo,137,Zoo,A zoo in Detroit Michigan United States.
+Canary Garden Park,137,Urban Park,A 14-acre urban park in Detroit Michigan United States.
+Eastern Market,137,Market,An outdoor market in Detroit Michigan United States.
+The Green,137,Urban Park,A 1.2-acre urban park in Detroit Michigan United States.
+Bicentennial Capitol Mall State Park,141,Urban Park,A 10-acre urban park that is home to the State Capitol the Bicentennial Capitol Mall State Park is a popular destination for visitors and locals alike. The park features a variety of amenities including a playground a picnic area a walking trail and a dog park.
+Centennial Park,141,Urban Park,Centennial Park is a 132-acre urban park located in the heart of Nashville. The park is home to the Parthenon a full-scale replica of the Parthenon in Athens Greece. Centennial Park also features a playground a picnic area a walking trail and a dog park.
+Belle Meade Plantation,141,Historic Park,Belle Meade Plantation is a historic plantation located in Nashville. The plantation was built in 1807 and is now a museum that offers tours of the house the grounds and the slave quarters. Belle Meade Plantation is also home to a working horse farm.
+Nashville Zoo,141,Zoo,The Nashville Zoo is a zoo located in Nashville. The zoo is home to over 4000 animals including lions tigers bears elephants and gorillas. The Nashville Zoo is also home to a variety of educational programs and exhibits.
+Alisher Navoi Park,142,Urban Park,Alisher Navoi Park is a 12-hectare urban park located in the center of Tashkent. The park is named after the famous 15th-century poet Alisher Navoi. Alisher Navoi Park features a variety of amenities including a playground a picnic area a walking trail and a lake.
+Tashkent State Botanical Garden,142,Botanical Garden,The Tashkent State Botanical Garden is a botanical garden located in Tashkent. The garden is home to over 10000 species of plants from all over the world. The Tashkent State Botanical Garden also features a variety of educational programs and exhibits.
+Chimgan National Park,142,Mountain Park,Chimgan National Park is a mountain park located in the Chimgan Mountains about 70 kilometers north of Tashkent. The park is home to a variety of hiking trails ski slopes and lakes. Chimgan National Park is a popular destination for both locals and tourists alike.
+Ben Thanh Market Park,143,Urban Park,Ben Thanh Market Park is a small urban park located in the heart of Ho Chi Minh City. The park is home to a variety of food stalls souvenir shops and street performers. Ben Thanh Market Park is a popular destination for both locals and tourists alike.
+Saigon Zoo and Botanical Garden,143,Zoo,The Saigon Zoo and Botanical Garden is a zoo and botanical garden located in Ho Chi Minh City. The zoo is home to over 1000 animals including lions tigers bears elephants and gorillas. The Saigon Zoo and Botanical Garden is also home to a variety of educational programs and exhibits.
+War Remnants Museum,143,Historic Park,The War Remnants Museum is a museum located in Ho Chi Minh City. The museum is dedicated to the victims of the Vietnam War. The War Remnants Museum features a variety of exhibits including photographs documents and weapons.
+Hoan Kiem Lake,144,Lakeside Park,Hoan Kiem Lake is a large lake located in the center of Hanoi. The lake is home to a variety of turtles and is a popular destination for both locals and tourists alike. Hoan Kiem Lake is also home to a number of historical landmarks including the Turtle Tower and the Ngoc Son Temple.
+Ho Chi Minh Mausoleum,144,Palace Park,The Ho Chi Minh Mausoleum is a mausoleum located in Hanoi. The mausoleum houses the embalmed body of Ho Chi Minh the founder of the Democratic Republic of Vietnam. The Ho Chi Minh Mausoleum is a popular tourist destination but visitors must dress respectfully.
+Temple of Literature,144,Temple,The Temple of Literature is a temple located in Hanoi. The temple was built in the 11th century and is dedicated to Confucius and other Confucian scholars. The Temple of Literature is a UNESCO World Heritage Site.
+City Park,138,Urban Park,A large urban park with gardens playgrounds a lake and a museum.
+Washington Park,138,Urban Park,A historic park with a rose garden a conservatory and a Japanese garden.
+Rocky Mountain Arsenal National Wildlife Refuge,138,National park,A former military base that has been converted into a wildlife refuge.
+Denver Zoo,138,Zoo,A zoo with over 4000 animals from all over the world.
+Red Rocks Park and Amphitheatre,138,Mountain Park,A natural amphitheater that is popular for concerts and other events.
+Denver Botanic Gardens,138,Botanical garden,A garden with over 10000 plants from all over the world.
+Cherry Creek State Park,138,State park,A park with hiking trails fishing and camping.
+Cherokee Ranch Park,138,Forest,A park with hiking trails horseback riding and camping.
+Denver Botanic Gardens at Chatfield Farms,138,Garden,A garden with over 1000 plants from all over the world.
+Lakeside Amusement Park,138,Amusement Park,An amusement park with rides games and food.
+San Antonio River Walk,139,Riverside park,A pedestrian and boat-friendly walkway along the San Antonio River.
+Alamo,139,Palace park,A former Spanish mission that is now a museum.
+San Antonio Zoo,139,Zoo,A zoo with over 3000 animals from all over the world.
+Japanese Tea Garden,139,Garden,A garden with a tea house and a koi pond.
+Natural Bridge Caverns,139,Cave,A cave with underground waterfalls and rock formations.
+SeaWorld San Antonio,139,Amusement Park,An amusement park with rides shows and animal exhibits.
+Six Flags Fiesta Texas,139,Amusement Park,An amusement park with rides shows and water rides.
+Morgan's Wonderland,139,Theme Park,A theme park designed for people with disabilities.
+The Witte Museum,139,Museum,A museum with exhibits on the history and culture of Texas.
+San Antonio Missions National Historical Park,139,Historic Park,A park with four Spanish missions.
+Green Lake Park,140,Urban Park,A 2.8-mile path circles the lake making it a popular spot for walking running biking and skating.
+Discovery Park,140,Urban Park,The largest park in Seattle Discovery Park offers stunning views of the Puget Sound the Olympic Mountains and the Cascade Mountains.
+Olympic Sculpture Park,140,Urban Park,A free outdoor sculpture park with works by world-renowned artists.
+Kerry Park,140,Viewpoint,A popular spot for viewing the Seattle skyline.
+Gas Works Park,140,Urban Park,A former gasification plant that has been transformed into a park with gardens a playground and a lake.
+Pike Place Market,140,Square,A historic public market with over 800 vendors selling fresh produce seafood flowers and more.
+Chihuly Garden and Glass,140,Museum,A museum dedicated to the work of Dale Chihuly a world-renowned glass artist.
+Museum of Pop Culture,140,Museum,A museum dedicated to popular culture with exhibits on music movies television and video games.
+Space Needle,140,Viewpoint,A Seattle landmark that offers stunning views of the city.
+Woodland Park Zoo,140,Zoo,A zoo home to over 1300 animals from around the world.
+Arboretum,145,Botanical Garden,A 30-acre botanical garden with over 10000 species of plants.
+Mount Lycabettus,145,Viewpoint,A mountain with stunning views of Athens.
+National Garden of Greece,145,Garden,A garden with over 500 species of plants from Greece and around the world.
+Temple of Olympian Zeus,145,Temple,A temple dedicated to Zeus the king of the gods in Greek mythology.
+National Archaeological Museum,145,Museum,A museum with a collection of artifacts from ancient Greece.
+Acropolis Museum,145,Museum,A museum with a collection of artifacts from the Acropolis.
+Ancient Agora,145,Historic Park,A former marketplace and public square in Athens.
+Plaka,145,Square,A historic neighborhood in Athens with narrow streets whitewashed houses and lively cafes.
+Monastiraki,145,Square,A lively square in Athens with a flea market and a variety of shops and restaurants.
+Syntagma Square,145,Square,The main square in Athens home to the Greek Parliament building.
+Griffith Park,146,Urban Park,A large public park in the Los Feliz neighborhood of Los Angeles California. The park is home to the Griffith Observatory the Greek Theatre the Los Angeles Zoo and the Hollywood Sign.
+Runyon Canyon Park,146,Urban Park,A popular hiking and running trail in the Hollywood Hills of Los Angeles California. The park offers stunning views of the city and the Hollywood Sign.
+Santa Monica Pier,146,Beach,A historic pier in Santa Monica California. The pier is home to an amusement park a carousel a Ferris wheel and a variety of restaurants and shops.
+Venice Beach,146,Beach,A popular beach in Venice California. The beach is known for its eccentric atmosphere its Muscle Beach and its Venice Boardwalk.
+La Brea Tar Pits,146,Museum,A natural history museum in Los Angeles California. The museum is home to a collection of fossils from the La Brea Tar Pits which are a series of tar pits that have been filled with the remains of animals that have been trapped in the tar over the past 50000 years.
+Echo Park Lake,146,Lakeside Park,A lakeside park in Echo Park California. The park is home to a lake a playground a picnic area and a walking path.
+The Huntington Library,146,Garden,A museum botanical garden and library in San Marino California. The museum is home to a collection of art including paintings sculptures and manuscripts. The botanical garden is home to a variety of plants from around the world. The library is home to a collection of books manuscripts and maps.
+The Getty Center,146,Museum,An art museum in Brentwood California. The museum is home to a collection of European paintings sculptures and decorative arts.
+The Broad,146,Museum,A contemporary art museum in Downtown Los Angeles California. The museum is home to a collection of contemporary art including paintings sculptures and installations.
+Riverfront Park,147,Riverside Park,A 100-acre park in downtown Spokane Washington. The park is home to a variety of amenities including a playground a skate park a carousel a splash pad a lawn bowling green a rowing center a disc golf course a dog park a botanical garden a farmers market and a variety of restaurants and shops.
+Manito Park,147,Botanical Garden,A 90-acre park in Spokane Washington. The park is home to a variety of gardens including a Japanese garden a rose garden an Italian garden a children's garden and a desert garden.
+Riverside State Park,147,State Park,A 1942-acre state park in Spokane Washington. The park is home to a variety of amenities including a campground a picnic area a swimming area a boat launch a fishing area a hiking trail and a mountain biking trail.
+Green Bluff Park,147,Urban Park,A 1000-acre park in Spokane Washington. The park is home to a variety of amenities including a campground a picnic area a swimming area a boat launch a fishing area a hiking trail and a mountain biking trail.
+Mount Spokane State Park,147,Mountain Park,A 14000-acre state park in Spokane Washington. The park is home to a variety of amenities including a campground a picnic area a swimming area a boat launch a fishing area a hiking trail and a mountain biking trail.

@@ -1,0 +1,40 @@
+/* Developed by: Matheus Mielle Silva and Bereket Lemma
+  May 19th, 2023*/
+
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 35px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 2px solid #000;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: center;
+    border-left: 2px solid #000;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    
+  }
+  
+  th {
+    background-color: #90bbda;
+    font-size: 24px;
+    border-bottom: 2px solid #000;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #deedff;
+  }
+  
+  tbody tr:hover {
+    background-color: #8cc3eb;
+  }

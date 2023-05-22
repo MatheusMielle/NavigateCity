@@ -1,0 +1,167 @@
+/* Developed by: Matheus Mielle Silva and Bereket Lemma
+May 19th, 2023 */
+
+<!DOCTYPE html>
+<html>
+<style>
+  .container {
+    display: inline-block;
+    position: relative;
+    padding-left: 35px;
+    margin-right: 20px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+
+  .container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+  }
+
+  .checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+    border-radius: 50%;
+  }
+
+  .container:hover input~.checkmark {
+    background-color: #ccc;
+  }
+
+  .container input:checked~.checkmark {
+    background-color: #2196F3;
+  }
+
+  .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+
+  .container input:checked~.checkmark:after {
+    display: block;
+  }
+
+  .container .checkmark:after {
+    top: 9px;
+    left: 9px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: white;
+  }
+
+  .center-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+
+  .search-box {
+    display: none;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .search-box input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+  }
+</style>
+
+<body>
+  <h1>Custom Radio Buttons</h1>
+  <div class="center-container">
+    <label class="container">Cities
+      <input type="checkbox" name="radio" onclick="toggleSearchBox(this, 'cities')">
+      <span class="checkmark"></span>
+    </label>
+    <label class="container">Food
+      <input type="checkbox" name="radio" onclick="toggleSearchBox(this, 'food')">
+      <span class="checkmark"></span>
+    </label>
+    <label class="container">Restaurant
+      <input type="checkbox" name="radio" onclick="toggleSearchBox(this, 'restaurant')">
+      <span class="checkmark"></span>
+    </label>
+    <label class="container">Museums
+      <input type="checkbox" name="radio" onclick="toggleSearchBox(this, 'museums')">
+      <span class="checkmark"></span>
+    </label>
+    <label class="container">Parks
+      <input type="checkbox" name="radio" onclick="toggleSearchBox(this, 'parks')">
+      <span class="checkmark"></span>
+    </label>
+    <label class="container">Sights
+      <input type="checkbox" name="radio">
+      <span class="checkmark"></span>
+    </label>
+  </div>
+  <div id="food-searchBox" class="search-box">
+    <input type="text" placeholder="Food Max Price">
+  </div>
+  <div id="restaurant-searchBox" class="search-box">
+    <input type="text" placeholder="Restaurant Max Price">
+  </div>
+  <div id="museums-searchBox" class="search-box">
+    <input type="text" placeholder="Museums Type">
+  </div>
+  <div id="cities-searchBox" class="search-box">
+    <input type="text" placeholder="City Name">
+  </div>
+  <div id="parks-searchBox" class="search-box">
+    <input type="text" placeholder="Park Type">
+  </div>
+
+  <form action="" onsubmit="event.preventDefault(); submitForm();" method="get">
+    <button type="submit">Go</button>
+  </form>
+
+  <script>
+    function toggleSearchBox(checkbox, searchBoxId) {
+      var searchBox = document.getElementById(searchBoxId + "-searchBox");
+      searchBox.style.display = checkbox.checked ? "flex" : "none";
+    }
+
+    function submitForm() {
+      var checkboxes = document.getElementsByName("radio");
+      var checkedBoxes = [];
+      var orderOfTheBox = "";
+      var informationForEachBox = "";
+
+      for (var i = 0; i < checkboxes.length; i++) {
+        if (checkboxes[i].checked) {
+          checkedBoxes.push(checkboxes[i].parentNode.textContent.trim());
+          orderOfTheBox += "True,";
+        } else {
+          orderOfTheBox += "False,";
+        }
+      }
+      orderOfTheBox = orderOfTheBox.slice(0, -1);
+
+      informationForEachBox += document.getElementById("cities-searchBox").querySelector("input").value || "null";
+      informationForEachBox += ",";
+      informationForEachBox += document.getElementById("food-searchBox").querySelector("input").value || "null";
+      informationForEachBox += ",";
+      informationForEachBox += document.getElementById("restaurant-searchBox").querySelector("input").value || "null";
+      informationForEachBox += ",";
+      informationForEachBox += document.getElementById("museums-searchBox").querySelector("input").value || "null";
+      informationForEachBox += ",";
+      informationForEachBox += document.getElementById("parks-searchBox").querySelector("input").value || "null";
+
+      var url = "http://localhost:5000/filter/" + orderOfTheBox + "/" + informationForEachBox;
+      window.location.href = url;
+    }
+
+  </script>

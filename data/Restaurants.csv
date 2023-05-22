@@ -1,0 +1,441 @@
+La Maison Blanche,1,10,Traditional Algerian cuisine in a historic setting.
+Dar El Emir,1,15,Upscale Moroccan restaurant with stunning views of the city.
+Le Grillon,1,20,Fine-dining French restaurant with a Michelin star.
+Adega do Mercado,2,10,Authentic Angolan cuisine in a lively atmosphere.
+Fortaleza,2,15,Sushi bar and restaurant with a wide selection of seafood.
+The Butcher Shop,2,20,Steakhouse with dry-aged beef and a variety of sides.
+The Stargazer,3,10,Modern Australian restaurant with a focus on seafood.
+Aria,3,15,Upscale Italian restaurant with a Michelin star.
+Quay,3,20,Fine-dining restaurant with stunning views of the Sydney Harbour Bridge.
+The Fish House,4,10,Casual seafood restaurant with a relaxed atmosphere.
+The Bavarian,4,15,German restaurant with a large selection of beer and schnitzel.
+Longtime,4,20,Vietnamese restaurant with a focus on pho and banh mi.
+Figlmüller,5,10,Traditional Viennese restaurant with schnitzel and strudel.
+Plachutta,5,15,Beef restaurant with a focus on Tafelspitz.
+Am Ex,5,20,Modern Austrian restaurant with a Michelin star.
+Nargiz,6,10,Azerbaijani restaurant with a focus on kebabs and plov.
+Mezes,6,15,Mediterranean restaurant with a variety of small plates.
+Caviar House,6,20,Fine-dining restaurant with a focus on caviar and seafood.
+Hakka Palace,7,10,Authentic Hakka Chinese cuisine
+Rangshala,7,15,Bangladeshi restaurant with a wide variety of dishes
+Chickpeas,7,12,Casual Indian restaurant with a focus on vegetarian and vegan options
+Barbacoa do Asfalto,8,15,Brazilian steakhouse with a wide variety of meats
+Adega do Portuga,8,12,Portuguese restaurant with a focus on seafood
+Bar do Mineiro,8,10,Brazilian restaurant with a focus on regional dishes from Minas Gerais
+Picchi,9,15,Italian restaurant with a focus on wood-fired pizzas
+Mocotó,9,12,Brazilian restaurant with a focus on regional dishes from the Northeast
+Maní,9,10,Brazilian restaurant with a focus on seasonal ingredients
+Bar do Luiz,10,10, Traditional Brazilian food with a focus on Minas Gerais cuisine.
+Madero,10,20, Modern Brazilian steakhouse.
+Galeto D'Ouro,10,15, Churrascaria (Brazilian steakhouse).
+Lagoa Restaurante,11,20, Fine dining restaurant with a focus on Brazilian cuisine.
+Casa do Porco,11,15, Casual restaurant serving pork dishes from all over Brazil.
+Carmo 14 Bis,11,10, Traditional Brazilian food with a focus on Minas Gerais cuisine.
+Manaus Plaza Hotel Restaurante,12,20, Fine dining restaurant with a focus on Amazonian cuisine.
+Amazonas Grill,12,15, Churrascaria (Brazilian steakhouse).
+Chez Michou,12,10, French restaurant with a focus on seafood.
+Casa da Empada,13,10, Restaurant specializing in empanadas.
+Brigadeiro,13,15, Cafeteria serving traditional Brazilian desserts.
+Adega do Portuga,13,20, Portuguese restaurant.
+Bar do Alemão,14,10, Traditional German restaurant.
+Bar O Faraó,14,15, Restaurant serving Brazilian and Middle Eastern cuisine.
+Pizzaria Bella Napoli,14,20, Pizzeria.
+Dique do Tororó,15,10, Restaurant with a focus on Bahian cuisine.
+A Casa do Caranguejo,15,15, Restaurant serving seafood.
+Restaurante Trapiche,15,20, Fine dining restaurant with a focus on Bahian cuisine.
+Rakovski,16,15,Traditional Bulgarian cuisine in a historic setting.
+The Black Sea,16,20,Seafood restaurant with stunning views of the Black Sea.
+Moma,16,10,Casual restaurant serving up delicious Bulgarian comfort food.
+La Cantine du Cameroun,17,15,Authentic Cameroonian cuisine in a lively atmosphere.
+Le Jardin du Cameroun,17,20,Fine-dining Cameroonian restaurant with a focus on fresh ingredients.
+Le Snack du Cameroun,17,10,Casual Cameroonian restaurant serving up street food favorites.
+La Banquise,18,15,Montreal's iconic poutinerie serving up delicious poutine and other Quebecois classics.
+Au Pied du Cochon,18,20,Fine-dining restaurant serving up modern French cuisine.
+L'Express,18,10,Casual bistro serving up classic French dishes.
+The Keg Steakhouse + Bar,19,20,Steakhouse chain serving up dry-aged steaks seafood and cocktails.
+Joey's Seafood & Grill,19,15,Casual restaurant serving up seafood pasta and steaks.
+East Side Mario's,19,10,Casual Italian restaurant chain serving up pasta pizza and other Italian favorites.
+The Keg Steakhouse + Bar,20,20,Steakhouse chain serving up dry-aged steaks seafood and cocktails.
+Moxie's Grill & Bar,20,15,Casual restaurant serving up burgers steaks and seafood.
+Jack Astor's Bar & Grill,20,10,Casual restaurant serving up burgers steaks and seafood.
+Da Dong Roast Duck Restaurant,21,20, This Michelin-starred restaurant is known for its Peking duck.
+Xin Rong Ji,21,15, This restaurant serves traditional Shanghainese cuisine.
+Ming's Kitchen,21,25, This restaurant offers a modern take on Shanghainese cuisine.
+Da Dong Roast Duck Restaurant,22,20, This Michelin-starred restaurant is known for its Peking duck.
+Duck de Chine,22,15, This restaurant serves traditional Beijing duck.
+Fu He Hui,22,25, This restaurant offers a modern take on Beijing cuisine.
+Ming's Kitchen,23,25, This restaurant offers a modern take on Shanghainese cuisine.
+Fu He Hui,23,25, This restaurant offers a modern take on Beijing cuisine.
+Xin Rong Ji,23,15, This restaurant serves traditional Shanghainese cuisine.
+Yunnan Garden,24,20, This restaurant serves traditional Yunnan cuisine.
+Dong Lai Shun,24,15, This restaurant serves traditional Cantonese cuisine.
+Tim Ho Wan,24,10, This restaurant is known for its dim sum.
+Huo Guo Ju,25,20, This restaurant serves traditional Sichuan hot pot.
+Mapo Restaurant,25,15, This restaurant serves traditional Sichuan cuisine.
+Chengdu Taste,25,10, This restaurant offers a modern take on Sichuan cuisine.
+Wuhan Xiaolongbao,26,5,A famous soup dumpling restaurant with a long history.
+Wuhan Hot Pot,26,15,A type of hot pot that originated in Wuhan.
+Wuhan Chuan Cai,26,10,A restaurant that serves Sichuan cuisine.
+Harbin Da Dong,27,20,A famous restaurant that serves Peking duck.
+Harbin Ice and Snow Beer,27,10,A restaurant that serves beer and ice sculptures.
+Harbin Naan,27,5,A restaurant that serves traditional Uyghur cuisine.
+Hangzhou Longjing Teahouse,28,10,A teahouse that serves Longjing tea a type of green tea that originated in Hangzhou.
+Hangzhou West Lake Fish,28,20,A restaurant that serves fish dishes from West Lake.
+Hangzhou Xiaolongbao,28,5,A famous soup dumpling restaurant with a long history.
+Haikou Coconut Milk,29,5,A restaurant that serves coconut milk desserts.
+Haikou Seafood,29,15,A restaurant that serves seafood dishes.
+Haikou Hot Pot,29,10,A type of hot pot that originated in Haikou.
+Taiyuan Handan Dumplings,30,5,A famous dumpling restaurant with a long history.
+Taiyuan Liangpi,30,5,A type of cold noodle dish that originated in Taiyuan.
+Taiyuan Braised Chicken,30,10,A type of chicken dish that is braised in a sauce.
+Kunming Diancai,31,10,A restaurant that serves Yunnan cuisine.
+Kunming Crossing Bridge Rice Noodle,31,5,A type of rice noodle dish that originated in Kunming.
+Kunming Stone Pot Fish,31,20,A type of fish dish that is cooked in a stone pot.
+Hefei Wangfujing Snacks,32,5,A restaurant that serves traditional Hefei snacks.
+Hefei Mutton Soup,32,10,A type of mutton soup that is popular in Hefei.
+Hefei Shouxing Fish,32,20,A type of fish dish that is cooked in a Shouxing wine sauce.
+Shijiazhuang Jianbing,33,5,A type of Chinese crepe that originated in Shijiazhuang.
+Shijiazhuang Baozi,33,5,A type of steamed bun that originated in Shijiazhuang.
+Shijiazhuang Handan Dumplings,33,5,A famous dumpling restaurant with a long history.
+Changsha Niujie Rousi,34,10,A type of beef dish that is popular in Changsha.
+Changsha Mala Tang,34,15,A type of hot pot that originated in Changsha.
+Changsha Crawfish,34,20,A type of crawfish dish that is popular in Changsha.
+Dongbei Jie,35,15,Authentic Northeastern Chinese cuisine
+Beijing Roast Duck,35,20,Delicious Peking duck
+Xinjiang Lamian,35,10,Famous Lanzhou hand-pulled noodles
+Shenzhen Jiuzhen Restaurant,36,30,Fine Cantonese dining
+Din Tai Fung,36,25,Taiwanese xiao long bao
+Hey Tea,36,10,Popular bubble tea chain
+Huoguo Hui,37,15,Authentic Chongqing hot pot
+Jianbing Xiaochi,37,5,Street food stall serving jianbing
+Mian,37,10,Noodles in a variety of styles
+Lanzhou Lamian,38,10,Lanzhou hand-pulled noodles
+Dang Ji,38,15,Dang ji chicken
+Biang Biang Mian,38,12,Biang biang noodles
+Tianxin Restaurant,39,10,Nanchang specialties
+Fuzhou Restaurant,39,12,Fuzhou cuisine
+Xingguo Restaurant,39,15,Xingguo cuisine
+Dalian Seafood Restaurant,40,15,Seafood dishes from Dalian
+Jingxi Restaurant,40,12,Northeastern Chinese cuisine
+Dalian Noodle Restaurant,40,10,Dalian noodles
+Dagu,41,15,A traditional Chinese restaurant that serves a variety of dishes from the Henan province.
+Xiao Long Bao,41,10,A famous restaurant that specializes in xiao long bao a type of soup dumpling.
+Braised Pork Buns,41,12,A popular restaurant that serves braised pork buns a traditional Chinese dish.
+La Casa del Ceviche,42,10,A popular restaurant that serves ceviche a Peruvian dish made with raw fish marinated in citrus juices.
+El Poblado,42,15,A trendy neighborhood with a variety of restaurants bars and shops.
+Parque Lleras,42,12,A lively park with a variety of restaurants bars and shops.
+Cra 17,43,10,A popular street with a variety of restaurants bars and shops.
+Zona T,43,15,A trendy neighborhood with a variety of restaurants bars and shops.
+Parque de la 93,43,12,A beautiful park with a variety of restaurants bars and shops.
+La Romana,44,15,Dominican Republic's most famous seafood restaurant
+El Patio,44,10,Authentic Dominican cuisine in a charming setting
+Mi Casa Su Casa,44,12,Casual Dominican restaurant with a lively atmosphere
+La Ronda,45,15,Traditional Ecuadorian food in a historic setting
+Gustu,45,20,Michelin-starred restaurant serving modern Andean cuisine
+Juanan Restó,45,10,Casual Ecuadorian restaurant with a wide variety of dishes
+El Manjar de los Dioses,46,12,Upscale Guayaquilean restaurant with a focus on seafood
+El Portal,46,10,Casual Guayaquilean restaurant with a lively atmosphere
+La Casona,46,15,Traditional Guayaquilean food in a historic setting
+Al Azhar,47,15,Authentic Egyptian cuisine in a grand setting
+Fatma's Kitchen,47,10,Casual Egyptian restaurant with a friendly atmosphere
+El Fishawy,47,12,Iconic Cairo coffee shop and restaurant serving traditional Egyptian food
+Al Ahram,48,15,Egyptian restaurant serving traditional dishes such as koshary and molokhia.
+Fishawy,48,10,Egyptian restaurant known for its fuul and taameya sandwiches.
+Zam Zam,48,10,Egyptian restaurant serving traditional dishes such as kushari and molokhia.
+Meskel Square,49,15,Ethiopian restaurant serving traditional dishes such as injera and wat.
+Addis Ketema,49,10,Ethiopian restaurant known for its vegetarian dishes.
+Lalibela,49,10,Ethiopian restaurant serving traditional dishes such as tibs and misir wot.
+Mylläri,50,20,Finnish restaurant serving traditional dishes such as karjalanpiirakat and lohikeitto.
+Teerenpeli,50,15,Finnish restaurant known for its beer and pub food.
+Elämysravintola Savoy,50,30,Fine-dining Finnish restaurant with a Michelin star.
+Le Procope,51,20,French restaurant that is considered to be the birthplace of the café.
+Brasserie Lipp,51,15,French brasserie known for its steak frites.
+L'Atelier de Joël Robuchon,51,30,Michelin-starred French restaurant by chef Joël Robuchon.
+La Mère Brazier,52,25,Michelin-starred French restaurant serving traditional Lyonnaise cuisine.
+Brasserie Georges,52,15,French brasserie known for its saucisson brioché.
+Auberge du Pont de Collonges,52,30,Michelin-starred French restaurant by chef Paul Bocuse.
+Le Petit Nice,53,30,Fine dining restaurant with stunning views of the Mediterranean Sea.
+La Mère Brazier,53,40,Traditional bouchon restaurant serving classic Lyonnaise cuisine.
+Les Arceaux,53,25,Casual restaurant serving Provençal cuisine.
+Mziuri,54,15,Casual restaurant serving Georgian cuisine.
+Shavi Shabi,54,20,Fine dining restaurant serving modern Georgian cuisine.
+Tsereteli,54,30,Restaurant serving traditional Georgian cuisine.
+Schlossrestaurant Monrepos,55,25,Fine dining restaurant with a Michelin star.
+Steakhouse Stuttgart,55,35,Steakhouse serving grilled meat dishes.
+Trattoria Italiana,55,20,Italian restaurant serving pasta and pizza.
+Haerlins Gaststätte,56,20,Traditional German restaurant serving hearty dishes.
+Fischereihafen Restaurant,56,30,Seafood restaurant with a view of the harbor.
+Altstadtstuben,56,25,Casual restaurant serving traditional Hamburg cuisine.
+Im Schiffchen,57,25,Restaurant serving traditional Düsseldorf cuisine.
+Zum goldenen Anker,57,30,Fine dining restaurant with a Michelin star.
+Ueriges Brauhaus,57,20,Traditional beer hall serving Düsseldorfer Altbier.
+Casa Santo Domingo,58,15,Authentic Guatemalan cuisine in a historic setting.
+El Atrio,58,10,Modern Guatemalan cuisine with a focus on local ingredients.
+La Fonda de Don Juan,58,12,Casual Guatemalan restaurant with a wide variety of dishes.
+Dil Se,59,10,North Indian cuisine in a casual setting.
+Tamarind,59,15,Fine dining Indian restaurant with a focus on regional cuisine.
+Zaika,59,12,Modern Indian restaurant with a focus on vegetarian dishes.
+The Bombay Canteen,60,10,Casual Indian restaurant with a focus on street food.
+Aurus,60,15,Fine dining Indian restaurant with a focus on seafood.
+Taj Mahal Palace,60,12,Luxury hotel with an award-winning Indian restaurant.
+Trevet,61,10,Modern European cuisine with a focus on local ingredients.
+Taj Coromandel,61,15,Fine dining Indian restaurant with a focus on seafood.
+The Oberoi,61,12,Luxury hotel with an award-winning Indian restaurant.
+Hotel Shadab,62,15,Hyderabadi cuisine
+Shalimar,62,10,Mughlai cuisine
+Hyderabadi Biryani House,62,12,Hyderabadi biryani
+Saravana Bhavan,63,10,South Indian cuisine
+Lebanese Taverna,63,15,Lebanese cuisine
+Adyar Anand Bhavan,63,12,South Indian cuisine
+Khana Khazana,64,10,North Indian cuisine
+The Yellow Chilli,64,15,North Indian cuisine
+Pune Mess,64,12,Maharashtrian cuisine
+Nirmalya,65,10,Gujarati cuisine
+Kanak Sweets,65,15,Gujarati cuisine
+Agashiye,65,12,Gujarati cuisine
+Amber,66,10,Rajasthani cuisine
+Moti Mahal,66,15,North Indian cuisine
+Rajdhani,66,12,North Indian cuisine
+Lucknow Biryani House,67,10,This restaurant serves the best biryani in Lucknow.
+Dilruba,67,15,This restaurant serves traditional Mughlai cuisine.
+Amjad Hotel,67,12,This restaurant serves delicious Awadhi cuisine.
+Nasi Goreng Kambing Kebon Sirih,68,8,This restaurant serves the best nasi goreng kambing in Jakarta.
+Soto Betawi H. Darsono,68,10,This restaurant serves the best soto betawi in Jakarta.
+Sate Padang Ajo Ramon,68,12,This restaurant serves the best sate padang in Jakarta.
+Rumah Makan Gajah Mada,69,10,This restaurant serves the best nasi goreng in Surabaya.
+Rujak Cingur Surabayen,69,8,This restaurant serves the best rujak cingur in Surabaya.
+Soto Lamongan Pak Min,69,12,This restaurant serves the best soto lamongan in Surabaya.
+Coto Makassar,70,10,This restaurant serves the best coto makassar in Makassar.
+Pisang Ijo Talas,70,8,This restaurant serves the best pisang ijo in Makassar.
+Soto Makassar,70,12,This restaurant serves the best soto makassar in Makassar.
+Bagh-e-Feyz,71,10,This restaurant serves the best Persian food in Tehran.
+Naqsh-e-Jahan Restaurant,71,8,This restaurant serves traditional Iranian cuisine.
+Zarb Restaurant,71,12,This restaurant serves delicious grilled kebabs.
+Sattarkhan Restaurant,72,10,Traditional Iranian cuisine in a historic setting
+Ashpaz Khaneh,72,8,Casual restaurant serving classic Iranian dishes
+Hajji Baba Kashan,72,12,Upscale restaurant with a focus on traditional Persian cuisine
+Tabrizi Restaurant,73,10,Authentic Tabrizi cuisine in a family-friendly setting
+Zartosht,73,8,Modern Iranian restaurant with a focus on vegetarian and vegan dishes
+Sultan Kebab,73,12,Upscale kebab restaurant with a variety of meats and sides
+Al-Karawi Restaurant,74,10,Iraqi cuisine including kebabs stews and rice dishes.
+Al-Sultan Restaurant,74,15,Traditional Iraqi cuisine from Baghdad.
+Al-Razi Restaurant,74,20,Upscale Iraqi restaurant with a focus on seafood.
+Al-Amin Restaurant,75,10,Authentic Iraqi cuisine from Mosul.
+Al-Fateh Restaurant,75,15,Traditional Iraqi cuisine with a modern twist.
+Al-Noor Restaurant,75,20,Upscale Iraqi restaurant with a focus on vegetarian dishes.
+Trattoria Da Cesare,76,10,Traditional Roman pasta dishes.
+Osteria dell'Angelo,76,15,A variety of Italian dishes including pizza pasta and seafood.
+Ristorante Da Tonino,76,20,Upscale Italian restaurant with a focus on meat dishes.
+Trattoria da Tito,77,20,Authentic Italian cuisine in a cozy setting.
+Osteria del Gattopardo,77,25,Upscale Italian restaurant with a Michelin star.
+Pizza al Volo,77,15,Casual spot for delicious wood-fired pizzas.
+La Marmite d'Abidjan,78,15,Cuisine ivoirienne traditionnelle dans un cadre convivial.
+Le Saint-Georges,78,25,Restaurant gastronomique français avec une étoile Michelin.
+Le Baobab,78,20,Restaurant africain proposant une cuisine moderne et inventive.
+Sushi Zanmai,79,30,Sushi bar de luxe avec des produits frais et de première qualité.
+Genki Sushi,79,15,Chaîne de kaiten-zushi (sushis servis sur un tapis roulant) abordable.
+Ichiran,79,20,Restaurant de ramen ultra-privé où les clients mangent dans des cabines individuelles.
+Ippudo,80,25,Chaîne de ramen populaire connue pour ses nouilles moelleuses et ses bouillons savoureux.
+Genki Sushi,80,15,Chaîne de kaiten-zushi (sushis servis sur un tapis roulant) abordable.
+Mutsumi,80,30,Restaurant de sushis haut de gamme avec une ambiance raffinée.
+Sapporo Ramen,81,15,Chaîne de ramen populaire connue pour ses nouilles épaisses et ses bouillons riches.
+Menya Musashi,81,20,Restaurant de ramen haut de gamme avec une variété de ramens uniques.
+Ichiran,81,25,Restaurant de ramen ultra-privé où les clients mangent dans des cabines individuelles.
+Daikokuya,82,15,Osaka's most famous ramen shop
+Sukiyabashi Jiro,82,300,Three-Michelin-starred sushi restaurant
+Katsuura,82,20,Osaka's best okonomiyaki
+Okonomimura,82,10,Osaka's largest okonomiyaki district
+Momoya,83,15,Hiroshima's most famous okonomiyaki shop
+Okonomi-mura,83,10,Hiroshima's largest okonomiyaki district
+Hashem,84,10,Amman's most famous falafel shop
+Hashem Palace,84,15,Amman's largest falafel restaurant
+Al-Quds,84,20,Amman's most popular Palestinian restaurant
+Java House,85,10,Nairobi's most popular coffee shop
+The Carnivore,85,20,Nairobi's most famous steakhouse
+Nyama Choma Plaza,85,15,Nairobi's largest nyama choma (barbecue) restaurant
+Al-Kout,86,10,Kuwait City's most popular seafood restaurant
+Al-Sabah,86,15,Kuwait City's largest seafood restaurant
+Falafel Al-Amin,86,20,Kuwait City's most famous falafel shop
+El Cardenal,87,15,Traditional Mexican restaurant serving breakfast lunch and dinner.
+Pujol,87,45,Fine-dining restaurant with a focus on modern Mexican cuisine.
+Biko,87,30,Casual restaurant serving creative Mexican dishes.
+Dar Moha,88,15,Moroccan restaurant with a focus on tagines and couscous.
+La Mamounia,88,50,Luxury hotel with a Michelin-starred restaurant.
+NoMad,88,35,Modern American restaurant with a focus on seasonal ingredients.
+Kantipur Kitchen,89,10,Nepalese restaurant serving traditional dishes such as momos and dal bhat.
+Namaste,89,20,Vegetarian and vegan Nepalese restaurant.
+Himalayan Kitchen,89,25,Casual restaurant serving Himalayan cuisine.
+The Pancake Bakery,90,10,Dutch restaurant serving pancakes waffles and other breakfast dishes.
+Felix,90,20,Casual restaurant serving Dutch cuisine such as frites and bitterballen.
+Cafe Luxembourg,90,30,Fine-dining restaurant with a focus on French cuisine.
+Kano Grill,91,10,Grilled meat and seafood dishes from the Kano region of Nigeria
+Mama's Kitchen,91,8,Home-cooked Nigerian dishes
+The African Hut,91,12,Upscale African restaurant with a wide variety of dishes
+Ryongsong Restaurant,92,15,North Korean restaurant known for its lavish feasts
+Okryukwan Restaurant,92,12,North Korean restaurant specializing in Pyongyang-style cold noodles
+Pyongyang House of Specialties,92,10,North Korean restaurant with a wide variety of dishes
+Avari Tower Restaurant,93,10,International buffet restaurant with a view of Karachi
+Karachi Darbar,93,8,Pakistani restaurant serving traditional Sindhi cuisine
+Nihari Boti House,93,12,Pakistani restaurant specializing in nihari a slow-cooked meat dish
+Lahori Grill,94,10,Grilled meat and kebab dishes from Lahore Pakistan
+Al-Hamra,94,8,Lahori restaurant serving traditional Punjabi cuisine
+Anarkali,94,12,Upscale Lahori restaurant with a wide variety of dishes
+Faisalabad Restaurant,95,10,Regional restaurant serving traditional Faisalabadi cuisine
+Dil Pasand,95,8,Faisalabad restaurant serving home-cooked meals
+Al-Madina,95,12,Faisalabad restaurant specializing in biryani a rice dish with meat or vegetables
+Dil Pasand,96,5,Pakistani restaurant serving traditional dishes such as haleem nihari and tandoori chicken.
+Rooh Afza,96,10,Indian restaurant serving a wide variety of dishes from all over India.
+Karachi Grill,96,15,Afghan restaurant serving traditional dishes such as kebabs biryani and naan.
+La Parrillada,97,10,Paraguayan restaurant serving grilled meats such as asado chorizo and morcilla.
+El Patio,97,15,Argentinian restaurant serving grilled meats such as asado chorizo and morcilla.
+La Trattoria,97,20,Italian restaurant serving pasta pizza and risotto.
+La Marmite d'Abidjan,78,15,Authentic Ivorian cuisine in a casual setting.
+Le Grain de Sel,78,20,Modern French restaurant with a focus on seafood.
+Le Bistrot du Port,78,25,Upscale French bistro with stunning views of the harbor.
+Kamayan,99,10,Filipino restaurant serving kamayan-style dining where food is served on banana leaves and eaten with the hands.
+Jollibee,99,15,Fast food chain serving Filipino dishes such as chicken joy spaghetti and halo-halo.
+Mang Inasal,99,20,Fast food chain serving grilled chicken rice and vegetables.
+O Asiático,100,10,Portuguese restaurant serving seafood such as bacalhau sardinhas and cataplana.
+Adega do Luís,100,15,Portuguese restaurant serving traditional dishes such as cozido à portuguesa bacalhau à brás and arroz de marisco.
+Belcanto,100,20,Michelin-starred restaurant serving modern Portuguese cuisine.
+La Casita Blanca,101,15,Authentic Puerto Rican cuisine in a lively atmosphere.
+El Jibarito,101,10,Casual spot for traditional Puerto Rican dishes like mofongo and asopao.
+El Departamento,101,20,Fine dining restaurant with a focus on modern Puerto Rican cuisine.
+Bublik,102,15,Casual Russian restaurant with a wide variety of blinis and other traditional dishes.
+Kuznya,102,20,Fine dining restaurant with a focus on modern Russian cuisine.
+Chaika,102,10,Cozy spot for traditional Russian dishes like pelmeni and borscht.
+Kanapa,103,15,Casual Ukrainian restaurant with a wide variety of pierogi and other traditional dishes.
+Dacha,103,20,Fine dining restaurant with a focus on modern Ukrainian cuisine.
+Varenyky,103,10,Cozy spot for traditional Ukrainian dishes like varenyky and kholodets.
+U Urala,104,15,Casual Ural cuisine restaurant with a wide variety of dishes from the Ural region.
+Dom Bistro,104,20,Fine dining restaurant with a focus on modern Ural cuisine.
+Koliba,104,10,Cozy spot for traditional Ural dishes like pelmeni and pirozhki.
+Al-Baik,105,10,Fast food chain serving fried chicken and other dishes.
+Al-Faisaliah,105,20,Fine-dining restaurant serving traditional Saudi Arabian cuisine.
+Zaika,105,30,Indian restaurant serving a variety of dishes from different regions of India.
+Al Fanar,106,10,Casual restaurant serving Lebanese cuisine.
+Al Madina,106,20,Fine-dining restaurant serving traditional Saudi Arabian cuisine.
+Al Baik,106,30,Fast food chain serving fried chicken and other dishes.
+Newton Food Centre,107,10,Hawker center serving a variety of Singaporean dishes.
+Lau Pa Sat,107,20,Hawker center serving a variety of Singaporean dishes.
+Makansutra Gluttons Bay,107,30,Hawker center serving a variety of Singaporean dishes.
+The Test Kitchen,108,10,Fine-dining restaurant serving modern South African cuisine.
+The Pot Luck Club,108,20,Casual restaurant serving a variety of South African dishes.
+The Test Kitchen,108,30,Fine-dining restaurant serving modern South African cuisine.
+The Pot Luck,109,30,A modern take on traditional South African cuisine
+The Test Kitchen,109,50,A Michelin-starred restaurant that offers a tasting menu of modern South African cuisine
+The Cape to Cairo,109,40,A restaurant that serves a variety of African dishes from different countries
+Mokja,110,20,A popular Korean BBQ restaurant with multiple locations in Seoul
+Gen Korean BBQ House,110,30,Another popular Korean BBQ restaurant with multiple locations in Seoul
+Galbi Grill,110,40,A Korean BBQ restaurant that specializes in grilled short ribs
+Bibimbap House,111,15,A restaurant that serves bibimbap a traditional Korean dish of rice topped with vegetables meat and a fried egg
+Gogi House,111,20,A Korean restaurant that serves a variety of grilled meats
+Sujebi House,111,25,A restaurant that serves sujebi a Korean noodle soup
+Daegu Bibimbap,112,10,A restaurant that serves bibimbap a traditional Korean dish of rice topped with vegetables meat and a fried egg
+Daegu Galbi,112,20,A restaurant that serves grilled short ribs
+Daegu Sundubu Jjigae,112,15,A restaurant that serves sundubu jjigae a Korean stew made with soft tofu vegetables and meat
+Barcelonetta,113,20,A restaurant that serves traditional Catalan cuisine
+Casa Paloma,113,30,A restaurant that serves tapas and other Spanish dishes
+Tapas 24,113,15,A restaurant that serves a variety of tapas small plates of Spanish food
+Casa Botín,114,25,Situated in the heart of the city this restaurant has been serving up traditional Castilian cuisine since 1725.
+La Taberna del Chato,114,15,This lively tapas bar is a great place to try some of the city's best small plates.
+La Malaje,114,30,This Michelin-starred restaurant offers a modern take on traditional Andalusian cuisine.
+Al-Shaab,115,10,This popular Sudanese restaurant is known for its delicious ful medames (a stewed fava bean dish).
+Al-Aziz,115,15,This upscale restaurant offers a wide variety of traditional Sudanese dishes.
+Al-Mahatta,115,20,This casual restaurant is a great place to try some of the city's best street food.
+Al-Rifai,116,10,This family-run restaurant is known for its delicious hummus and baba ganoush.
+Al-Shami,116,15,This popular restaurant offers a wide variety of traditional Syrian dishes.
+Al-Amin,116,20,This casual restaurant is a great place to try some of the city's best street food.
+Fuhang Soy Milk,117,5,This famous soy milk shop has been serving up delicious soy milk and tofu dishes since 1939.
+Din Tai Fung,117,10,This world-famous chain restaurant is known for its delicious xiao long bao (steamed dumplings).
+Mia Cucina,117,15,This Italian restaurant offers a wide variety of authentic Italian dishes.
+Le Du,118,20,This Michelin-starred restaurant offers a modern take on Thai cuisine.
+Nahm,118,30,This award-winning restaurant offers a traditional Thai dining experience.
+Gaggan,118,40,This world-famous restaurant offers a progressive take on Thai cuisine.
+Mado,119,15,Turkish restaurant with a wide variety of desserts and pastries.
+Nusr-et Steakhouse,119,50,Steakhouse known for its dry-aged steaks and celebrity clientele.
+Kebapçıoğlu,119,20,Turkish restaurant that specializes in kebabs.
+İmam Çağdaş,120,20,Turkish restaurant that is known for its çiğ köfte.
+Kebapçı Yaşar Usta,120,25,Turkish restaurant that specializes in kebabs.
+Gaziantep Mutfağı,120,30,Turkish restaurant that serves traditional Gaziantep cuisine.
+Adana Ocakbaşı,121,20,Turkish restaurant that specializes in kebabs.
+Kebapçıoğlu,121,25,Turkish restaurant that serves traditional Adana cuisine.
+Şahin Usta Kebap Salonu,121,30,Turkish restaurant that is known for its Adana kebabs.
+The Barbary,122,25,British restaurant that serves traditional British cuisine.
+The Ledbury,122,50,Michelin-starred restaurant that serves modern British cuisine.
+Cecconi's,122,35,Italian restaurant that serves classic Italian dishes.
+Lasan,123,25,Indian restaurant that serves traditional Indian cuisine.
+Al-Amir,123,20,Lebanese restaurant that serves traditional Lebanese cuisine.
+The Botanist,123,30,Modern British restaurant that serves seasonal dishes.
+Ben's Chili Bowl,124,5,A D.C. institution since 1958 serving up half-smokes chili dogs and milkshakes.
+The Old Ebbitt Grill,124,25,A historic Georgetown restaurant with a lively bar scene and a menu of classic American dishes.
+The Red Hen,124,30,A James Beard Award-winning Italian restaurant in Penn Quarter.
+Joe's Pizza,125,15,A New York City institution since 1975 serving up slices of classic New York-style pizza.
+Katz's Delicatessen,125,20,A New York City institution since 1888 serving up pastrami sandwiches corned beef and matzo ball soup.
+Peter Luger Steak House,125,60,A Brooklyn steakhouse that's been around since 1887.
+Lou Malnati's Pizzeria,126,20,A Chicago-style deep dish pizza chain with several locations throughout the city.
+Gino's East,126,20,Another Chicago-style deep dish pizza chain with several locations throughout the city.
+Pizzeria Uno,126,20,The original Chicago-style deep dish pizza restaurant founded in 1943.
+The Rusty Pelican,127,30,A seafood restaurant with several locations in South Florida.
+Joe's Stone Crab,127,50,A Miami Beach institution since 1913 known for its stone crabs.
+The Cheesecake Factory,127,25,A chain restaurant with a wide variety of American dishes including pasta seafood and steak.
+The Varsity,128,6,Classic Atlanta hot dog joint
+Antico Pizza Napoletana,128,15,Authentic Neapolitan pizza
+The Flying Biscuit Cafe,128,10,Southern comfort food
+Tei-An,129,20,Japanese omakase
+Meso Maya,129,15,Modern Mexican cuisine
+Nick & Sam's Steakhouse,129,50,Upscale steakhouse
+Reading Terminal Market,130,10,Historic food hall with a variety of vendors
+Jim's Steaks,130,7,Famous cheesesteaks
+Pat's King of Steaks,130,7,Another famous cheesesteaks
+Legal Sea Foods,131,25,High-end seafood restaurant
+Davio's,131,40,Upscale Italian restaurant
+Top of the Hub,131,35,Fine dining restaurant with panoramic views of the city
+The Progress,132,50,Modern American cuisine with a focus on locally-sourced ingredients
+State Bird Provisions,132,35,Small plates restaurant with a focus on seasonal ingredients
+Zuni Cafe,132,30,Classic San Francisco restaurant serving California cuisine
+The Fish Market,133,30,Casual seafood restaurant with a large selection of fresh fish
+George's at the Cove,133,50,Fine dining seafood restaurant with stunning views of the Pacific Ocean
+The Oceanaire Seafood Room,133,40,Upscale seafood restaurant with a focus on fresh fish and shellfish
+San Pedro Square Market,134,20,Food hall with a variety of vendors serving a variety of cuisines
+Original Joe's,134,30,Italian restaurant that has been serving San Jose for over 100 years
+Armadillo Willy's,134,20,Tex-Mex restaurant with a lively atmosphere
+The Original Ninfa's on Navigation,135,30,Tex-Mex restaurant that is known for its fajitas
+Hugo's,135,40,Fine dining Tex-Mex restaurant with a focus on fresh ingredients
+Brennan's,135,50,New Orleans-inspired restaurant with a focus on classic Creole cuisine
+El Charro Cafe,136,15,Authentic Mexican food in a historic building.
+The Mission,136,18,California-style Mexican food with a large outdoor patio.
+Z'Tejas Southwestern Grill,136,20,Upscale Southwestern cuisine with a lively bar scene.
+Buddy's Pizza,137,15,Detroit-style pizza with a thick crust and generous toppings.
+Loui's Pizza House,137,12,Authentic Detroit-style pizza in a casual setting.
+Green Dot Stables,137,10,Fast-casual Detroit-style pizza with a variety of toppings.
+Elway's,138,30,Steakhouse with a celebrity chef and a lively bar scene.
+The Kitchen,138,25,Modern American cuisine with a focus on locally-sourced ingredients.
+Lola,138,20,Spanish tapas and small plates in a lively atmosphere.
+Fonda San Miguel,139,25,Upscale Mexican restaurant with a focus on traditional dishes
+Biga on the Banks,139,20,Italian restaurant with a riverfront view
+The Original Mexican Restaurant,139,15,Casual Mexican restaurant with a wide variety of dishes
+Ivar's Acres of Clams,140,20,Clam chowder and seafood restaurant with a waterfront location
+The Crab Pot,140,25,Seafood restaurant with a variety of seafood dishes
+Canlis,140,50,Fine dining restaurant with a tasting menu
+The Southern Steak & Oyster,141,30,Steakhouse with a focus on Southern cuisine
+Arnold's Country Kitchen,141,15,Casual Southern restaurant with a focus on comfort food
+The Palm,141,35,Steakhouse with a focus on classic American cuisine
+Chashlik House,142,10,Uzbek restaurant serving grilled meats plov and other traditional dishes.
+Laziz Usta,142,15,Restaurant serving traditional Uzbek cuisine in a modern setting.
+Shahriston,142,20,Upscale restaurant serving traditional Uzbek cuisine in a historic setting.
+Pho 24,143,5,Chain restaurant serving Vietnamese pho noodle soup.
+Bun Cha Huong Lien,143,10,Casual restaurant serving Vietnamese grilled pork and noodle dishes.
+Bun Bo Hue An Nam,143,15,Restaurant serving Vietnamese beef noodle soup from Hue.
+Quan An Ngon,144,5,Casual restaurant serving Vietnamese street food.
+Pho Thin,144,10,Restaurant serving Vietnamese pho noodle soup.
+Bun Cha Huong Que,144,15,Restaurant serving Vietnamese grilled pork and noodle dishes.
+O Thanasis,145,10,Traditional Greek taverna serving grilled meats seafood and meze dishes.
+Manos,145,15,Upscale Greek restaurant serving modern takes on traditional dishes.
+Strofi,145,20,Fine-dining Greek restaurant with a focus on seafood.
+The Counter,146,15,Build-your-own burger chain with a wide variety of toppings and sauces.
+Umami Burger,146,20,Modern Japanese-inspired burger joint with a focus on umami flavor.
+In-N-Out Burger,146,10,California-based fast food chain known for its fresh made-to-order burgers.
+The Flying Goat,147,15,Cozy coffee shop and restaurant with a focus on local organic ingredients.
+The Yards Bruncheon,147,20,Farm-to-table restaurant with a seasonal menu and a large outdoor patio.
+Dough Zone,147,15,Dumpling house serving up a variety of traditional and creative dumplings.
