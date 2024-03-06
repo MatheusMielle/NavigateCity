@@ -1,5 +1,5 @@
-/* Developed by: Matheus Mielle Silva and Bereket Lemma
-May 19th, 2023 */
+<!-- Developed by: Matheus Mielle Silva and Bereket Lemma
+May 19th, 2023 -->
 
 <!DOCTYPE html>
 <html>
@@ -160,7 +160,7 @@ May 19th, 2023 */
       informationForEachBox += ",";
       informationForEachBox += document.getElementById("parks-searchBox").querySelector("input").value || "null";
 
-      var url = "http://localhost:5000/filter/" + orderOfTheBox + "/" + informationForEachBox;
+      var url = "filter/" + orderOfTheBox + "/" + informationForEachBox;
       window.location.href = url;
     }
 

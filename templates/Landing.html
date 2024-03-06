@@ -1,25 +1,25 @@
-/* Developed by: Matheus Mielle Silva and Bereket Lemma
-May 19th, 2023 */
+<!-- Developed by: Matheus Mielle Silva and Bereket Lemma
+May 19th, 2023 -->
 
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <title>Navigate City</title>
-  <link rel="stylesheet" href="LandingPage.css">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='LandingPage.css') }}">
 </head>
 <body>
   <section class="showcase">
     <header>
       <h2 class="logo">Navigate City</h2>
-      <button class="toggle" onclick="window.location.href='website.html'"></button>
+        <button class="toggle" onclick="window.location.href='chat'">Chat</button>
     </header>
-    <video src="IMG_VID/pexels-taryn-elliott-3015510-1920x1080-24fps.mp4" muted loop autoplay></video>
+    <video src= "{{ url_for('static', filename='demo.mp4') }}" muted loop autoplay></video>
     <div class="overlay"></div>
     <div class="text">
       <h2>Ready for an adventure?</h2>
       <p>Welcome to NavigateCity, where adventure awaits. With stunning architecture, mouth-watering cuisine, and endless opportunities for exploration. So why wait? Come see for yourself and let the adventure begin!</p>
-      <a href="http://localhost:5000/suggestion">Explore</a>
+      <a href="suggestion">Explore</a>
     </div>
     <ul class="social">
       <li><a href="#"><img src="https://i.ibb.co/x7P24fL/facebook.png"></a></li>

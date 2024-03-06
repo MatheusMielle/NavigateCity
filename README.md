@@ -20,7 +20,7 @@ Once you have these prerequisites installed, follow these steps:
 3. Open the terminal and run the following commands:
    - `pip install flask`
    - `pip install pymysql`
-   - `pip install openai`
+   - `pip install openai or ` 
    - `python ./createdatabase/create.py` (to set up the database)
    - `python ./app.py` (to start the server on localhost)
 

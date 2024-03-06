@@ -6,7 +6,8 @@
 # This program will stablish a connection with the database, execute queries and interact with the html using Flask
 
 from flask import Flask, render_template, request
-from chatbot import get_sql
+#from chatbot import get_sql
+from bard import get_sql
 import pymysql
 import json
 
@@ -27,7 +28,13 @@ data = json.load(secrets)
 db = pymysql.connect(host=data['mysql']['host'], user=data['mysql']['user'], password=data['mysql']['password'], database='NavigateCity')
 
 #Start Flask
-app = Flask(__name__, static_folder='./static')
+app = Flask(__name__, static_folder='./static', )
+
+
+@app.route('/')
+def home():
+    return render_template('Landing.html')
+
 
 #Suggestive search box  
 @app.route('/suggestion')
@@ -75,6 +82,11 @@ def result(index):
     # Ref.:https://stackoverflow.com/questions/33396064/flask-template-not-found
     return render_template('results.html', results=dict_results) 
 
+
+@app.route('/chat')
+def chat():
+    return render_template('website.html')
+
 @app.route('/search')
 def search():
 
@@ -87,6 +99,11 @@ def search():
 
     #Verify if the SQL is valid, it is only going to select some data
     words = sql.split()
+    if words[0] == '```sql':
+        del words[0]
+        sql = sql[7:]
+    if words[len(words)-1] == "```":
+        sql = sql[:-3]
     if words[0] != "SELECT":
        #in some cases a dot is being inserted in the beginning of the sql. this will eliminate it
        if words[1] != "SELECT":
@@ -132,4 +149,4 @@ def search():
 
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0',port=80)
