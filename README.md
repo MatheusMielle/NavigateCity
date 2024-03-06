@@ -10,7 +10,7 @@ To access the website, you need the following:
 
 1. MySQL server running either locally (localhost) or hosted by a hosting provider.
 2. Python 3 installed on your machine.
-4. An OpenAI API key (if you want to use the AI feature).
+3. An OpenAI API key (if you want to use the AI feature).
 
 Once you have these prerequisites installed, follow these steps:
 
