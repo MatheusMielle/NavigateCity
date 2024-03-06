@@ -10,21 +10,23 @@ To access the website, you need the following:
 
 1. MySQL server running either locally (localhost) or hosted by a hosting provider.
 2. Python 3 installed on your machine.
-3. An IDE such as VScode.
 4. An OpenAI API key (if you want to use the AI feature).
 
 Once you have these prerequisites installed, follow these steps:
 
-1. Open the project folder in the IDE and access the file `secrets.json` in the data folder.
+1. Open the project folder access the file `secrets.json` in the data folder.
 2. Add the necessary information regarding your database and API key.
+   - If API key used uncomment line 9 or 10 from app.py to reflect the right api used
+     - For OpenAI uncomment chatbot and comment bard out
+     - For Bard/Gemini uncomment bard and comment chatbot out
 3. Open the terminal and run the following commands:
    - `pip install flask`
    - `pip install pymysql`
-   - `pip install openai or ` 
+   - `pip install openai or pip install bardapi` (for ai features)
    - `python ./createdatabase/create.py` (to set up the database)
    - `python ./app.py` (to start the server on localhost)
 
-After completing these steps, the website should be up and running on localhost. To access the website, open the file `Landing.html`.
+After completing these steps, the website should be up and running on localhost. To access the website, open a web browser and type http://localhost.
 
 The website consists of two pages:
 
