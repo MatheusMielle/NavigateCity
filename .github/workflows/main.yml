@@ -31,3 +31,16 @@ jobs:
           push: true
           tags: ghcr.io/matheusmielle/navigatecity:latest
           platforms: linux/arm/v7,linux/amd64
+          
+  notify-production:
+    needs: build-and-push
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify production repo
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.PRODUCTION_REPO_TOKEN }}
+          repository: MatheusMielle/site_prod
+          event-type: navigatecity-updated
+          client-payload: '{"project": "navigatecity", "tag": "latest"}'
+
