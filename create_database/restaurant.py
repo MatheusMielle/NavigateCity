@@ -14,10 +14,11 @@ def create_restaurant():
     sql += "FOREIGN KEY (City_ID) REFERENCES City(City_ID)"
     sql += ");"
 
-    return sql
+    return sql.lower()
 
 def insert_restaurant():
     sql = "INSERT INTO Restaurant(Rest_name, City_ID, Avg_Price_USD, Description) VALUES "
+    sql = sql.lower()
 
     file = csv.reader(open("./data/Restaurants.csv", 'r', encoding='utf-8'))
     for row in file:

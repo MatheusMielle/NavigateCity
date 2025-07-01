@@ -62,7 +62,7 @@ def places():
         # City Query
         place_count = 0
         for sql in city_sql:
-            query = query_name.format(places[place_count], row[0]) + sql.format(row[0]) + "\n"
+            query = query_name.format(places[place_count], row[0]) + (sql.format(row[0]) + "\n").lower()
             write_to_file(query)
             place_count += 1
 
@@ -71,7 +71,7 @@ def places():
         if row[1] not in countries:
             countries.append(row[1])
             for sql in country_sql:
-                query = query_name.format(places[place_count], row[1]) + sql.format(row[1]) + "\n"
+                query = query_name.format(places[place_count], row[1]) + (sql.format(row[1]) + "\n").lower()
                 write_to_file(query)
                 place_count += 1
 
@@ -80,7 +80,7 @@ def places():
         if row[2] not in continents:
             continents.append(row[2])
             for sql in continent_sql:
-                query = query_name.format(places[place_count], row[2]) + sql.format(row[2]) + "\n"
+                query = query_name.format(places[place_count], row[2]) + (sql.format(row[2]) + "\n").lower()
                 write_to_file(query)
                 place_count += 1
     
@@ -94,12 +94,12 @@ def cities_in_country():
     for row in file:
         if row[1] not in countries:
             countries.append(row[1])
-            query = (query_name.format(row[1]) + '|' + sql.format(row[1], row[1]) + '\n')
+            query = (query_name.format(row[1]) + '|' + (sql.format(row[1], row[1]) + '\n')).lower()
             write_to_file(query)
 
         if row[2] not in continents:
             continents.append(row[2])
-            query = (query_name.format(row[2]) + '|' + sql.format(row[2], row[2]) + '\n')
+            query = (query_name.format(row[2]) + '|' + (sql.format(row[2], row[2]) + '\n')).lower()
             write_to_file(query)
 
 def food():

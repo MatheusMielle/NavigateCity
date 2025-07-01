@@ -15,10 +15,11 @@ def create_museum():
     sql += "FOREIGN KEY (City_ID) REFERENCES City(City_ID)"
     sql += ");"
 
-    return sql
+    return sql.lower()
 
 def insert_museum():
     sql = "INSERT INTO Museum (Museum_name, City_ID, Type, Description) VALUES "
+    sql = sql.lower()
 
     #Ref.:https://stackoverflow.com/questions/49562499/how-to-fix-unicodedecodeerror-charmap-codec-cant-decode-byte-0x9d-in-posit 
     file = csv.reader(open("./data/Museums.csv", 'r', encoding='utf-8'))

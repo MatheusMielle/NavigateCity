@@ -11,10 +11,11 @@ def create_city():
     sql += "Continent VARCHAR(20) NOT NULL"
     sql += ");"
 
-    return sql
+    return sql.lower()
 
 def insert_city():
     sql = "INSERT INTO City (City_name, Country, Continent) VALUES "
+    sql = sql.lower()
 
     file = open("./data/Cities.csv", "r") #open data file 
 

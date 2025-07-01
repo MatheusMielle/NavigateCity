@@ -10,55 +10,61 @@
 # This programs gets the sql in string format and executes it
 
 import pymysql
-import json
-from city import create_city,insert_city
-from food import create_food,insert_food
-from restaurant import create_restaurant,insert_restaurant
-from museum import create_museum,insert_museum
-from sightseen import create_sightseen,insert_sightseen
-from park import create_park,insert_park
+from create_database.city import create_city,insert_city
+from create_database.food import create_food,insert_food
+from create_database.restaurant import create_restaurant,insert_restaurant
+from create_database.museum import create_museum,insert_museum
+from create_database.sightseen import create_sightseen,insert_sightseen
+from create_database.park import create_park,insert_park
+import os
+
+def create_database():
+    host=os.getenv('MYSQL_HOST', 'localhost')
+    user=os.getenv('MYSQL_USERNAME', 'root')
+    password=os.getenv('MYSQL_PASSWORD', '')
+    database=os.getenv('MYSQL_DATABASE', 'NavigateCity')
+    #port = int(os.getenv('MYSQL_PORT', 3306))
+
+    #print check:
+    print(f"Connecting to MySQL at {host} with user {user} and database {database}")
 
 
-# Load the JSON data from the file
-secrets = open('data/secrets.json', 'r')
-data = json.load(secrets)
+    #Start a connection
+    db = pymysql.connect(host=host, user=user, password=password)
 
-#Start a connection
-db = pymysql.connect(host=data['mysql']['host'], user=data['mysql']['user'], password=data['mysql']['password'])
+    #Create the database
+    crsc = db.cursor()
 
-#Create the database
-crsc = db.cursor()
+    #Drop the database if already exists
+    #Ref: https://stackoverflow.com/questions/25026244/how-to-get-the-mysql-type-of-error-with-pymysql
+    try:
+        crsc.execute(f"DROP DATABASE {database};")
+    except pymysql.err.DatabaseError:
+        pass
 
-#Drop the database if already exists
-#Ref: https://stackoverflow.com/questions/25026244/how-to-get-the-mysql-type-of-error-with-pymysql
-try:
-    crsc.execute("DROP DATABASE NavigateCity;")
-except pymysql.err.DatabaseError:
-    pass
+    #Create Datatbase
+    crsc.execute(f"CREATE DATABASE {database};")
 
-#Create Datatbase
-crsc.execute("CREATE DATABASE NavigateCity;")
+    #Access the database
+    crsc.execute(f"USE {database};")
 
-#Access the database
-crsc.execute("USE navigatecity;")
+    #Create tables
+    crsc.execute(create_city())
+    crsc.execute(create_restaurant())
+    crsc.execute(create_food())
+    crsc.execute(create_museum())
+    crsc.execute(create_sightseen())
+    crsc.execute(create_park())
 
-#Create tables
-crsc.execute(create_city())
-crsc.execute(create_restaurant())
-crsc.execute(create_food())
-crsc.execute(create_museum())
-crsc.execute(create_sightseen())
-crsc.execute(create_park())
+    #Insert data to the tables
+    crsc.execute(insert_city())
+    crsc.execute(insert_museum())
+    crsc.execute(insert_sightseen())
+    crsc.execute(insert_park())
+    crsc.execute(insert_restaurant())
+    crsc.execute(insert_food())
 
-#Insert data to the tables
-crsc.execute(insert_city())
-crsc.execute(insert_museum())
-crsc.execute(insert_sightseen())
-crsc.execute(insert_park())
-crsc.execute(insert_restaurant())
-crsc.execute(insert_food())
-
-#Save any changes to the database
-db.commit()
+    #Save any changes to the database
+    db.commit()
 
 

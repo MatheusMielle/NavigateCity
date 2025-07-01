@@ -14,10 +14,11 @@ def create_park():
     sql += "FOREIGN KEY (City_ID) REFERENCES City(City_ID)"
     sql += ");"
 
-    return sql
+    return sql.lower()
 
 def insert_park():
     sql = "INSERT INTO Park(Park_name, City_ID, Type, Description) VALUES "
+    sql = sql.lower()
 
     file = csv.reader(open("./data/Parks.csv", 'r', encoding='utf-8'))
     for row in file:
