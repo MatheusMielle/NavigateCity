@@ -29,5 +29,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/MatheusMielle/navigatecity:latest
+          tags: ghcr.io/matheusmielle/navigatecity:latest
           platforms: linux/arm/v7,linux/amd64
