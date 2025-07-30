@@ -1,0 +1,47 @@
+name: Build & Publish Docker Image
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up QEMU for multi-arch build
+        uses: docker/setup-qemu-action@v2
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v2
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push multi-arch image
+        uses: docker/build-push-action@v4
+        with:
+          context: .
+          push: true
+          tags: ghcr.io/matheusmielle/navigatecity:latest
+          platforms: linux/arm/v7,linux/amd64
+          
+  notify-production:
+    needs: build-and-push
+    runs-on: ubuntu-latest
+    environment: PRODUCTION_REPO_TOKEN   # <-- add this line
+    steps:
+      - name: Notify production repo
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.PRODUCTION_REPO_TOKEN }}
+          repository: MatheusMielle/site_prod
+          event-type: navigatecity-updated
+          client-payload: '{"project": "navigatecity", "tag": "latest"}'
+
