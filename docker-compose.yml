@@ -5,7 +5,7 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "3000:80"
+      - "3001:3001"
     restart: always
     env_file:
       - ./variables.txt
