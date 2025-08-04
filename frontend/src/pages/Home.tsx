@@ -1,5 +1,6 @@
 import "../styles/Home.css"; // Importing the external CSS file
 import Header from "../components/Header"; // Importing the Header component
+import { Link } from "react-router-dom"; // Importing Link for navigation
 
 const Home = () => {
   return (
@@ -7,7 +8,7 @@ const Home = () => {
       {/* Background Video */}
       <video
         className="home-video"
-        src="demo.mp4"
+        src="/navigatecity/demo.mp4"
         muted
         loop
         autoPlay
@@ -26,14 +27,13 @@ const Home = () => {
         <p className="lead">
           Welcome to NavigateCity, where adventure awaits. With stunning
           architecture, mouth-watering cuisine, and endless opportunities for
-          exploration. 
+          exploration.
           <br />
-          So why wait? Come see for yourself and let the adventure
-          begin!
+          So why wait? Come see for yourself and let the adventure begin!
         </p>
-        <a href="/explore" className="btn btn-primary btn-lg">
+        <Link to="/explore" className="btn btn-primary btn-lg">
           Explore
-        </a>
+        </Link>
 
         {/* Social / Navigation Links */}
         <ul className="social-icons list-inline mt-4">

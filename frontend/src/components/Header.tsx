@@ -1,5 +1,6 @@
 import '../styles/Header.css'; // Importing the external CSS file for Header styles
 import { useLocation, useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom'; // Importing Link for navigation
 
 const Header = () => {
   const location = useLocation();
@@ -13,7 +14,7 @@ const Header = () => {
 
   return (
     <header className="home-header container">
-      <a href="/"><h2 className="logo">Navigate City</h2></a>
+      <Link to="/"><h2 className="logo">Navigate City</h2></Link>
       {!isHomePage && (
         <div className="nav-buttons">
           <button onClick={handleBackClick} className="nav-button back-button">
