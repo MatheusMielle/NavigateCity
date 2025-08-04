@@ -30,11 +30,11 @@ const Sight: React.FC<SightProps> = ({ location, name, category }) => {
       let response: Response;
       if (location == "all" && name == "the World") {
         response = await fetch(
-          ` /api/get-random/${category}`
+          `/navigatecity/api/get-random/${category}`
         );
       } else {
         response = await fetch(
-          `/api/get-result/${location}/${name}/${category}`
+          `/navigatecity/api/get-result/${location}/${name}/${category}`
         );
       }
       if (!response.ok) {
