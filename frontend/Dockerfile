@@ -7,6 +7,8 @@ RUN npm install
 
 COPY . .
 
+RUN npm rebuild
+
 # Build the React app
 RUN npm run build
 
