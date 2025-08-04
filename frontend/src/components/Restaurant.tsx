@@ -31,11 +31,11 @@ const Restaurant: React.FC<RestaurantProps> = ({ location, name, category }) => 
       let response: Response;
       if (location == "all" && name == "the World") {
         response = await fetch(
-          `http://localhost:5001/api/get-random/${category}`
+          `/api/get-random/${category}`
         );
       } else {
         response = await fetch(
-          `http://localhost:5001/api/get-result/${location}/${name}/${category}`
+          `/api/get-result/${location}/${name}/${category}`
         );
       }
       if (!response.ok) {

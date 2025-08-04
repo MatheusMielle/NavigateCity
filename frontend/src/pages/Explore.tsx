@@ -38,7 +38,7 @@ const Explore = () => {
   useEffect(() => {
     const fetchPlaceData = async () => {
       try {
-        const res = await fetch("http://localhost:5001/api/get-places");
+        const res = await fetch("/api/get-places");
         const data: PlaceData = await res.json();
         setPlaceData(data);
       } catch (err) {

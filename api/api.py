@@ -35,7 +35,7 @@ except:
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
 
-@app.route('/api/get-places', methods=['GET'])
+@app.route('/get-places', methods=['GET'])
 def get_places():
     try:
         with db.cursor() as cursor:
@@ -54,7 +54,7 @@ def get_places():
         return jsonify({"error": "Failed to fetch places"}), 500
 
 
-@app.route('/api/get-result/<location>/<name>/<category>', methods=['GET'])
+@app.route('/get-result/<location>/<name>/<category>', methods=['GET'])
 def get_result(location, name, category):
     try:
         # Validate user input strictly against allowed values
@@ -87,7 +87,7 @@ def get_result(location, name, category):
         print("Error fetching result:", e)
         return jsonify({"error": "Failed to fetch result"}), 500
 
-@app.route('/api/get-random/<category>', methods=['GET'])
+@app.route('/get-random/<category>', methods=['GET'])
 def get_random(category):
     try:
         if category not in VALID_CATEGORIES:
