@@ -13,6 +13,6 @@ RUN npm run build
 # Install serve to serve static files
 RUN npm install -g serve
 
-EXPOSE 3000
+EXPOSE 3001
 
 CMD ["serve", "-s", "build", "-l", "3001"]
