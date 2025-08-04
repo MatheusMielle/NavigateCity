@@ -1,0 +1,571 @@
+/* ================================
+   MAIN LAYOUT & BACKGROUND
+   ================================ */
+
+.explore-section {
+  min-height: 100vh;
+  position: relative;
+  color: white;
+  padding: 2rem 0;
+}
+
+.explore-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #408acb 0%, #0c75bc 100%);
+  z-index: -1;
+}
+
+.explore-content {
+  padding-top: 2rem;
+  z-index: 1;
+  position: relative;
+}
+
+/* ================================
+   HERO SECTION
+   ================================ */
+
+.explore-hero {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.explore-title {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.explore-subtitle {
+  font-size: 1.25rem;
+  opacity: 0.9;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+/* ================================
+   SEARCH SECTION
+   ================================ */
+
+.explore-search {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  padding: 3rem;
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  margin-bottom: 4rem;
+  position: relative;
+  overflow: visible;
+  z-index: 1;
+}
+
+.explore-search h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  color: white;
+}
+
+.search-form .btn-primary {
+  background: #ffd700;
+  border: none;
+  color: #333;
+  font-weight: bold;
+  padding: 0.75rem 2rem;
+  border-radius: 10px;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+.search-form .btn-primary:hover {
+  background: #ffd700;
+  color: #333;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(255, 215, 0, 0.3);
+}
+
+/* ================================
+   CATEGORIES SECTION
+   ================================ */
+
+.explore-categories {
+  margin-bottom: 2rem;
+}
+
+.category-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+  padding: 2rem;
+  text-align: center;
+  height: 100%;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.category-card:hover {
+  transform: translateY(-10px);
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+}
+
+.category-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #ffd700;
+}
+
+.category-card h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.category-card p {
+  font-size: 1rem;
+  opacity: 0.9;
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.category-btn {
+  background-color: transparent;
+  border: 2px solid white;
+  color: white;
+    padding: 0.75rem 1.5rem;
+  border-radius: 50px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.category-btn:hover {
+  background-color: white;
+  color: #667eea;
+  transform: scale(1.05);
+}
+
+/* ================================
+   REACT SELECT COMPONENTS
+   ================================ */
+
+/* Base Control Styling */
+.react-select__control {
+  background: rgba(15, 23, 42, 0.85) !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  border-radius: 10px !important;
+  font-size: 1.1rem;
+  color: white !important;
+  box-shadow: none !important;
+  min-height: 48px !important;
+  height: 48px !important;
+  text-align: center;
+  position: relative !important;
+}
+
+.react-select__control--is-focused {
+  background: rgba(15, 23, 42) !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.25) !important;
+}
+
+/* Value and Input Styling */
+.react-select__single-value {
+  color: white !important;
+  text-align: center;
+  opacity: 1 !important;
+}
+
+.react-select__input {
+  color: white !important;
+  opacity: 1 !important;
+}
+
+.react-select__input-container {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.react-select__value-container {
+  padding: 0.5rem 1rem !important;
+  text-align: center;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.react-select__placeholder {
+  color: rgba(255, 255, 255, 0.7) !important;
+  text-align: center;
+  margin: 0;
+}
+
+/* Dropdown Menu Styling */
+.react-select__menu {
+  background: rgb(15, 23, 42) !important;
+  backdrop-filter: blur(15px) !important;
+  border-radius: 10px !important;
+  color: white !important;
+  z-index: 9999 !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  position: absolute !important;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3) !important;
+}
+
+.react-select__menu-portal {
+  z-index: 9999 !important;
+}
+
+.react-select__menu-list {
+  z-index: 9999 !important;
+  /* Custom scrollbar styling for Firefox */
+  scrollbar-width: thin !important;
+  scrollbar-color: #408acb rgba(255, 255, 255, 0.1) !important;
+}
+
+/* Custom scrollbar for webkit browsers (Chrome, Safari, Edge) */
+.react-select__menu-list::-webkit-scrollbar {
+  width: 8px !important;
+}
+
+.react-select__menu-list::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.1) !important;
+  border-radius: 4px !important;
+}
+
+.react-select__menu-list::-webkit-scrollbar-thumb {
+  background: #408acb !important;
+  border-radius: 4px !important;
+  transition: background 0.2s ease !important;
+}
+
+.react-select__menu-list::-webkit-scrollbar-thumb:hover {
+  background: #0c75bc !important;
+}
+
+/* Fallback for older browsers */
+.react-select__menu-list {
+  overflow-y: auto !important;
+}
+
+.react-select__option {
+  background: transparent !important;
+  color: white !important;
+  cursor: pointer;
+  text-align: center;
+  padding: 0.75rem 1rem !important;
+  transition: all 0.2s ease !important;
+}
+
+.react-select__option--is-focused {
+  background: rgba(64, 138, 203, 0.4) !important;
+  color: white !important;
+}
+
+.react-select__option--is-selected {
+  background: rgba(64, 138, 203, 0.7) !important;
+  color: white !important;
+}
+
+.react-select__group-heading {
+  color: #ffd700 !important;
+  font-weight: bold;
+  padding: 0.5rem 1rem !important;
+  background: rgba(255, 215, 0, 0.1) !important;
+  text-transform: uppercase !important;
+  font-size: 0.75rem !important;
+  letter-spacing: 0.5px !important;
+}
+
+/* Indicators Styling */
+.react-select__indicator-separator {
+  display: none !important;
+}
+
+.react-select__dropdown-indicator,
+.react-select__clear-indicator {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.react-select__dropdown-indicator:hover,
+.react-select__clear-indicator:hover {
+  color: #ffd700 !important;
+}
+
+/* ================================
+   RESPONSIVE DESIGN
+   ================================ */
+
+/* Large Desktop (1200px and down) */
+@media (max-width: 1200px) {
+  .explore-content {
+    padding-top: 1.5rem;
+  }
+  
+  .explore-search {
+    padding: 2.5rem 2rem;
+  }
+  
+  .category-card {
+    padding: 1.8rem;
+  }
+  
+  .react-select__control {
+    font-size: 1rem !important;
+  }
+}
+
+/* Desktop/Tablet (992px and down) */
+@media (max-width: 992px) {
+  .explore-title {
+    font-size: 2.5rem;
+  }
+  
+  .explore-subtitle {
+    font-size: 1.2rem;
+  }
+  
+  .explore-search {
+    padding: 2rem 1.5rem;
+  }
+  
+  .category-card {
+    padding: 1.6rem;
+  }
+  
+  .category-icon {
+    font-size: 2.5rem;
+  }
+  
+  .react-select__control {
+    font-size: 0.95rem !important;
+    min-height: 44px !important;
+    height: 44px !important;
+  }
+}
+
+/* Tablet (768px and down) */
+@media (max-width: 768px) {
+  .explore-title {
+    font-size: 2rem;
+  }
+  
+  .explore-subtitle {
+    font-size: 1.1rem;
+  }
+  
+  .explore-hero {
+    margin-bottom: 2rem;
+  }
+  
+  .explore-search {
+    padding: 2rem 1rem;
+    margin-bottom: 3rem;
+  }
+  
+  .explore-search h2 {
+    font-size: 1.75rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .category-card {
+    margin-bottom: 1rem;
+    padding: 1.5rem;
+  }
+  
+  .category-icon {
+    font-size: 2.2rem;
+  }
+  
+  .category-card h3 {
+    font-size: 1.3rem;
+  }
+  
+  .react-select__control {
+    font-size: 0.9rem !important;
+    min-height: 42px !important;
+    height: 42px !important;
+  }
+  
+  .search-form .btn-primary {
+    padding: 0.65rem 1.75rem;
+    font-size: 0.95rem;
+  }
+}
+
+/* Mobile Large (576px and down) */
+@media (max-width: 576px) {
+  .explore-section {
+    padding: 1rem 0;
+  }
+  
+  .explore-content {
+    padding-top: 1rem;
+  }
+  
+  .explore-title {
+    font-size: 1.75rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .explore-subtitle {
+    font-size: 1rem;
+    padding: 0 1rem;
+  }
+  
+  .explore-hero {
+    margin-bottom: 1.5rem;
+  }
+  
+  .explore-search {
+    padding: 1.5rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: 15px;
+  }
+  
+  .explore-search h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1.25rem;
+  }
+  
+  .category-card {
+    padding: 1.5rem 1rem;
+    border-radius: 12px;
+  }
+  
+  .category-icon {
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .category-card h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .category-card p {
+    font-size: 0.9rem;
+    margin-bottom: 1.25rem;
+  }
+  
+  .category-btn {
+    padding: 0.6rem 1.25rem;
+    font-size: 0.9rem;
+  }
+  
+  .react-select__control {
+    font-size: 0.85rem !important;
+    min-height: 40px !important;
+    height: 40px !important;
+  }
+  
+  .search-form .btn-primary {
+    padding: 0.6rem 1.5rem;
+    font-size: 0.9rem;
+    width: 100%;
+    margin-top: 0.75rem;
+  }
+  
+  .search-form .row {
+    flex-direction: column;
+  }
+  
+  .search-form .col-md-4 {
+    width: 100%;
+    margin-bottom: 0.75rem;
+  }
+}
+
+/* Mobile Medium (480px and down) */
+@media (max-width: 480px) {
+  .explore-title {
+    font-size: 1.5rem;
+  }
+  
+  .explore-subtitle {
+    font-size: 0.95rem;
+  }
+  
+  .explore-search {
+    padding: 1.25rem 0.75rem;
+    margin: 0 0.5rem 1.5rem 0.5rem;
+  }
+  
+  .explore-search h2 {
+    font-size: 1.3rem;
+  }
+  
+  .category-card {
+    margin: 0 0.5rem 1rem 0.5rem;
+    padding: 1.25rem 0.75rem;
+  }
+  
+  .category-icon {
+    font-size: 1.8rem;
+  }
+  
+  .category-card h3 {
+    font-size: 1.1rem;
+  }
+  
+  .category-card p {
+    font-size: 0.85rem;
+  }
+  
+  .category-btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.85rem;
+  }
+  
+  .react-select__control {
+    font-size: 0.8rem !important;
+    min-height: 38px !important;
+    height: 38px !important;
+  }
+  
+  .search-form .btn-primary {
+    padding: 0.55rem 1.25rem;
+    font-size: 0.85rem;
+  }
+}
+
+/* Mobile Small (360px and down) */
+@media (max-width: 360px) {
+  .explore-title {
+    font-size: 1.3rem;
+  }
+  
+  .explore-search {
+    padding: 1rem 0.5rem;
+  }
+  
+  .explore-search h2 {
+    font-size: 1.2rem;
+  }
+  
+  .category-card {
+    padding: 1rem 0.5rem;
+  }
+  
+  .react-select__control {
+    font-size: 0.75rem !important;
+    min-height: 36px !important;
+    height: 36px !important;
+  }
+  
+  .search-form .btn-primary {
+    padding: 0.5rem 1rem;
+    font-size: 0.8rem;
+  }
+}

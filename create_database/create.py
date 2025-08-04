@@ -10,12 +10,12 @@
 # This programs gets the sql in string format and executes it
 
 import pymysql
-from create_database.city import create_city,insert_city
-from create_database.food import create_food,insert_food
-from create_database.restaurant import create_restaurant,insert_restaurant
-from create_database.museum import create_museum,insert_museum
-from create_database.sightseen import create_sightseen,insert_sightseen
-from create_database.park import create_park,insert_park
+from city import create_city,insert_city
+from food import create_food,insert_food
+from restaurant import create_restaurant,insert_restaurant
+from museum import create_museum,insert_museum
+from sightseen import create_sightseen,insert_sightseen
+from park import create_park,insert_park
 import os
 
 def create_database():
@@ -24,6 +24,14 @@ def create_database():
     password=os.getenv('MYSQL_PASSWORD', '')
     database=os.getenv('MYSQL_DATABASE', 'NavigateCity')
     #port = int(os.getenv('MYSQL_PORT', 3306))
+
+    # read from variables.txt:
+    with open('variables.txt', 'r') as f:
+        lines = f.readlines()
+        host = lines[0].strip().split('=')[1]
+        database = lines[1].strip().split('=')[1]
+        user = lines[2].strip().split('=')[1]
+        password = lines[3].strip().split('=')[1]
 
     #print check:
     print(f"Connecting to MySQL at {host} with user {user} and database {database}")
@@ -66,5 +74,7 @@ def create_database():
 
     #Save any changes to the database
     db.commit()
+
+create_database()
 
 

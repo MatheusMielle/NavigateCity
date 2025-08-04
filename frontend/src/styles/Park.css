@@ -1,0 +1,266 @@
+/* Park Component Styles */
+
+/* Main Container */
+.park-container {
+  padding: 2rem 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Header Section */
+.park-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.park-header-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.park-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.park-title i {
+  font-size: 2rem;
+  color: #064e17;
+}
+
+.park-count {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.8);
+  margin: 0;
+}
+
+.park-refresh-btn {
+  background: linear-gradient(135deg, #28a745, #20c997);
+  color: white;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 25px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.park-refresh-btn i {
+  font-size: 1rem;
+}
+
+/* Grid Layout */
+.park-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 2rem;
+}
+
+/* Card Styles */
+.park-card {
+  background: rgba(15, 23, 42, 0.9);
+  border-radius: 16px;
+  border-left: 4px solid #28a745;
+  padding: 1.5rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.park-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 30px rgba(40, 167, 69, 0.2);
+  background: rgba(15, 23, 42, 0.95);
+}
+
+/* Card Header */
+.park-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  gap: 1rem;
+}
+
+.park-name {
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: white;
+  margin: 0;
+  line-height: 1.3;
+  flex: 1;
+}
+
+.park-type {
+  background: linear-gradient(135deg, #28a745, #20c997);
+  color: rgb(25, 25, 25);
+  padding: 0.4rem 0.8rem;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* Location Info */
+.park-location {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.park-location i {
+  color: #28a745;
+  font-size: 1rem;
+}
+
+.park-location span {
+  color: white;
+  font-weight: 500;
+}
+
+.park-continent {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.9rem;
+  padding-left: 0.5rem;
+  border-left: 1px solid rgba(255, 255, 255, 0.3);
+  margin-left: 0.5rem;
+}
+
+/* Description */
+.park-description {
+  margin-bottom: 1.5rem;
+  border-left: 3px solid rgba(40, 167, 69, 0.3);
+  padding-left: 1rem;
+}
+
+.park-description p {
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.6;
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+/* Footer Buttons */
+.park-footer {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.park-btn {
+  padding: 0.6rem 1rem;
+  border-radius: 25px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.3s ease;
+  flex: 1;
+  justify-content: center;
+}
+
+.park-explore-btn {
+  background: linear-gradient(135deg, #28a745, #20c997);
+  color: rgb(25, 25, 25);
+}
+
+.park-explore-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(40, 167, 69, 0.3);
+}
+
+.park-map-btn {
+  background: linear-gradient(135deg, #198754, #157347);
+  color: white;
+}
+
+.park-map-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(25, 135, 84, 0.3);
+  color: white;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .park-container {
+    padding: 1rem 0.5rem;
+  }
+
+  .park-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .park-card {
+    padding: 1.25rem;
+  }
+
+  .park-title {
+    font-size: 2rem;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .park-header-actions {
+    gap: 0.75rem;
+  }
+
+  .park-refresh-btn {
+    font-size: 0.8rem;
+    padding: 0.5rem 1rem;
+  }
+
+  .park-card-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+
+  .park-type {
+    align-self: flex-start;
+  }
+
+  .park-location {
+    flex-wrap: wrap;
+  }
+
+  .park-continent {
+    padding-left: 0;
+    border-left: none;
+    margin-left: 0;
+  }
+
+  .park-footer {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 480px) {
+  .park-card {
+    padding: 1rem;
+  }
+
+  .park-title {
+    font-size: 1.75rem;
+  }
+
+  .park-name {
+    font-size: 1.2rem;
+  }
+}
+
+

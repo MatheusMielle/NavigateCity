@@ -1,11 +1,22 @@
-version: '3.8'
+version: "3.8"
+
 services:
-  web:
+  frontend:
     build:
-      context: .
-      dockerfile: Dockerfile
+      context: ./frontend
     ports:
       - "3001:3001"
     restart: always
     env_file:
-      - ./variables.txt
+      - variables.txt
+    depends_on:
+      - api
+
+  api:
+    build:
+      context: ./api
+    ports:
+      - "5001:5001"
+    restart: always
+    env_file:
+      - variables.txt

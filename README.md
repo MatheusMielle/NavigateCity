@@ -2,17 +2,19 @@
 
 NavigateCity.com is a web-based application designed to help people navigate through cities by providing them with information related to the places they want to visit. The application has a database that includes museums, restaurants, parks, and famous sights of different cities around the world. Users can search for a specific city and get information about that city. NavigateCity.com is a convenient and user-friendly tool that makes it easy for people to explore new cities and find the best places to visit.
 
-# Version 1.1.0 (In Development) - Last Updated: June 30th, 2025
+# Version 1.1.0 (Available) - Last Updated: August 3rd, 2025
 New Features and Improvements by Matheus Mielle Silva
 ## Features
 ### Implemented
 - **Docker Support**: The application now supports Docker, allowing users to run the application in a containerized environment.
+- **Web Hosting**: The application is now hosted on the web, making it accessible from https://mmielle.com/navigatecity.
+- **Improved UI with React**: The user interface has been revamped using React, providing a more modern and responsive design.
+- **New API Endpoints**: New API has been created to support the new React frontend.
 #### In Development
-- **Web Hosting**: The application is now hosted on the web, making it accessible from anywhere with an internet connection.
 - **AI Integration Improvements**: The AI feature has been improved to provide more accurate and relevant responses to user queries.
 
 
-# Version 1.0.0
+# Version 1.0.0 (Archived) - Last Updated: August 3rd, 2025
 ## How to Access
 
 Our plan for the future is to have the website hosted on the internet, making it necessary only to have an internet connection and a web browser to access it. As of now, the user needs a few things to be able to plan their next trip.

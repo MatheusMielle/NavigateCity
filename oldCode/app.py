@@ -5,13 +5,14 @@
 # This is the main structure of the website
 # This program will stablish a connection with the database, execute queries and interact with the html using Flask
 
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, jsonify
 #from chatbot import get_sql
 #from bard import get_sql
 import pymysql
 import json
 from create_database.create import create_database
 import os
+from flask_cors import CORS
 
 # Get Queries from queries.txt
 create_database()  # Create the database if it does not exist
@@ -33,6 +34,7 @@ db = pymysql.connect(host=host, user=user, password=password, database=database)
 
 #Start Flask
 app = Flask(__name__, static_folder='./static', )
+CORS(app)  # Enable CORS for all routes
 
 
 @app.route('/')
@@ -152,3 +154,5 @@ def chat():
 
 
 
+if __name__ == '__main__':
+    app.run(debug=True)
