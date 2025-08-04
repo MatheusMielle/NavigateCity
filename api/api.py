@@ -16,14 +16,6 @@ except:
     print("Environment variables not set.")
     pass
 
-# read from variables.txt:
-with open('variables.txt', 'r') as f:
-    lines = f.readlines()
-    host = lines[0].strip().split('=')[1]
-    database = lines[1].strip().split('=')[1]
-    user = lines[2].strip().split('=')[1]
-    password = lines[3].strip().split('=')[1]
-
 #Start a connection
 try:
     db = pymysql.connect(host=host, user=user, password=password, database=database)
