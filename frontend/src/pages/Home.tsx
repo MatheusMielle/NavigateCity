@@ -44,7 +44,7 @@ const Home = () => {
           </li>
           <li className="list-inline-item">
             <a
-              href="https://github.com/"
+              href="https://github.com/MatheusMielle/NavigateCity"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white fs-3"
@@ -54,7 +54,7 @@ const Home = () => {
           </li>
           <li className="list-inline-item">
             <a
-              href="https://linkedin.com/"
+              href="https://linkedin.com/in/mmielle"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white fs-3"

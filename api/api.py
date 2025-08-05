@@ -25,11 +25,14 @@ with open('variables.txt', 'r') as f:
     password = lines[3].strip().split('=')[1]
 
 #Start a connection
-try:
-    db = pymysql.connect(host=host, user=user, password=password, database=database)
-except:
-    print("Failed to connect to the database. Please check your connection settings.")
-    pass
+def get_db_connection():
+    try:
+        connection = pymysql.connect(host=host, user=user, password=password, database=database)
+        print("Database connection successful")
+        return connection
+    except Exception as e:
+        print("Error connecting to database:", e)
+        return None
 
 #Start Flask
 app = Flask(__name__)
@@ -38,6 +41,10 @@ CORS(app)  # Enable CORS for all routes
 @app.route('/api/get-places', methods=['GET'])
 def get_places():
     try:
+        db = get_db_connection()
+        if db is None:
+            return jsonify({"error": "Database connection failed"}), 500
+
         with db.cursor() as cursor:
             cursor.execute("SELECT DISTINCT city_name FROM city;")
             result = cursor.fetchall()
@@ -60,6 +67,10 @@ def get_result(location, name, category):
         # Validate user input strictly against allowed values
         if location not in VALID_LOCATIONS or category not in VALID_CATEGORIES:
             return jsonify({"error": "Invalid location or category"}), 400
+        
+        db = get_db_connection()
+        if db is None:
+            return jsonify({"error": "Database connection failed"}), 500
 
         with db.cursor() as cursor:
             if category == 'food':
