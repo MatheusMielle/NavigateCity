@@ -103,6 +103,10 @@ def get_random(category):
     try:
         if category not in VALID_CATEGORIES:
             return jsonify({"error": "Invalid category"}), 400
+        
+        db = get_db_connection()
+        if db is None:
+            return jsonify({"error": "Database connection failed"}), 500
 
         with db.cursor() as cursor:
             if category == 'food':
