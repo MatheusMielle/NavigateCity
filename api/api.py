@@ -55,6 +55,7 @@ def get_places():
             cursor.execute("SELECT DISTINCT continent FROM city;")
             result = cursor.fetchall()
             continents = [row[0] for row in result]
+            db.close()
             return jsonify({"cities": cities, "countries": countries, "continents": continents})
     except Exception as e:
         print("Error fetching places:", e)
@@ -92,6 +93,7 @@ def get_result(location, name, category):
             cursor.execute(query, (name,))
             result = cursor.fetchall()
             columns = [col[0] for col in cursor.description]
+            db.close()
             return jsonify([dict(zip(columns, row)) for row in result])
 
     except Exception as e:
@@ -120,6 +122,7 @@ def get_random(category):
                 return jsonify({"error": "No results found"}), 404
 
             columns = [col[0] for col in cursor.description]
+            db.close()
             return jsonify([dict(zip(columns, row)) for row in result])
 
     except Exception as e:
