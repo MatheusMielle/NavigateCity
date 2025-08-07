@@ -38,7 +38,7 @@ const Home = () => {
         {/* Social / Navigation Links */}
         <ul className="social-icons list-inline mt-4">
           <li className="list-inline-item">
-            <a href="https://mmielle.com" className="text-white fs-3">
+            <a href="/" className="text-white fs-3">
               <i className="bi bi-house-door-fill"></i>
             </a>
           </li>

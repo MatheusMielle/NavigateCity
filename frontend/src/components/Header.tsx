@@ -20,7 +20,7 @@ const Header = () => {
             <i className="bi bi-arrow-left"></i>
             Back
           </button>
-          <a href='https://mmielle.com' className="nav-button home-button">
+          <a href='/' className="nav-button home-button">
             <i className="bi bi-house"></i>
             Home
           </a>
