@@ -20,3 +20,13 @@ services:
     restart: always
     env_file:
       - variables.txt
+    networks:
+      mynet:
+        ipv4_address: 172.20.0.12
+
+networks:
+  mynet:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16
